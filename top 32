@@ -2296,7 +2296,491 @@ http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/53681
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/99138
 
 
-
+#EXTM3U
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| CNA FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9853
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY ATLANTIC FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9867
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY CINEMA SELECT FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9868
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY CINEMA THRILLER FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9872
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY CINEMA FAMILY FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9873
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| EUROSPORT 1 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9882
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| TNT SPORT ESPN FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9883
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| TNT SPORT 2 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9885
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| TNT SPORT 1 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9886
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY SPORTS MIX FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9887
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY SPORTS ARENA FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9888
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY SPORTS ACTION FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9889
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY SPORTS CRICKET FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9890
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY SPORTS NEWS FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9895
+#EXTINF:-1 group-title="Nagy-Britannia",||--- |UK| UK SPORT |UK| ----||
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4219
+#EXTINF:-1 group-title="Nagy-Britannia",|UK|| SKY SPORTS F1 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4258
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CRICKET HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4259
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS 5 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4260
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| AT THE RACES HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4170
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BEIN SPORTS 1 (ENGLISH) HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4156
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BOX NATION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4178
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BOX NATION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4177
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT 1 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4198
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4199
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT 2 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4195
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4196
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT 3 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4193
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT 3 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4194
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT ESPN FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4191
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT ESPN HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4192
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4225
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4224
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 3 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4223
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4222
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CHELSEA TV HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4184
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DUBAI RACING HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4169
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EIR SPORT 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4190
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EIR SPORT 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4189
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EUROSPORT 1 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4174
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EUROSPORT 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4175
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EUROSPORT 2 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4172
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EUROSPORT 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4173
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| LIVERPOOL FC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4186
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| LIVERPOOL FC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4185
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MOTORS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4179
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MUTV FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4187
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MUTV HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4188
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| PREMIER SPORTS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4182
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS RACING HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4171
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS ACTION FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4204
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS ACTION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4205
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS ARENA FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4202
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS ARENA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4203
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4206
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4207
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS F1 FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4180
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS F1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4181
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4211
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4212
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4209
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4210
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4215
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4216
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS MIX FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4200
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS MIX HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4201
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS NEWS FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4217
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4218
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4213
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY SPORTS PREMIER LEAGUE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4214
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FREE SPORTS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11036
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SONY MAX HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4160
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TSN 2 HD (3PM KICK OFFS) HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4151
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TSN 3 HD (3PM KICK OFFS) HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4150
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TSN 4 HD (3PM KICK OFFS) HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4149
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|FOX SPORTS 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4158
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|FOX SPORTS 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4159
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|FOX SPORTS 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4157
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|NBC GOLF HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4208
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|TSN 4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4154
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|SPORTSNET WORLD HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4153
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|TSN 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4152
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|TSN 5 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4148
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| USA|WWE NETWORK HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/4176
+#EXTINF:-1 group-title="Nagy-Britannia",||--- |UK| News |UK| ----||
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10875
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ALJAZEERA NEWS ENGLISH HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10879
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10883
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC WORLD NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10878
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BLOOMBERG HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10882
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CNN HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10877
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CNN HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11041
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EURONEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10881
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FRANCE 24 ENGLISH HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10880
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| NHK WORLD HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10876
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10884
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC WORLD NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11042
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ALJAZEERA NEWS ENGLISH HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11043
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FRANCE 24 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11044
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EURONEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11045
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BLOOMBERG US HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11046
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11047
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11048
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CNBC NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11009
+#EXTINF:-1 group-title="Nagy-Britannia",||--- |UK| Music |UK| ----||
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/10885
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| iCONCERTS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11302
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV CLASSIC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11258
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV LIVE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9699
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV ROCKS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9698
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV BASE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9696
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV DANCE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9697
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV HITS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9695
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV MUSIC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/9694
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MTV CLUB HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11011
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| VH1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11286
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC AKA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11291
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| 4 MUSIC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11293
+#EXTINF:-1 group-title="Nagy-Britannia",||--- |UK| UK KIDS |UK| ----||
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11065
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CARTOON NETWORK HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11057
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISNEY CHANNEL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11056
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISNEY JUNIOR HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11058
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CARTOONITO HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11012
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISNEY XD HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11055
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BABY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11054
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| NICK JR TOO HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11059
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| NICK JUNIOR HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11060
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| NICKELODEON HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11061
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| NICK TOONS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11062
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BOOMERANG HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11063
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TINY POP HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11051
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| POP MAX HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11052
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| RTE JUNIOR HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11053
+#EXTINF:-1 group-title="Nagy-Britannia",||--- |UK| UK Movies |UK| ----||
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11284
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA SELECT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11236
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA PREMIER HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11237
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA GREATS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11238
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA FAMILY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11239
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA DRAMA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11240
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA COMEDY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11241
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA ACTION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11242
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA SHOWCASE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11243
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA SCI-FI HORROR HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11244
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA THRILLER HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11285
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA DISNEY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11245
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DRAMA CHANNEL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11250
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA HITS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11259
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA HITS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/265012816
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CHANNEL HORROR HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11255
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SONY MOVIES ACTION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11007
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY CINEMA PREMIER HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11016
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MOVIES4MEN HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11254
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| MOVIES4MEN FHD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11249
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| AMC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11247
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CBS DRAMA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11252
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CBS ACTION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11253
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TCM HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11246
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FILM 4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11248
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| UNIVERSAL CHANNEL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11272
+#EXTINF:-1 group-title="Nagy-Britannia",||---|UK| Entertainment |UK|---||
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11221
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| COMEDY CENTRAL / VIVA UK HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11260
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| COMEDY CENTRAL EXTRA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11262
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| COMEDY CENTRAL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11261
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TRUE ENTERTAINMENT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11251
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CBEEBIES HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11064
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CBBC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11152
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ITV 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11178
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ITV+ 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11179
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ITV 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11180
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ITV 3 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ITV 4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ITV BE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11184
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| 4 SEVEN HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11185
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| 4 MORE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11186
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CHANNEL 4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11187
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CHANNEL 5 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11188
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| 5 USA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11189
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY ATLANTIC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11191
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CBS REALITY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11192
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY ARTS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11193
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11194
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11195
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| E4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11196
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| E! ENTERTAINMENT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11197
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY WITNESS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11198
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| GOLD HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11199
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| 5 SPIKE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11200
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| 5 STAR HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11201
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| 5 SELECT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11202
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC 1 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11222
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11223
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11224
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC 3 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11225
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC 4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11226
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC PARLIAMENT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11227
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC ALBA HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11228
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DAVE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11229
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ALIBI HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11230
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| LONDON LIVE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11231
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TLC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11232
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SYFY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11233
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| RTE ONE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11234
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| RTE TWO HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11235
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| VIRGIN TWO HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11263
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TG4 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11264
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| UTV IE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11265
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FOX HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11266
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| EDEN HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11267
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| VIRGIN ONE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11268
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| YESTERDAY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11269
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| VIRGIN THREE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11273
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| GOOD FOOD HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11274
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| LIFETIME HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11276
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| QUEST HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11277
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| PICK HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11278
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| REALLY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11279
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| HORSE  COUNTRY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11282
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| S4C HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11283
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| KISS TV HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11010
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BBC ENTERTAINMENT HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11014
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| SKY LIVING HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11019
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TENNIS CHANNEL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11033
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FINE LIVING HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11034
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FOX NEWS HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11035
+#EXTINF:-1 group-title="Nagy-Britannia",||--- |UK| Documentaries |UK| ----||
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11294
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| BLAZE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11067
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CHALLENGE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11068
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| TRAVEL CHANNEL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11069
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| ANIMAL PLANET HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11070
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DMAX HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11071
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISCOVERY SCIENCE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11072
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISCOVERY SHED HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11073
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISCOVERY TURBO HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11074
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISCOVERY HISTORY HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11075
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISCOVERY CHANNEL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11295
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISCOVERY HOME HEALTH HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11008
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CRIME INVESTIGATION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11296
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| DISCOVERY INVESTIGATION HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11297
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| NATIONAL GEOGRAPHIC HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11298
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| NATIONAL GEOGRAPHIC WILD HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11299
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| CHALLENGE HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11013
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| HISTORY CHANNEL HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11300
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| FOOD NETWORK HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11281
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| HOME HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11280
+#EXTINF:-1 group-title="Nagy-Britannia",|UK| HISTORY 2 HD
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11301
 
 
 
