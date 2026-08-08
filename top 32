@@ -2235,6 +2235,522 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19186/index.m3u8
  #EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia",ITV4 +1 UK
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19188/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| UK FULLHD |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| UK FULLHD |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/665016842
+#EXTINF:-1 tvg-ID="SkySpNews.uk" tvg-name="|UK|| SKY ONE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-icon-uk.png" group-title="Nagy-Britannia",|UK|| SKY ONE FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9853
+#EXTINF:-1 tvg-ID="SkyAtlantic.uk" tvg-name="|UK|| SKY ATLANTIC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-atlantic-icon-uk.png" group-title="Nagy-Britannia",|UK|| SKY ATLANTIC FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9867
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.uk" tvg-name="|UK|| SKY CINEMA SELECT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-hz-uk.png" group-title="Nagy-Britannia",|UK|| SKY CINEMA SELECT FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9868
+#EXTINF:-1 tvg-ID="SkyCinemaThriller.uk" tvg-name="|UK|| SKY CINEMA THRILLER FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png" group-title="Nagy-Britannia",|UK|| SKY CINEMA THRILLER FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9872
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.uk" tvg-name="|UK|| SKY CINEMA FAMILY FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-hz-uk.png" group-title="Nagy-Britannia",|UK|| SKY CINEMA FAMILY FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9873
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK|| EUROSPORT 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="Nagy-Britannia",|UK|| EUROSPORT 1 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9882
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK|| TNT SPORT ESPN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-espn-hz-uk.png" group-title="Nagy-Britannia",|UK|| TNT SPORT ESPN FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9883
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK|| TNT SPORT 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="Nagy-Britannia",|UK|| TNT SPORT 2 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9885
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK|| TNT SPORT 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="Nagy-Britannia",|UK|| TNT SPORT 1 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9886
+#EXTINF:-1 tvg-ID="SkySpMix.uk" tvg-name="|UK|| SKY SPORTS MIX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-mix-icon-uk.png" group-title="Nagy-Britannia",|UK|| SKY SPORTS MIX FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9887
+#EXTINF:-1 tvg-ID="SkySpArena.uk" tvg-name="|UK|| SKY SPORTS ARENA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-hz-uk.png" group-title="Nagy-Britannia",|UK|| SKY SPORTS ARENA FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9888
+#EXTINF:-1 tvg-ID="SkySpAction.uk" tvg-name="|UK|| SKY SPORTS ACTION FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-hz-uk.png" group-title="Nagy-Britannia",|UK|| SKY SPORTS ACTION FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9889
+#EXTINF:-1 tvg-ID="SkySpCricket.uk" tvg-name="|UK|| SKY SPORTS CRICKET FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="Nagy-Britannia",|UK|| SKY SPORTS CRICKET FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9890
+#EXTINF:-1 tvg-ID="SkySpNews.uk" tvg-name="|UK|| SKY SPORTS NEWS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png" group-title="Nagy-Britannia",|UK|| SKY SPORTS NEWS FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9895
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| UK SPORT |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| UK SPORT |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4219
+#EXTINF:-1 tvg-ID="SkySpF1.uk" tvg-name="|UK|| SKY SPORTS F1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-hz-uk.png" group-title="Nagy-Britannia",|UK|| SKY SPORTS F1 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4258
+#EXTINF:-1 tvg-ID="SkySpCricket.uk" tvg-name="|UK| SKY CRICKET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CRICKET HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4259
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| SKY SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS 5 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4260
+#EXTINF:-1 tvg-ID="AtTheRaces.uk" tvg-name="|UK| AT THE RACES HD" tvg-logo="http://109.238.11.8:25461/logo/tv/aa/at_the_races_uk.png" group-title="Nagy-Britannia",|UK| AT THE RACES HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4170
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| BEIN SPORTS 1 (ENGLISH) HD" tvg-logo="" group-title="Nagy-Britannia",|UK| BEIN SPORTS 1 (ENGLISH) HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4156
+#EXTINF:-1 tvg-ID="BoxNation.uk" tvg-name="|UK| BOX NATION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/box-nation-hz-uk.png" group-title="Nagy-Britannia",|UK| BOX NATION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4178
+#EXTINF:-1 tvg-ID="BoxNation.uk" tvg-name="|UK| BOX NATION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/box-nation-hz-uk.png" group-title="Nagy-Britannia",|UK| BOX NATION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4177
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT 1 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4198
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4199
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT 2 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4195
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4196
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT 3 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4193
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT 3 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4194
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT ESPN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-espn-hz-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT ESPN FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4191
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TNT SPORT ESPN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-espn-hz-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT ESPN HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4192
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TNT SPORT EXTRA 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-1-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4225
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TNT SPORT EXTRA 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-2-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4224
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TNT SPORT EXTRA 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-3-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 3 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4223
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TNT SPORT EXTRA 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bt-sport-4-uk.png" group-title="Nagy-Britannia",|UK| TNT SPORT EXTRA 4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4222
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| CHELSEA TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/chelsea-tv-uk.png" group-title="Nagy-Britannia",|UK| CHELSEA TV HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4184
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| DUBAI RACING HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-arab-emirates/dubai-racing-tv-ae.png" group-title="Nagy-Britannia",|UK| DUBAI RACING HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4169
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| EIR SPORT 1 HD" tvg-logo="data:image/jpeg;base64,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/lB4j/H6trA+yKeooh6aJjyJHgEgZhqNAd616/Nkx5/YmY6Qz0mKl8XtR5yklFh+khOaOCMO4Otdw7CdQoN9TlvG1rSlUwY6TvFYdJaG5jnp2SNLXta5p3hwDmnuK9raazvEvJrExtLlf/lKC9/V4+yxy+F7KR+sz7bc8tH6XD/5h1aenZG0Nja1jRuDQGtHcFHtabTvMt9axWNohrVmx6aZ2eWGN7rWu5jXOsNwuVspnyUjatphhbDS872iJbUEDY2hjGhrWizQBZoHIBa7Wm07yzisVjaGRePXKrMOUczi+SBhcd5AsT22tdSKarNSNq2nZptp8dp3msNyh2fDA3LDG1g5NAF+s81qvkved7TuzpjrSNqxs2VgzEBAQEBAQEBAQEBAQEBAQEBAQEEcxdht1cYi2QMyZt7S6+bLyI5Kbo9XGn36b7oup085tuu2zcwvsg0cHoi8POZzrgWGvC11r1Wfx8nPtsz0+Lwqcu7rqM3iAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg//Z" group-title="Nagy-Britannia",|UK| EIR SPORT 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4190
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| EIR SPORT 2 HD" tvg-logo="data:image/jpeg;base64,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/lB4j/H6trA+yKeooh6aJjyJHgEgZhqNAd616/Nkx5/YmY6Qz0mKl8XtR5yklFh+khOaOCMO4Otdw7CdQoN9TlvG1rSlUwY6TvFYdJaG5jnp2SNLXta5p3hwDmnuK9raazvEvJrExtLlf/lKC9/V4+yxy+F7KR+sz7bc8tH6XD/5h1aenZG0Nja1jRuDQGtHcFHtabTvMt9axWNohrVmx6aZ2eWGN7rWu5jXOsNwuVspnyUjatphhbDS872iJbUEDY2hjGhrWizQBZoHIBa7Wm07yzisVjaGRePXKrMOUczi+SBhcd5AsT22tdSKarNSNq2nZptp8dp3msNyh2fDA3LDG1g5NAF+s81qvkved7TuzpjrSNqxs2VgzEBAQEBAQEBAQEBAQEBAQEBAQEEcxdht1cYi2QMyZt7S6+bLyI5Kbo9XGn36b7oup085tuu2zcwvsg0cHoi8POZzrgWGvC11r1Wfx8nPtsz0+Lwqcu7rqM3iAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg//Z" group-title="Nagy-Britannia",|UK| EIR SPORT 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4189
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| EUROSPORT 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="Nagy-Britannia",|UK| EUROSPORT 1 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4174
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| EUROSPORT 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" group-title="Nagy-Britannia",|UK| EUROSPORT 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4175
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| EUROSPORT 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="Nagy-Britannia",|UK| EUROSPORT 2 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4172
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| EUROSPORT 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" group-title="Nagy-Britannia",|UK| EUROSPORT 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4173
+#EXTINF:-1 tvg-ID="LiverpoolFCTV.uk" tvg-name="|UK| LIVERPOOL FC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png" group-title="Nagy-Britannia",|UK| LIVERPOOL FC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4186
+#EXTINF:-1 tvg-ID="LiverpoolFCTV.uk" tvg-name="|UK| LIVERPOOL FC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png" group-title="Nagy-Britannia",|UK| LIVERPOOL FC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4185
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| MOTORS HD" tvg-logo="http://109.238.11.8:25461/logo/tv/vv/viasat_motor.png" group-title="Nagy-Britannia",|UK| MOTORS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4179
+#EXTINF:-1 tvg-ID="MUTV.uk" tvg-name="|UK| MUTV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="Nagy-Britannia",|UK| MUTV FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4187
+#EXTINF:-1 tvg-ID="MUTV.uk" tvg-name="|UK| MUTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" group-title="Nagy-Britannia",|UK| MUTV HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4188
+#EXTINF:-1 tvg-ID="PremierSports.uk" tvg-name="|UK| PREMIER SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="Nagy-Britannia",|UK| PREMIER SPORTS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4182
+#EXTINF:-1 tvg-ID="SkySpRacing.uk" tvg-name="|UK| SKY SPORTS RACING HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-racing-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS RACING HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4171
+#EXTINF:-1 tvg-ID="SkySpAction.uk" tvg-name="|UK| SKY SPORTS ACTION FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS ACTION FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4204
+#EXTINF:-1 tvg-ID="SkySpAction.uk" tvg-name="|UK| SKY SPORTS ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS ACTION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4205
+#EXTINF:-1 tvg-ID="SkySpArena.uk" tvg-name="|UK| SKY SPORTS ARENA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS ARENA FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4202
+#EXTINF:-1 tvg-ID="SkySpArena.uk" tvg-name="|UK| SKY SPORTS ARENA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS ARENA HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4203
+#EXTINF:-1 tvg-ID="SkySpCricket.uk" tvg-name="|UK| SKY SPORTS CRICKET FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4206
+#EXTINF:-1 tvg-ID="SkySpCricket.uk" tvg-name="|UK| SKY SPORTS CRICKET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS CRICKET HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4207
+#EXTINF:-1 tvg-ID="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4180
+#EXTINF:-1 tvg-ID="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS F1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4181
+#EXTINF:-1 tvg-ID="SkySpFball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4211
+#EXTINF:-1 tvg-ID="SkySpFball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS FOOTBALL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4212
+#EXTINF:-1 tvg-ID="SkySpGolf.uk" tvg-name="|UK| SKY SPORTS GOLF FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4209
+#EXTINF:-1 tvg-ID="SkySpGolf.uk" tvg-name="|UK| SKY SPORTS GOLF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS GOLF HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4210
+#EXTINF:-1 tvg-ID="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4215
+#EXTINF:-1 tvg-ID="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MAIN EVENT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4216
+#EXTINF:-1 tvg-ID="SkySpMix.uk" tvg-name="|UK| SKY SPORTS MIX FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MIX FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4200
+#EXTINF:-1 tvg-ID="SkySpMix.uk" tvg-name="|UK| SKY SPORTS MIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS MIX HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4201
+#EXTINF:-1 tvg-ID="SkySpNews.uk" tvg-name="|UK| SKY SPORTS NEWS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS NEWS FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4217
+#EXTINF:-1 tvg-ID="SkySpNews.uk" tvg-name="|UK| SKY SPORTS NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4218
+#EXTINF:-1 tvg-ID="PremierSports.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS PREMIER LEAGUE FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4213
+#EXTINF:-1 tvg-ID="SkyMix.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY SPORTS PREMIER LEAGUE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4214
+#EXTINF:-1 tvg-ID="SkySpNews.uk" tvg-name="|UK| FREE SPORTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/free-sports-uk.png" group-title="Nagy-Britannia",|UK| FREE SPORTS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11036
+#EXTINF:-1 tvg-ID="SONYSAB.uk" tvg-name="|UK| SONY MAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sony-max-uk.png" group-title="Nagy-Britannia",|UK| SONY MAX HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4160
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TSN 2 HD (3PM KICK OFFS) HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Nagy-Britannia",|UK| TSN 2 HD (3PM KICK OFFS) HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4151
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TSN 3 HD (3PM KICK OFFS) HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Nagy-Britannia",|UK| TSN 3 HD (3PM KICK OFFS) HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4150
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| TSN 4 HD (3PM KICK OFFS) HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Nagy-Britannia",|UK| TSN 4 HD (3PM KICK OFFS) HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4149
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| USA|FOX SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="Nagy-Britannia",|UK| USA|FOX SPORTS 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4158
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| USA|FOX SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="Nagy-Britannia",|UK| USA|FOX SPORTS 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4159
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| USA|FOX SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="Nagy-Britannia",|UK| USA|FOX SPORTS 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4157
+#EXTINF:-1 tvg-ID="SkySpGolf.uk" tvg-name="|UK| USA|NBC GOLF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png" group-title="Nagy-Britannia",|UK| USA|NBC GOLF HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4208
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| USA|TSN 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Nagy-Britannia",|UK| USA|TSN 4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4154
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| USA|SPORTSNET WORLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Nagy-Britannia",|UK| USA|SPORTSNET WORLD HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4153
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| USA|TSN 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Nagy-Britannia",|UK| USA|TSN 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4152
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| USA|TSN 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Nagy-Britannia",|UK| USA|TSN 5 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4148
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="|UK| USA|WWE NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/my-network-tv-us.png" group-title="Nagy-Britannia",|UK| USA|WWE NETWORK HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/4176
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| News |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| News |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10875
+#EXTINF:-1 tvg-ID="TVCNews.uk" tvg-name="|UK| ALJAZEERA NEWS ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="Nagy-Britannia",|UK| ALJAZEERA NEWS ENGLISH HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10879
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="Nagy-Britannia",|UK| BBC NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10883
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC WORLD NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-world-news-hz-uk.png" group-title="Nagy-Britannia",|UK| BBC WORLD NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10878
+#EXTINF:-1 tvg-ID="Boomerang.uk" tvg-name="|UK| BLOOMBERG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="Nagy-Britannia",|UK| BLOOMBERG HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10882
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="|UK| CNN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="Nagy-Britannia",|UK| CNN HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10877
+#EXTINF:-1 tvg-ID="GBNews.uk" tvg-name="|UK| CNN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="Nagy-Britannia",|UK| CNN HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11041
+#EXTINF:-1 tvg-ID="Euronews.fr" tvg-name="|UK| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="Nagy-Britannia",|UK| EURONEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10881
+#EXTINF:-1 tvg-ID="France24.fr" tvg-name="|UK| FRANCE 24 ENGLISH HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="Nagy-Britannia",|UK| FRANCE 24 ENGLISH HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10880
+#EXTINF:-1 tvg-ID="IdealWorld.uk" tvg-name="|UK| NHK WORLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/nhk-world-hd-int.png" group-title="Nagy-Britannia",|UK| NHK WORLD HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10876
+#EXTINF:-1 tvg-ID="SkySpNews.uk" tvg-name="|UK| SKY NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png" group-title="Nagy-Britannia",|UK| SKY NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10884
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC WORLD NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-world-news-hz-uk.png" group-title="Nagy-Britannia",|UK| BBC WORLD NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11042
+#EXTINF:-1 tvg-ID="Rewind.uk" tvg-name="|UK| ALJAZEERA NEWS ENGLISH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aljazeera-uk.png" group-title="Nagy-Britannia",|UK| ALJAZEERA NEWS ENGLISH HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11043
+#EXTINF:-1 tvg-ID="France24.fr" tvg-name="|UK| FRANCE 24 HD" tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="Nagy-Britannia",|UK| FRANCE 24 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11044
+#EXTINF:-1 tvg-ID="Euronews.fr" tvg-name="|UK| EURONEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/euronews-deutsch-de.png" group-title="Nagy-Britannia",|UK| EURONEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11045
+#EXTINF:-1 tvg-ID="Boomerang.uk" tvg-name="|UK| BLOOMBERG US HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="Nagy-Britannia",|UK| BLOOMBERG US HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11046
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-hz-uk.png" group-title="Nagy-Britannia",|UK| BBC NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11047
+#EXTINF:-1 tvg-ID="SkyLiving.uk" tvg-name="|UK| SKY NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-icon-uk.png" group-title="Nagy-Britannia",|UK| SKY NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11048
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="|UK| CNBC NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="Nagy-Britannia",|UK| CNBC NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11009
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| Music |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| Music |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/10885
+#EXTINF:-1 tvg-ID="StingrayiConcerts.fr" tvg-name="|UK| iCONCERTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/stingray-brava-fr.png" group-title="Nagy-Britannia",|UK| iCONCERTS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11302
+#EXTINF:-1 tvg-ID="MTVClassic.uk" tvg-name="|UK| MTV CLASSIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-classic-uk.png" group-title="Nagy-Britannia",|UK| MTV CLASSIC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11258
+#EXTINF:-1 tvg-ID="MTV.uk" tvg-name="|UK| MTV LIVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-live-es.png" group-title="Nagy-Britannia",|UK| MTV LIVE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9699
+#EXTINF:-1 tvg-ID="MTV.uk" tvg-name="|UK| MTV ROCKS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-rocks-uk.png" group-title="Nagy-Britannia",|UK| MTV ROCKS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9698
+#EXTINF:-1 tvg-ID="MTVBase.uk" tvg-name="|UK| MTV BASE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-base-uk.png" group-title="Nagy-Britannia",|UK| MTV BASE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9696
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="|UK| MTV DANCE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/netherlands/mtv-nl.png" group-title="Nagy-Britannia",|UK| MTV DANCE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9697
+#EXTINF:-1 tvg-ID="TrueCrimeX.uk" tvg-name="|UK| MTV HITS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-hits-uk.png" group-title="Nagy-Britannia",|UK| MTV HITS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9695
+#EXTINF:-1 tvg-ID="MTVMusic.uk" tvg-name="|UK| MTV MUSIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-music-plus-uk.png" group-title="Nagy-Britannia",|UK| MTV MUSIC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/9694
+#EXTINF:-1 tvg-ID="MTVtrax.uk" tvg-name="|UK| MTV CLUB HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-club-uk.png" group-title="Nagy-Britannia",|UK| MTV CLUB HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11011
+#EXTINF:-1 tvg-ID="MTV.uk" tvg-name="|UK| VH1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/vh1-uk.png" group-title="Nagy-Britannia",|UK| VH1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11286
+#EXTINF:-1 tvg-ID="BBCAlba.uk" tvg-name="|UK| BBC AKA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/aka-uk.png" group-title="Nagy-Britannia",|UK| BBC AKA HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11291
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="|UK| 4 MUSIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-music-uk.png" group-title="Nagy-Britannia",|UK| 4 MUSIC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11293
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| UK KIDS |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| UK KIDS |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11065
+#EXTINF:-1 tvg-ID="CartoonNetwork.uk" tvg-name="|UK| CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cartoon-network-plus-uk.png" group-title="Nagy-Britannia",|UK| CARTOON NETWORK HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11057
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="|UK| DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-channel-plus-uk.png" group-title="Nagy-Britannia",|UK| DISNEY CHANNEL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11056
+#EXTINF:-1 tvg-ID="DiscoveryTurbo.uk" tvg-name="|UK| DISNEY JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-jr-uk.png" group-title="Nagy-Britannia",|UK| DISNEY JUNIOR HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11058
+#EXTINF:-1 tvg-ID="Cartoonito.uk" tvg-name="|UK| CARTOONITO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cartoonito-uk.png" group-title="Nagy-Britannia",|UK| CARTOONITO HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11012
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="|UK| DISNEY XD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-xd-plus-uk.png" group-title="Nagy-Britannia",|UK| DISNEY XD HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11055
+#EXTINF:-1 tvg-ID="TrueCrimeX.uk" tvg-name="|UK| BABY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/baby-tv-uk.png" group-title="Nagy-Britannia",|UK| BABY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11054
+#EXTINF:-1 tvg-ID="NickJrPeppa.uk" tvg-name="|UK| NICK JR TOO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nick-jr-too-uk.png" group-title="Nagy-Britannia",|UK| NICK JR TOO HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11059
+#EXTINF:-1 tvg-ID="NickJunior.uk" tvg-name="|UK| NICK JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nick-jr-plus-uk.png" group-title="Nagy-Britannia",|UK| NICK JUNIOR HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11060
+#EXTINF:-1 tvg-ID="Nickelodeon.uk" tvg-name="|UK| NICKELODEON HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nickelodeon-plus-uk.png" group-title="Nagy-Britannia",|UK| NICKELODEON HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11061
+#EXTINF:-1 tvg-ID="Nicktoons.uk" tvg-name="|UK| NICK TOONS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nick-toons-uk.png" group-title="Nagy-Britannia",|UK| NICK TOONS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11062
+#EXTINF:-1 tvg-ID="Boomerang.uk" tvg-name="|UK| BOOMERANG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/boomerang-plus-uk.png" group-title="Nagy-Britannia",|UK| BOOMERANG HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11063
+#EXTINF:-1 tvg-ID="TinyPop.uk" tvg-name="|UK| TINY POP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tiny-pop-plus-uk.png" group-title="Nagy-Britannia",|UK| TINY POP HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11051
+#EXTINF:-1 tvg-ID="pop.uk" tvg-name="|UK| POP MAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pop-max-plus-uk.png" group-title="Nagy-Britannia",|UK| POP MAX HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11052
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RTE JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/RT%C3%89jr_logo.png" group-title="Nagy-Britannia",|UK| RTE JUNIOR HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11053
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| UK Movies |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| UK Movies |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11284
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| SKY CINEMA SELECT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA SELECT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11236
+#EXTINF:-1 tvg-ID="SkyCinemaPremiere.uk" tvg-name="|UK| SKY CINEMA PREMIER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA PREMIER HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11237
+#EXTINF:-1 tvg-ID="SkyCinemaGreat.uk" tvg-name="|UK| SKY CINEMA GREATS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA GREATS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11238
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.uk" tvg-name="|UK| SKY CINEMA FAMILY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA FAMILY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11239
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.uk" tvg-name="|UK| SKY CINEMA DRAMA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-drama-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA DRAMA HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11240
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.uk" tvg-name="|UK| SKY CINEMA COMEDY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA COMEDY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11241
+#EXTINF:-1 tvg-ID="SkyCinemaAction.uk" tvg-name="|UK| SKY CINEMA ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA ACTION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11242
+#EXTINF:-1 tvg-ID="SkyCinemaPremiere.uk" tvg-name="|UK| SKY CINEMA SHOWCASE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-icon-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA SHOWCASE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11243
+#EXTINF:-1 tvg-ID="SkyCinemaSci-fiHorror.uk" tvg-name="|UK| SKY CINEMA SCI-FI HORROR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA SCI-FI HORROR HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11244
+#EXTINF:-1 tvg-ID="SkyCinemaThriller.uk" tvg-name="|UK| SKY CINEMA THRILLER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA THRILLER HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11285
+#EXTINF:-1 tvg-ID="SkyCinemaPremiere+1.uk" tvg-name="|UK| SKY CINEMA DISNEY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-channel-plus-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA DISNEY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11245
+#EXTINF:-1 tvg-ID="Drama.uk" tvg-name="|UK| DRAMA CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/drama-plus-uk.png" group-title="Nagy-Britannia",|UK| DRAMA CHANNEL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11250
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| SKY CINEMA HITS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA HITS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11259
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| SKY CINEMA HITS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA HITS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/265012816
+#EXTINF:-1 tvg-ID="SkyCinemaSci-fiHorror.uk" tvg-name="|UK| CHANNEL HORROR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/horror-channel-plus-uk.png" group-title="Nagy-Britannia",|UK| CHANNEL HORROR HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11255
+#EXTINF:-1 tvg-ID="SkyCinemaAction.uk" tvg-name="|UK| SONY MOVIES ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sony-sab-uk.png" group-title="Nagy-Britannia",|UK| SONY MOVIES ACTION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11007
+#EXTINF:-1 tvg-ID="SkyCinemaPremiere.uk" tvg-name="|UK| SKY CINEMA PREMIER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-hz-uk.png" group-title="Nagy-Britannia",|UK| SKY CINEMA PREMIER HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11016
+#EXTINF:-1 tvg-ID="GREATmovies.uk" tvg-name="|UK| MOVIES4MEN HD" tvg-logo="data:image/jpeg;base64,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" group-title="Nagy-Britannia",|UK| MOVIES4MEN HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11254
+#EXTINF:-1 tvg-ID="GREATmovies.uk" tvg-name="|UK| MOVIES4MEN FHD" tvg-logo="http://x.pure-redirect.com/astra28.2/1_0_1_D048_90A_2_11A0000_0_0_0.png" group-title="Nagy-Britannia",|UK| MOVIES4MEN FHD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11249
+#EXTINF:-1 tvg-ID="AMC.es" tvg-name="|UK| AMC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/amc-uk.png" group-title="Nagy-Britannia",|UK| AMC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11247
+#EXTINF:-1 tvg-ID="CBSReality.uk" tvg-name="|UK| CBS DRAMA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cbs-drama-uk.png" group-title="Nagy-Britannia",|UK| CBS DRAMA HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11252
+#EXTINF:-1 tvg-ID="CBSReality.uk" tvg-name="|UK| CBS ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cbs-drama-uk.png" group-title="Nagy-Britannia",|UK| CBS ACTION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11253
+#EXTINF:-1 tvg-ID="NatGeoPlus1.uk" tvg-name="|UK| TCM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tcm-movies-plus-uk.png" group-title="Nagy-Britannia",|UK| TCM HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11246
+#EXTINF:-1 tvg-ID="Film4.uk" tvg-name="|UK| FILM 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-plus-uk.png" group-title="Nagy-Britannia",|UK| FILM 4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11248
+#EXTINF:-1 tvg-ID="SkyCinemaHits.uk" tvg-name="|UK| UNIVERSAL CHANNEL HD" tvg-logo="http://x.pure-redirect.com/universal.png" group-title="Nagy-Britannia",|UK| UNIVERSAL CHANNEL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11272
+#EXTINF:-1 tvg-ID="" tvg-name="||---|UK| Entertainment |UK|---||" tvg-logo="" group-title="Nagy-Britannia",||---|UK| Entertainment |UK|---||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11221
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="|UK| COMEDY CENTRAL / VIVA UK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/comedy-central-icon-uk.png" group-title="Nagy-Britannia",|UK| COMEDY CENTRAL / VIVA UK HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11260
+#EXTINF:-1 tvg-ID="ComedyCentralExtra.uk" tvg-name="|UK| COMEDY CENTRAL EXTRA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/comedy-central-extra-hz-uk.png" group-title="Nagy-Britannia",|UK| COMEDY CENTRAL EXTRA HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11262
+#EXTINF:-1 tvg-ID="ComedyCentral.uk" tvg-name="|UK| COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/comedy-central-icon-uk.png" group-title="Nagy-Britannia",|UK| COMEDY CENTRAL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11261
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TRUE ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-entertainment-uk.png" group-title="Nagy-Britannia",|UK| TRUE ENTERTAINMENT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11251
+#EXTINF:-1 tvg-ID="CBeebies.uk" tvg-name="|UK| CBEEBIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png" group-title="Nagy-Britannia",|UK| CBEEBIES HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11064
+#EXTINF:-1 tvg-ID="CBBC.uk" tvg-name="|UK| CBBC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbbc-uk.png" group-title="Nagy-Britannia",|UK| CBBC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11152
+#EXTINF:-1 tvg-ID="ITV+1.uk" tvg-name="|UK| ITV 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-plus-uk.png" group-title="Nagy-Britannia",|UK| ITV 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11178
+#EXTINF:-1 tvg-ID="ITV+1.uk" tvg-name="|UK| ITV+ 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-plus-uk.png" group-title="Nagy-Britannia",|UK| ITV+ 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11179
+#EXTINF:-1 tvg-ID="ITV2.uk" tvg-name="|UK| ITV 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-plus-uk.png" group-title="Nagy-Britannia",|UK| ITV 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11180
+#EXTINF:-1 tvg-ID="ITV3.uk" tvg-name="|UK| ITV 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-plus-uk.png" group-title="Nagy-Britannia",|UK| ITV 3 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11181
+#EXTINF:-1 tvg-ID="ITV4.uk" tvg-name="|UK| ITV 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-plus-uk.png" group-title="Nagy-Britannia",|UK| ITV 4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11183
+#EXTINF:-1 tvg-ID="ITVBe.uk" tvg-name="|UK| ITV BE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-be-plus-uk.png" group-title="Nagy-Britannia",|UK| ITV BE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11184
+#EXTINF:-1 tvg-ID="4Seven.uk" tvg-name="|UK| 4 SEVEN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-seven-uk.png" group-title="Nagy-Britannia",|UK| 4 SEVEN HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11185
+#EXTINF:-1 tvg-ID="More4.uk" tvg-name="|UK| 4 MORE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/4-more-plus-uk.png" group-title="Nagy-Britannia",|UK| 4 MORE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11186
+#EXTINF:-1 tvg-ID="Channel4.uk" tvg-name="|UK| CHANNEL 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-plus-uk.png" group-title="Nagy-Britannia",|UK| CHANNEL 4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11187
+#EXTINF:-1 tvg-ID="Channel5.uk" tvg-name="|UK| CHANNEL 5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-plus-uk.png" group-title="Nagy-Britannia",|UK| CHANNEL 5 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11188
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="|UK| 5 USA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-usa-plus-uk.png" group-title="Nagy-Britannia",|UK| 5 USA HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11189
+#EXTINF:-1 tvg-ID="SkyAtlantic.uk" tvg-name="|UK| SKY ATLANTIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-atlantic-icon-uk.png" group-title="Nagy-Britannia",|UK| SKY ATLANTIC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11191
+#EXTINF:-1 tvg-ID="CBSReality.uk" tvg-name="|UK| CBS REALITY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cbs-reality-plus-uk.png" group-title="Nagy-Britannia",|UK| CBS REALITY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11192
+#EXTINF:-1 tvg-ID="SkyArts1.uk" tvg-name="|UK| SKY ARTS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-icon-uk.png" group-title="Nagy-Britannia",|UK| SKY ARTS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11193
+#EXTINF:-1 tvg-ID="TrueCrimeX.uk" tvg-name="|UK| SKY 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-one-icon-uk.png" group-title="Nagy-Britannia",|UK| SKY 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11194
+#EXTINF:-1 tvg-ID="TRTE.ie" tvg-name="|UK| SKY 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-two-plus-uk.png" group-title="Nagy-Britannia",|UK| SKY 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11195
+#EXTINF:-1 tvg-ID="E4.uk" tvg-name="|UK| E4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-4-plus-uk.png" group-title="Nagy-Britannia",|UK| E4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11196
+#EXTINF:-1 tvg-ID="Rewind.uk" tvg-name="|UK| E! ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/e-entertainment-uk.png" group-title="Nagy-Britannia",|UK| E! ENTERTAINMENT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11197
+#EXTINF:-1 tvg-ID="SkyWitness.uk" tvg-name="|UK| SKY WITNESS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-icon-uk.png" group-title="Nagy-Britannia",|UK| SKY WITNESS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11198
+#EXTINF:-1 tvg-ID="GOLDPlus1.uk" tvg-name="|UK| GOLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-plus-uk.png" group-title="Nagy-Britannia",|UK| GOLD HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11199
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| 5 SPIKE HD" tvg-logo="data:image/png;base64,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" group-title="Nagy-Britannia",|UK| 5 SPIKE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11200
+#EXTINF:-1 tvg-ID="SkyMax.uk" tvg-name="|UK| 5 STAR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-star-plus-uk.png" group-title="Nagy-Britannia",|UK| 5 STAR HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11201
+#EXTINF:-1 tvg-ID="5Select.uk" tvg-name="|UK| 5 SELECT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/5-select-uk.png" group-title="Nagy-Britannia",|UK| 5 SELECT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11202
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="Nagy-Britannia",|UK| BBC 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11222
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="|UK| BBC 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="Nagy-Britannia",|UK| BBC 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11223
+#EXTINF:-1 tvg-ID="BBC2.uk" tvg-name="|UK| BBC 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" group-title="Nagy-Britannia",|UK| BBC 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11224
+#EXTINF:-1 tvg-ID="BBCThree.uk" tvg-name="|UK| BBC 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" group-title="Nagy-Britannia",|UK| BBC 3 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11225
+#EXTINF:-1 tvg-ID="BBC4.uk" tvg-name="|UK| BBC 4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="Nagy-Britannia",|UK| BBC 4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11226
+#EXTINF:-1 tvg-ID="BBCParliament.uk" tvg-name="|UK| BBC PARLIAMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-parliament-hz-uk.png" group-title="Nagy-Britannia",|UK| BBC PARLIAMENT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11227
+#EXTINF:-1 tvg-ID="BBCAlba.uk" tvg-name="|UK| BBC ALBA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-alba-uk.png" group-title="Nagy-Britannia",|UK| BBC ALBA HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11228
+#EXTINF:-1 tvg-ID="Dave.uk" tvg-name="|UK| DAVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png" group-title="Nagy-Britannia",|UK| DAVE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11229
+#EXTINF:-1 tvg-ID="Alibi.uk" tvg-name="|UK| ALIBI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/alibi-plus-uk.png" group-title="Nagy-Britannia",|UK| ALIBI HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11230
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| LONDON LIVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/london-live-uk.png" group-title="Nagy-Britannia",|UK| LONDON LIVE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11231
+#EXTINF:-1 tvg-ID="TLC.uk" tvg-name="|UK| TLC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tlc-plus-uk.png" group-title="Nagy-Britannia",|UK| TLC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11232
+#EXTINF:-1 tvg-ID="SCIFI.uk" tvg-name="|UK| SYFY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/syfy-hz-uk.png" group-title="Nagy-Britannia",|UK| SYFY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11233
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RTE ONE HD" tvg-logo="http://x.pure-redirect.com/astra28.2/1_0_19_F51_7EC_2_11A0000_0_0_0.png" group-title="Nagy-Britannia",|UK| RTE ONE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11234
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RTE TWO HD" tvg-logo="data:image/png;base64,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" group-title="Nagy-Britannia",|UK| RTE TWO HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11235
+#EXTINF:-1 tvg-ID="VirginMediaTwo.ie" tvg-name="|UK| VIRGIN TWO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c9/Virgin_Media_One_logo.png" group-title="Nagy-Britannia",|UK| VIRGIN TWO HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11263
+#EXTINF:-1 tvg-ID="TG4.ie" tvg-name="|UK| TG4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1200px-TG4_logo.svg.png" group-title="Nagy-Britannia",|UK| TG4 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11264
+#EXTINF:-1 tvg-ID="UTV.uk" tvg-name="|UK| UTV IE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/u-tv-plus-uk.png" group-title="Nagy-Britannia",|UK| UTV IE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11265
+#EXTINF:-1 tvg-ID="SCIFI.uk" tvg-name="|UK| FOX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/fox-plus-uk.png" group-title="Nagy-Britannia",|UK| FOX HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11266
+#EXTINF:-1 tvg-ID="SkyMax.uk" tvg-name="|UK| EDEN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eden-plus-uk.png" group-title="Nagy-Britannia",|UK| EDEN HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11267
+#EXTINF:-1 tvg-ID="VirginMediaOne.ie" tvg-name="|UK| VIRGIN ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c9/Virgin_Media_One_logo.png" group-title="Nagy-Britannia",|UK| VIRGIN ONE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11268
+#EXTINF:-1 tvg-ID="Yesterday.uk" tvg-name="|UK| YESTERDAY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/yesterday-plus-uk.png" group-title="Nagy-Britannia",|UK| YESTERDAY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11269
+#EXTINF:-1 tvg-ID="VirginMediaThree.ie" tvg-name="|UK| VIRGIN THREE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c9/Virgin_Media_One_logo.png" group-title="Nagy-Britannia",|UK| VIRGIN THREE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11273
+#EXTINF:-1 tvg-ID="Really.uk" tvg-name="|UK| GOOD FOOD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-plus-uk.png" group-title="Nagy-Britannia",|UK| GOOD FOOD HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11274
+#EXTINF:-1 tvg-ID="SkyLiving.uk" tvg-name="|UK| LIFETIME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lifetime-uk.png" group-title="Nagy-Britannia",|UK| LIFETIME HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11276
+#EXTINF:-1 tvg-ID="Quest.uk" tvg-name="|UK| QUEST HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/quest-plus-uk.png" group-title="Nagy-Britannia",|UK| QUEST HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11277
+#EXTINF:-1 tvg-ID="BBCThree.uk" tvg-name="|UK| PICK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/pick-plus-uk.png" group-title="Nagy-Britannia",|UK| PICK HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11278
+#EXTINF:-1 tvg-ID="Really.uk" tvg-name="|UK| REALLY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/really-plus-uk.png" group-title="Nagy-Britannia",|UK| REALLY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11279
+#EXTINF:-1 tvg-ID="FiveUSA.uk" tvg-name="|UK| HORSE  COUNTRY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/horse-and-country-uk.png" group-title="Nagy-Britannia",|UK| HORSE  COUNTRY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11282
+#EXTINF:-1 tvg-ID="S4C.uk" tvg-name="|UK| S4C HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" group-title="Nagy-Britannia",|UK| S4C HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11283
+#EXTINF:-1 tvg-ID="KissTV.uk" tvg-name="|UK| KISS TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/kiss-tv-uk.png" group-title="Nagy-Britannia",|UK| KISS TV HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11010
+#EXTINF:-1 tvg-ID="BBCOneHD.uk" tvg-name="|UK| BBC ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" group-title="Nagy-Britannia",|UK| BBC ENTERTAINMENT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11014
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| SKY LIVING HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/z-living-us.png" group-title="Nagy-Britannia",|UK| SKY LIVING HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11019
+#EXTINF:-1 tvg-ID="Eurosport1.uk" tvg-name="|UK| TENNIS CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png" group-title="Nagy-Britannia",|UK| TENNIS CHANNEL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11033
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| FINE LIVING HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/z-living-us.png" group-title="Nagy-Britannia",|UK| FINE LIVING HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11034
+#EXTINF:-1 tvg-ID="fox.pt" tvg-name="|UK| FOX NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="Nagy-Britannia",|UK| FOX NEWS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11035
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| Documentaries |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| Documentaries |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11294
+#EXTINF:-1 tvg-ID="BLAZE.uk" tvg-name="|UK| BLAZE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/blaze-plus-uk.png" group-title="Nagy-Britannia",|UK| BLAZE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11067
+#EXTINF:-1 tvg-ID="Challenge.uk" tvg-name="|UK| CHALLENGE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-plus-uk.png" group-title="Nagy-Britannia",|UK| CHALLENGE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11068
+#EXTINF:-1 tvg-ID="SkyAnimation.uk" tvg-name="|UK| TRAVEL CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/travel-channel-uk.png" group-title="Nagy-Britannia",|UK| TRAVEL CHANNEL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11069
+#EXTINF:-1 tvg-ID="AnimalPlanet.uk" tvg-name="|UK| ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/animal-planet-plus-uk.png" group-title="Nagy-Britannia",|UK| ANIMAL PLANET HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11070
+#EXTINF:-1 tvg-ID="DiscoveryDMAX.uk" tvg-name="|UK| DMAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-plus-uk.png" group-title="Nagy-Britannia",|UK| DMAX HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11071
+#EXTINF:-1 tvg-ID="DiscoveryScience.uk" tvg-name="|UK| DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-science-icon-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY SCIENCE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11072
+#EXTINF:-1 tvg-ID="DiscoveryShed.uk" tvg-name="|UK| DISCOVERY SHED HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-shed-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY SHED HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11073
+#EXTINF:-1 tvg-ID="DiscoveryTurboPlus1.uk" tvg-name="|UK| DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-turbo-plus-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY TURBO HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11074
+#EXTINF:-1 tvg-ID="DiscoveryHistory.uk" tvg-name="|UK| DISCOVERY HISTORY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-history-plus-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY HISTORY HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11075
+#EXTINF:-1 tvg-ID="Discovery.uk" tvg-name="|UK| DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-channel-icon-plus-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY CHANNEL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11295
+#EXTINF:-1 tvg-ID="SkyShowcase.uk" tvg-name="|UK| DISCOVERY HOME HEALTH HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-home-and-health-icon-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY HOME HEALTH HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11008
+#EXTINF:-1 tvg-ID="CrimeAndInvestigationNetwork.uk" tvg-name="|UK| CRIME INVESTIGATION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/crime-and-investigation-plus-uk.png" group-title="Nagy-Britannia",|UK| CRIME INVESTIGATION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11296
+#EXTINF:-1 tvg-ID="Investigation.uk" tvg-name="|UK| DISCOVERY INVESTIGATION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/investigation-discovery-plus-uk.png" group-title="Nagy-Britannia",|UK| DISCOVERY INVESTIGATION HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11297
+#EXTINF:-1 tvg-ID="NatGeo.uk" tvg-name="|UK| NATIONAL GEOGRAPHIC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/national-geographic-plus-uk.png" group-title="Nagy-Britannia",|UK| NATIONAL GEOGRAPHIC HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11298
+#EXTINF:-1 tvg-ID="NatGeoWild.uk" tvg-name="|UK| NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/national-geographic-wild-uk.png" group-title="Nagy-Britannia",|UK| NATIONAL GEOGRAPHIC WILD HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11299
+#EXTINF:-1 tvg-ID="Challenge.uk" tvg-name="|UK| CHALLENGE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/challenge-plus-uk.png" group-title="Nagy-Britannia",|UK| CHALLENGE HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11013
+#EXTINF:-1 tvg-ID="SkyHistory.uk" tvg-name="|UK| HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-history-plus-uk.png" group-title="Nagy-Britannia",|UK| HISTORY CHANNEL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11300
+#EXTINF:-1 tvg-ID="FoodNetwork.uk" tvg-name="|UK| FOOD NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/food-network-plus-uk.png" group-title="Nagy-Britannia",|UK| FOOD NETWORK HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11281
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| HOME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-home-and-health-plus-uk.png" group-title="Nagy-Britannia",|UK| HOME HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11280
+#EXTINF:-1 tvg-ID="SkyHistory2.uk" tvg-name="|UK| HISTORY 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-history-2-uk.png" group-title="Nagy-Britannia",|UK| HISTORY 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11301
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| UK News |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| UK News |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11049
+#EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| UK Music |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| UK Music |UK| ----||
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11257
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| RED BULL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/red-bull-tv-de.png" group-title="Nagy-Britannia",|UK| RED BULL HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/665024677
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| UFC FIGHT PASS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/ufc-fight-pass-us.png" group-title="Nagy-Britannia",|UK| UFC FIGHT PASS HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/665037549
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| PARAMOUNT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/paramount-channel-fr.png" group-title="Nagy-Britannia",|UK| PARAMOUNT HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/11015
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| NBA TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="Nagy-Britannia",|USA| NBA TV HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5376
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| NFL NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-nfl-hz-uk.png" group-title="Nagy-Britannia",|USA| NFL NETWORK HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5377
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| NHL NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="Nagy-Britannia",|USA| NHL NETWORK HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5378
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| ESPN 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-plus-us.png" group-title="Nagy-Britannia",|USA| ESPN 1 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5398
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| ESPN 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="Nagy-Britannia",|USA| ESPN 2 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5399
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| ESPN 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-3-us.png" group-title="Nagy-Britannia",|USA| ESPN 3 HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5400
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| ESPN DEPORTES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" group-title="Nagy-Britannia",|USA| ESPN DEPORTES HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5401
+#EXTINF:-1 tvg-ID="" tvg-name="|USA| ESPN U HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-plus-us.png" group-title="Nagy-Britannia",|USA| ESPN U HD
+http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/5402
+
+
+
 
 #EXTM3U
 #EXTINF:-1 group-title="Nagy-Britannia",UK: RTE NEWS
@@ -2294,6 +2810,8 @@ http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/53706
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/53681
 #EXTINF:-1 group-title="Nagy-Britannia",UK: Channel 4
 http://tvmate.icu:8080/4164551205/mmbenkovic@gmail.com/99138
+
+
 
 
 #EXTM3U
