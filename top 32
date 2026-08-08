@@ -6476,6 +6476,262 @@ http://79.112.79.166:8069/udp/239.10.20.23:1234
 
 
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="" group-title="Spanyolország",LA 1 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5799
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 HD" tvg-logo="" group-title="Spanyolország",LA 2 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5800
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 HD" tvg-logo="" group-title="Spanyolország",ANTENA 3 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5801
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO HD" tvg-logo="" group-title="Spanyolország",CUATRO HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5802
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD" tvg-logo="" group-title="Spanyolország",TELECINCO HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5803
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="Spanyolország",LA SEXTA HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5804
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS +" tvg-logo="" group-title="Spanyolország",MOVISTAR PLUS +
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7575
+#EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS" tvg-logo="" group-title="Spanyolország",M+ VAMOS
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5806
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV " tvg-logo="" group-title="Spanyolország",ARAGON TV
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5807
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR A." tvg-logo="" group-title="Spanyolország",CANAL SUR A.
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5808
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR 2" tvg-logo="" group-title="Spanyolország",CANAL SUR 2
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18234
+#EXTINF:-1 tvg-id="" tvg-name="ONDA CADIZ" tvg-logo="" group-title="Spanyolország",ONDA CADIZ
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/1671
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISION GALICIA" tvg-logo="" group-title="Spanyolország",TELEVISION GALICIA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6670
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV" tvg-logo="" group-title="Spanyolország",EL TORO TV
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6275
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA" tvg-logo="" group-title="Spanyolország",CANAL EXTREMADURA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/1739
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="Spanyolország",CASTILLA LA MANCHA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6330
+#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA" tvg-logo="" group-title="Spanyolország",PTV CORDOBA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/8487
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="Spanyolország",M+ ESTRENOS
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5825
+#EXTINF:-1 tvg-id="" tvg-name="M+ HITS" tvg-logo="" group-title="Spanyolország",M+ HITS
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5809
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS" tvg-logo="" group-title="Spanyolország",M+ CLASICOS
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7576
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="Spanyolország",M+ ACCION
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5828
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="Spanyolország",M+ COMEDIA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5829
+#EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA " tvg-logo="" group-title="Spanyolország",M+ DRAMA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5830
+#EXTINF:-1 tvg-id="" tvg-name="M+ INDIE HD" tvg-logo="" group-title="Spanyolország",M+ INDIE HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/11684
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="" group-title="Spanyolország",TCM HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5832
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="" group-title="Spanyolország",HOLLYWOOD HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5833
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="Spanyolország",XTRM
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/9009
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="" group-title="Spanyolország",SUNDANCE
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5885
+#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="" group-title="Spanyolország",DARK HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/8317
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="Spanyolország",SOMOS
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12026
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="" group-title="Spanyolország",PARAMOUNT
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5834
+#EXTINF:-1 tvg-id="" tvg-name="SQUIRREL" tvg-logo="" group-title="Spanyolország",SQUIRREL
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18236
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="Spanyolország",TRECE
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18235
+#EXTINF:-1 tvg-id="" tvg-name="START CHANNEL HD " tvg-logo="" group-title="Spanyolország",START CHANNEL HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5811
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Spanyolország",AXN HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5812
+#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES" tvg-logo="" group-title="Spanyolország",AXN MOVIES
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18237
+#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="" group-title="Spanyolország",WARNER HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5813
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="Spanyolország",COMEDY CENTRAL HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5814
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 HD" tvg-logo="" group-title="Spanyolország",CALLE 13 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5815
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD" tvg-logo="" group-title="Spanyolország",AMC HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5817
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="" group-title="Spanyolország",SYFY HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5820
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="" group-title="Spanyolország",ENERGY
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5824
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="" group-title="Spanyolország",FDF
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5822
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="" group-title="Spanyolország",NEOX
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5823
+#EXTINF:-1 tvg-id="" tvg-name="ATRESERIES HD" tvg-logo="" group-title="Spanyolország",ATRESERIES HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/9010
+#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="Spanyolország",BOM CINE
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/11685
+#EXTINF:-1 tvg-id="" tvg-name="THRILLER-TERROR" tvg-logo="" group-title="Spanyolország",THRILLER-TERROR
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/14758
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 1" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 1
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/934
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 2" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 2
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/932
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 3" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 3
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/962
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 4" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 4
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/974
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 5" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 5
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/1137
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 6" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 6
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/1136
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 7" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 7
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/1140
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 8" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 8
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/1142
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 9" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 9
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/3114
+#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 10" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 10
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/3115
+#EXTINF:-1 tvg-id="" tvg-name="PTV GRANADA" tvg-logo="" group-title="Spanyolország",PTV GRANADA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18238
+#EXTINF:-1 tvg-id="" tvg-name="PTV ALMERIA" tvg-logo="" group-title="Spanyolország",PTV ALMERIA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18239
+#EXTINF:-1 tvg-id="" tvg-name="PTV SEVILLA" tvg-logo="" group-title="Spanyolország",PTV SEVILLA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16738
+#EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="Spanyolország",PTV MALAGA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16740
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MundialHD" tvg-logo="" group-title="Spanyolország",DAZN MundialHD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5869
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial2 HD" tvg-logo="" group-title="Spanyolország",DAZN Mundial2 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12031
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial 3" tvg-logo="" group-title="Spanyolország",DAZN Mundial 3
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7588
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial 4" tvg-logo="" group-title="Spanyolország",DAZN Mundial 4
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7580
+#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA HD" tvg-logo="" group-title="Spanyolország",M LA LIGA HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5872
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="" group-title="Spanyolország",M+ LALIGA TV 2 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5870
+#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 3 HD" tvg-logo="" group-title="Spanyolország",M+ LALIGA TV 3 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/11691
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="" group-title="Spanyolország",LALIGA TV HYPERMOTION
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5851
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="" group-title="Spanyolország",LALIGA TV HYPERMOTION 2
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5852
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 " tvg-logo="" group-title="Spanyolország",LALIGA TV HYPERMOTION 3
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12030
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES HD" tvg-logo="" group-title="Spanyolország",M LIGA CAMPEONES HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5862
+#EXTINF:-1 tvg-id="" tvg-name="M LIGA REF" tvg-logo="" group-title="Spanyolország",M LIGA REF
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/17952
+#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="Spanyolország",GOL
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18161
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 1" tvg-logo="" group-title="Spanyolország",DAZN BALONCESTO 1
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18934
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 2" tvg-logo="" group-title="Spanyolország",DAZN BALONCESTO 2
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18935
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 3" tvg-logo="" group-title="Spanyolország",DAZN BALONCESTO 3
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18936
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="Spanyolország",DAZN F1 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5853
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTOS" tvg-logo="" group-title="Spanyolország",DAZN MOTOS
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/19096
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Spanyolország",DAZN 1 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5849
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Spanyolország",DAZN 2 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5850
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="Spanyolország",DAZN 3
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12923
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="Spanyolország",DAZN 4
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12924
+#EXTINF:-1 tvg-id="" tvg-name="M GOLF" tvg-logo="" group-title="Spanyolország",M GOLF
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/19182
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES HD" tvg-logo="" group-title="Spanyolország",M DEPORTES HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5866
+#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 2 " tvg-logo="" group-title="Spanyolország",M DEPORTES 2
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5864
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 3
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18605
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 4
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18606
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 5
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18607
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 6
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18608
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="Spanyolország",EUROSPORT 1 HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5858
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 " tvg-logo="" group-title="Spanyolország",EUROSPORT 2
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5857
+#EXTINF:-1 tvg-id="" tvg-name="VEO" tvg-logo="" group-title="Spanyolország",VEO
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5859
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="" group-title="Spanyolország",TELEDEPORTE
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5882
+#EXTINF:-1 tvg-id="" tvg-name="TELEQUIVIR" tvg-logo="" group-title="Spanyolország",TELEQUIVIR
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5883
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID" tvg-logo="" group-title="Spanyolország",TELEMADRID
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18221
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE" tvg-logo="" group-title="Spanyolország",TOROLE
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16737
+#EXTINF:-1 tvg-id="" tvg-name="ONE TORO" tvg-logo="" group-title="Spanyolország",ONE TORO
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18271
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="Spanyolország",CAZAyPESCA HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5845
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="Spanyolország",IBERALIA TV
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5861
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIACAZA" tvg-logo="" group-title="Spanyolország",IBERALIACAZA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16732
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIAPESCA " tvg-logo="" group-title="Spanyolország",IBERALIAPESCA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16733
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="" group-title="Spanyolország",NAT GEO HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5876
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="" group-title="Spanyolország",NG WILD HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5877
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="" group-title="Spanyolország",HISTORIA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5860
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="Spanyolország",DISCOVERY
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5886
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="" group-title="Spanyolország",CANAL ODISEA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5843
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="" group-title="Spanyolország",AMC BREAK
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12139
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="" group-title="Spanyolország",AMC CRIME
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12140
+#EXTINF:-1 tvg-id="" tvg-name="BUEN VIAJE" tvg-logo="" group-title="Spanyolország",BUEN VIAJE
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/11698
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="Spanyolország",DMAX
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/9012
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="Spanyolország",CANAL COCINA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5841
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="" group-title="Spanyolország",CANAL DECASA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5842
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="" group-title="Spanyolország",DIVINITY
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5856
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="" group-title="Spanyolország",NOVA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5879
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="" group-title="Spanyolország",MEGA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/81
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD HD" tvg-logo="" group-title="Spanyolország",BE MAD HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5837
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="Spanyolország",TEN
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/10198
+#EXTINF:-1 tvg-id="" tvg-name="EN FAMILIA" tvg-logo="" group-title="Spanyolország",EN FAMILIA
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5844
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="" group-title="Spanyolország",BabyTV
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5840
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="" group-title="Spanyolország",DISNEY JR
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5855
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="Spanyolország",NICK JR
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5887
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="" group-title="Spanyolország",NICKELODEONHD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5878
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="" group-title="Spanyolország",BOING
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5839
+#EXTINF:-1 tvg-id="" tvg-name="CLAN  HD" tvg-logo="" group-title="Spanyolország",CLAN  HD
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5846
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite España" tvg-logo="" group-title="Spanyolország",Cadena Elite España
+https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6279
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ANUNCIOS DEL SERVER" tvg-logo="" group-title="Spanyolország",ANUNCIOS DEL SERVER
 http://distribuir03offshore03.ddns.net:8080/live/6FE297907N3749350/30052022cc/e20aae3a-9755-47b5-9d23-7975a0987ffa.ts
 #EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas FHD" tvg-logo="https://od.lk/s/NThfNTk3MjUyMjNf/24horashd.png" group-title="Spanyolország",24 Horas FHD
@@ -7630,7 +7886,7 @@ https://main.gotencloud.xyz:8443/antoniocf/987654321/5878
 https://main.gotencloud.xyz:8443/antoniocf/987654321/5839
 #EXTINF:-1 group-title="Spanyolország",CLAN  HD
 https://main.gotencloud.xyz:8443/antoniocf/987654321/5846
-#EXTINF:-1 group-title="Spanyolország",Cadena Elite Espana
+#EXTINF:-1 group-title="Spanyolország",Cadena Elite España
 https://main.gotencloud.xyz:8443/antoniocf/987654321/6279
 
 
