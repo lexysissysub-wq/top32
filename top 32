@@ -7991,6 +7991,81 @@ http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-ID="ClubRTL.be" tvg-name="|BE| CLUB RTL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/club-rtl-be.png" group-title="Belgium",|BE| CLUB RTL FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665017254
+#EXTINF:-1 tvg-ID="AB3.fr" tvg-name="|BE| AB3 BELGIUM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/ab3-fr.png" group-title="Belgium",|BE| AB3 BELGIUM HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665014015
+#EXTINF:-1 tvg-ID="BeCine1.be" tvg-name="|BE| CINE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/be-cine-be.png" group-title="Belgium",|BE| CINE HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665014016
+#EXTINF:-1 tvg-ID="RTLTVI.be" tvg-name="|BE| RTL TVI FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" group-title="Belgium",|BE| RTL TVI FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/8318
+#EXTINF:-1 tvg-ID="BeCine1.be" tvg-name="|BE| CINEMA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/be-cine-be.png" group-title="Belgium",|BE| CINEMA 1
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/2757
+#EXTINF:-1 tvg-ID="Canvas.be" tvg-name="|BE| CANVAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/vrt-canvas-be.png" group-title="Belgium",|BE| CANVAS HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/675
+#EXTINF:-1 tvg-ID="VOOSportWorld2.be" tvg-name="|BE| VOO SPORT WORLD 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/voo-sport-world-2-be.png" group-title="Belgium",|BE| VOO SPORT WORLD 2
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/2768
+#EXTINF:-1 tvg-ID="RougeTV.ch" tvg-name="|BE| ROUGE TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/switzerland/rouge-tv-ch.png" group-title="Belgium",|BE| ROUGE TV
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665019499
+#EXTINF:-1 tvg-ID="ComedyCentralFR.be" tvg-name="|BE| ELEVEN SPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Elevenlogo.png" group-title="Belgium",|BE| ELEVEN SPORT 3
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665020865
+#EXTINF:-1 tvg-ID="" tvg-name="|BE| PLAY SPORTS 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-1-be.png" group-title="Belgium",|BE| PLAY SPORTS 1 FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665032391
+#EXTINF:-1 tvg-ID="" tvg-name="|BE| PLAY SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-2-be.png" group-title="Belgium",|BE| PLAY SPORTS 2 FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665032392
+#EXTINF:-1 tvg-ID="" tvg-name="|BE| PLAY SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/play-sports-3-be.png" group-title="Belgium",|BE| PLAY SPORTS 3 FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665032393
+#EXTINF:-1 tvg-ID="ElevenProL1.be" tvg-name="|BE| ELEVEN PRO LEAGUE 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/eleven-sports-pro-league-1-fr-be.png" group-title="Belgium",|BE| ELEVEN PRO LEAGUE 1
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665036982
+#EXTINF:-1 tvg-ID="ElevenProL2.be" tvg-name="|BE| ELEVEN PRO LEAGUE 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/eleven-sports-pro-league-2-fr-be.png" group-title="Belgium",|BE| ELEVEN PRO LEAGUE 2
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665036983
+#EXTINF:-1 tvg-ID="ElevenProL3.be" tvg-name="|BE| ELEVEN PRO LEAGUE 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/eleven-sports-pro-league-3-fr-be.png" group-title="Belgium",|BE| ELEVEN PRO LEAGUE 3
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/665036984
+#EXTINF:-1 tvg-ID="LaUne.be" tvg-name="|BE| LA UNE FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-une-be.png" group-title="Belgium",|BE| LA UNE FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/8614
+#EXTINF:-1 tvg-ID="PlugRTL.be" tvg-name="|BE| PLUG RTL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/plug-rtl-be.png" group-title="Belgium",|BE| PLUG RTL FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/8613
+#EXTINF:-1 tvg-ID="" tvg-name="||---|BE| BOUQUET BELGES |BE|---||" tvg-logo="https://cdn.countryflags.com/thumbs/belgium/flag-3d-round-250.png" group-title="Belgium",||---|BE| BOUQUET BELGES |BE|---||
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/2753
+#EXTINF:-1 tvg-ID="Q-music.be" tvg-name="|BE| Q2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c1/Q2_%282016%29_Logo.png" group-title="Belgium",|BE| Q2 HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/2756
+#EXTINF:-1 tvg-ID="ClubRTL.be" tvg-name="|BE| CLUB RTL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/club-rtl-be.png" group-title="Belgium",|BE| CLUB RTL
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/676
+#EXTINF:-1 tvg-ID="LaUne.be" tvg-name="|BE| LA UNE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-une-be.png" group-title="Belgium",|BE| LA UNE HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/132
+#EXTINF:-1 tvg-ID="Tipik.be" tvg-name="|BE| LA DEUX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/tipik-be.png" group-title="Belgium",|BE| LA DEUX HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/134
+#EXTINF:-1 tvg-ID="LaTrois.be" tvg-name="|BE| LA TROIS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/la-trois-be.png" group-title="Belgium",|BE| LA TROIS HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/133
+#EXTINF:-1 tvg-ID="PlugRTL.be" tvg-name="|BE| PLUG RTL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/plug-rtl-be.png" group-title="Belgium",|BE| PLUG RTL
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/131
+#EXTINF:-1 tvg-ID="RTLTVI.be" tvg-name="|BE| RTL TVI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/rtl-tvi-be.png" group-title="Belgium",|BE| RTL TVI HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/130
+#EXTINF:-1 tvg-ID="VOOsportWorld1.be" tvg-name="|BE| VOO SPORT WORLD 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/voo-sport-world-1-be.png" group-title="Belgium",|BE| VOO SPORT WORLD 1
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/4244
+#EXTINF:-1 tvg-ID="VOOsportWorld1.be" tvg-name="|BE| VOO SPORT WORLD 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/voo-sport-world-1-be.png" group-title="Belgium",|BE| VOO SPORT WORLD 1
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/2186
+#EXTINF:-1 tvg-ID="VOOsportWorld1.be" tvg-name="|BE| VOO SPORT WORLD 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/voo-sport-world-1-be.png" group-title="Belgium",|BE| VOO SPORT WORLD 1
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/3291
+#EXTINF:-1 tvg-ID="VOOsportWorld2.be" tvg-name="|BE| VOO SPORT WORLD 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/voo-sport-world-2-be.png" group-title="Belgium",|BE| VOO SPORT WORLD 2
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/3500
+#EXTINF:-1 tvg-ID="VOOsportWorld3.be" tvg-name="|BE| VOO SPORT WORLD 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/voo-sport-world-3-be.png" group-title="Belgium",|BE| VOO SPORT WORLD 3
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/3501
+#EXTINF:-1 tvg-ID="ComedyCentralFR.be" tvg-name="|BE| ELEVEN SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Elevenlogo.png" group-title="Belgium",|BE| ELEVEN SPORT 1
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/3614
+#EXTINF:-1 tvg-ID="ComedyCentralFR.be" tvg-name="|BE| ELEVEN SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Elevenlogo.png" group-title="Belgium",|BE| ELEVEN SPORT 2
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/3615
+#EXTINF:-1 tvg-ID="een.be" tvg-name="|BE| EEN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/een-be.png" group-title="Belgium",|BE| EEN HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/4008
+#EXTINF:-1 tvg-ID="VTMGold.be" tvg-name="|BE| VIER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/VIER_Logo_2018.svg/langfr-800px-VIER_Logo_2018.svg.png" group-title="Belgium",|BE| VIER FHD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/4009
+#EXTINF:-1 tvg-ID="Vier.be" tvg-name="|BE| VIER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/VIER_Logo_2018.svg/langfr-800px-VIER_Logo_2018.svg.png" group-title="Belgium",|BE| VIER HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/4007
+#EXTINF:-1 tvg-ID="RTLTVI.be" tvg-name="|BE| VIJF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/VIJF_logo.png" group-title="Belgium",|BE| VIJF HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/4005
+#EXTINF:-1 tvg-ID="AnimalPlanet.nl" tvg-name="|BE| ZES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_ZES_TV.png" group-title="Belgium",|BE| ZES HD
+http://hdlocal.de:8080/TPQYgrVPzWSJ/RxMaUANJMecZ/4006
 
 
 
