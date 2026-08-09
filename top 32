@@ -5,23 +5,7 @@ https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 group-title="Magyar",DTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Magyar",Canal+ Action
-http://ua.seetv.cc/play/781/1966B8DE7EC6FEE/video.m3u8
 
-#EXTINF:-1 group-title="Magyar",Duna HU
-http://ua.seetv.cc/play/890/1966B8DE7EC6FEE/video.m3u8
-#EXTINF:-1 group-title="Magyar",M4 HU
-http://ua.seetv.cc/play/891/1966B8DE7EC6FEE/video.m3u8
-#EXTINF:-1 group-title="Magyar" ,Love Nature HD HU
-http://ua.seetv.cc/play/896/1966B8DE7EC6FEE/video.m3u8
-#EXTINF:-1 group-title="Magyar",Viasat Explore HD HU
-http://ua.seetv.cc/play/901/1966B8DE7EC6FEE/video.m3u8
-#EXTINF:-1 group-title="Magyar",Viasat History HU
-http://ua.seetv.cc/play/902/1966B8DE7EC6FEE/video.m3u8
-#EXTINF:-1 group-title="Magyar",BBC Earth HU
-http://ua.seetv.cc/play/795/1966B8DE7EC6FEE/video.m3u8
-#EXTINF:-1 group-title="Magyar" ,HirTV HU
-http://ua.seetv.cc/play/754/1966B8DE7EC6FEE/video.m3u8
 
 
 #EXTINF:-1 group-title="Magyar",Pannon TV
