@@ -6729,7 +6729,7 @@ https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5878
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5839
 #EXTINF:-1 tvg-id="" tvg-name="CLAN  HD" tvg-logo="" group-title="Spanyolország",CLAN  HD
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5846
-#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite España" tvg-logo="" group-title="Spanyolország",Cadena Elite España
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite Espana" tvg-logo="" group-title="Spanyolország",Cadena Elite Espana
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6279
 
 
@@ -7888,8 +7888,1498 @@ https://main.gotencloud.xyz:8443/antoniocf/987654321/5878
 https://main.gotencloud.xyz:8443/antoniocf/987654321/5839
 #EXTINF:-1 group-title="Spanyolország",CLAN  HD
 https://main.gotencloud.xyz:8443/antoniocf/987654321/5846
-#EXTINF:-1 group-title="Spanyolország",Cadena Elite España
+#EXTINF:-1 group-title="Spanyolország",Cadena Elite Espana
 https://main.gotencloud.xyz:8443/antoniocf/987654321/6279
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="La.1.es" tvg-name="ES: LA 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="Spanyolország",ES: LA 1 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76237
+#EXTINF:-1 tvg-id="La.2.es" tvg-name="ES: LA 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="Spanyolország",ES: LA 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76238
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="Spanyolország",ES: ANTENA 3 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76239
+#EXTINF:-1 tvg-id="laSexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="Spanyolország",ES: LA SEXTA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76240
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="Spanyolország",ES: CUATRO FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76241
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="Spanyolország",ES: TELECINCO FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76242
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: ENERGY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="Spanyolország",ES: ENERGY FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76243
+#EXTINF:-1 tvg-id="FDF.Telecinco.es" tvg-name="ES: FACTORÍA DE FICCIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="Spanyolország",ES: FACTORÍA DE FICCIÓN FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76244
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES: NEOX FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="Spanyolország",ES: NEOX FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76245
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV FHD" tvg-logo="https://docdog.top/logo/countries/es/VIN_TV.png" group-title="Spanyolország",ES: VIN TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76246
+#EXTINF:-1 tvg-id="TRECE.es" tvg-name="ES: TRECE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="Spanyolország",ES: TRECE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76247
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ES: ATRESERIES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="Spanyolország",ES: ATRESERIES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76248
+#EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="ES: EL TORO TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="Spanyolország",ES: EL TORO TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76249
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-name="ES: TV3 CAT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="Spanyolország",ES: TV3 CAT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76250
+#EXTINF:-1 tvg-id="Movistar.Plus+.es" tvg-name="ES: MOVISTAR PLUS+ FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="Spanyolország",ES: MOVISTAR PLUS+ FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76251
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR PLUS+ 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png" group-title="Spanyolország",ES: MOVISTAR PLUS+ 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76252
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="Spanyolország",ES: TV CANARIA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76253
+#EXTINF:-1 tvg-id="EWTN.es" tvg-name="ES: EWTN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/EWTN.png" group-title="Spanyolország",ES: EWTN FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76254
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA CADIZ RTV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ES_-_ONDA_CADIZ_RTV.png" group-title="Spanyolország",ES: ONDA CADIZ RTV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76255
+#EXTINF:-1 tvg-id="La.1.es" tvg-name="ES: LA 1 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="Spanyolország",ES: LA 1 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76256
+#EXTINF:-1 tvg-id="La.2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="Spanyolország",ES: LA 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76257
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="ES: ANTENA 3 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="Spanyolország",ES: ANTENA 3 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76258
+#EXTINF:-1 tvg-id="laSexta.es" tvg-name="ES: LA SEXTA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="Spanyolország",ES: LA SEXTA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76259
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="Spanyolország",ES: CUATRO HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76260
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="Spanyolország",ES: TELECINCO HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76261
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: ENERGY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="Spanyolország",ES: ENERGY HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76262
+#EXTINF:-1 tvg-id="FDF.Telecinco.es" tvg-name="ES: FACTORÍA DE FICCIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="Spanyolország",ES: FACTORÍA DE FICCIÓN HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76263
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES: NEOX HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="Spanyolország",ES: NEOX HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76264
+#EXTINF:-1 tvg-id="VinTV" tvg-name="ES: VIN TV HD" tvg-logo="https://docdog.top/logo/countries/es/VIN_TV.png" group-title="Spanyolország",ES: VIN TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76265
+#EXTINF:-1 tvg-id="TRECE.es" tvg-name="ES: TRECE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="Spanyolország",ES: TRECE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76266
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ES: ATRESERIES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="Spanyolország",ES: ATRESERIES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76267
+#EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="ES: EL TORO TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="Spanyolország",ES: EL TORO TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76268
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-name="ES: TV3 CAT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="Spanyolország",ES: TV3 CAT HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76269
+#EXTINF:-1 tvg-id="Movistar.Plus+.es" tvg-name="ES: MOVISTAR PLUS+ HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="Spanyolország",ES: MOVISTAR PLUS+ HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76270
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR PLUS+ 2 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png" group-title="Spanyolország",ES: MOVISTAR PLUS+ 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76271
+#EXTINF:-1 tvg-id="EWTN.es" tvg-name="ES: EWTN HD" tvg-logo="https://docdog.top/logo/countries/new/es/EWTN.png" group-title="Spanyolország",ES: EWTN HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76272
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIA HD" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="Spanyolország",ES: TV CANARIA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76273
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA CADIZ RTV HD" tvg-logo="https://docdog.top/logo/countries/new/es/ES_-_ONDA_CADIZ_RTV.png" group-title="Spanyolország",ES: ONDA CADIZ RTV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76274
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="Spanyolország",ES: (FHD) DAZN 1
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76443
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="Spanyolország",ES: (HD) DAZN 1
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76444
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="ES: (SD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="Spanyolország",ES: (SD) DAZN 1
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76445
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="ES: DAZN 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="Spanyolország",ES: DAZN 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76446
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="ES: DAZN 2 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="Spanyolország",ES: DAZN 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76447
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="ES: DAZN 3 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="Spanyolország",ES: DAZN 3 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76448
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="ES: DAZN 4 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="Spanyolország",ES: DAZN 4 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76449
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="ES: NFL NETWORK FHD" tvg-logo="https://docdog.top/logo/countries/new/es/other/NFL_NETWORK.png" group-title="Spanyolország",ES: NFL NETWORK FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76450
+#EXTINF:-1 tvg-id="NFL Network" tvg-name="ES: NFL NETWORK HD" tvg-logo="https://docdog.top/logo/countries/new/es/other/NFL_NETWORK.png" group-title="Spanyolország",ES: NFL NETWORK HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76451
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="ES: RED BULL TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/other/RED_BULL_TV.png" group-title="Spanyolország",ES: RED BULL TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76452
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="ES: RED BULL TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/other/RED_BULL_TV.png" group-title="Spanyolország",ES: RED BULL TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76453
+#EXTINF:-1 tvg-id="Unbeaten" tvg-name="ES: UNBEATEN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/other/UNBEATEN.png" group-title="Spanyolország",ES: UNBEATEN FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76454
+#EXTINF:-1 tvg-id="Unbeaten" tvg-name="ES: UNBEATEN HD" tvg-logo="https://docdog.top/logo/countries/new/es/other/UNBEATEN.png" group-title="Spanyolország",ES: UNBEATEN HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76455
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="Spanyolország",ES: (FHD) M+ VAMOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76456
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="ES: (HD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="Spanyolország",ES: (HD) M+ VAMOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76457
+#EXTINF:-1 tvg-id="M+ VAMOS 2 HD" tvg-name="ES: M+ VAMOS 2 FHD" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="Spanyolország",ES: M+ VAMOS 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76458
+#EXTINF:-1 tvg-id="M+ VAMOS 2 HD" tvg-name="ES: M+ VAMOS 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/M_VAMOS_2.png" group-title="Spanyolország",ES: M+ VAMOS 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76459
+#EXTINF:-1 tvg-id="M+ VAMOS 3" tvg-name="ES: M+ VAMOS 3 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/M_VAMOS_3.png" group-title="Spanyolország",ES: M+ VAMOS 3 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76460
+#EXTINF:-1 tvg-id="M+ VAMOS 3" tvg-name="ES: M+ VAMOS 3 HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/M_VAMOS_3.png" group-title="Spanyolország",ES: M+ VAMOS 3 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76461
+#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="Spanyolország",ES: (FHD) M+ DEPORTES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76462
+#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="Spanyolország",ES: (HD) M+ DEPORTES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76463
+#EXTINF:-1 tvg-id="M+.Deportes.2.es" tvg-name="ES: M+ DEPORTES 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="Spanyolország",ES: M+ DEPORTES 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76464
+#EXTINF:-1 tvg-id="M+.Deportes.3.es" tvg-name="ES: M+ DEPORTES 3 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="Spanyolország",ES: M+ DEPORTES 3 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76465
+#EXTINF:-1 tvg-id="M+.Deportes.4.es" tvg-name="ES: M+ DEPORTES 4 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="Spanyolország",ES: M+ DEPORTES 4 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76466
+#EXTINF:-1 tvg-id="M+.Deportes.5.es" tvg-name="ES: M+ DEPORTES 5 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="Spanyolország",ES: M+ DEPORTES 5 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76467
+#EXTINF:-1 tvg-id="M+.Deportes.6.es" tvg-name="ES: M+ DEPORTES 6 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="Spanyolország",ES: M+ DEPORTES 6 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76468
+#EXTINF:-1 tvg-id="M+.Deportes.7.es" tvg-name="ES: M+ DEPORTES 7 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="Spanyolország",ES: M+ DEPORTES 7 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76469
+#EXTINF:-1 tvg-id="M+DEPORTES8" tvg-name="ES: M+ DEPORTES 8 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/M_DEPORTES_8.png" group-title="Spanyolország",ES: M+ DEPORTES 8 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76470
+#EXTINF:-1 tvg-id="M+.Deportes.2.es" tvg-name="ES: M+ DEPORTES 2 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="Spanyolország",ES: M+ DEPORTES 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76471
+#EXTINF:-1 tvg-id="M+.Deportes.3.es" tvg-name="ES: M+ DEPORTES 3 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="Spanyolország",ES: M+ DEPORTES 3 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76472
+#EXTINF:-1 tvg-id="M+.Deportes.4.es" tvg-name="ES: M+ DEPORTES 4 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="Spanyolország",ES: M+ DEPORTES 4 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76473
+#EXTINF:-1 tvg-id="M+.Deportes.5.es" tvg-name="ES: M+ DEPORTES 5 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="Spanyolország",ES: M+ DEPORTES 5 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76474
+#EXTINF:-1 tvg-id="M+.Deportes.6.es" tvg-name="ES: M+ DEPORTES 6 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="Spanyolország",ES: M+ DEPORTES 6 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76475
+#EXTINF:-1 tvg-id="M+.Deportes.7.es" tvg-name="ES: M+ DEPORTES 7 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="Spanyolország",ES: M+ DEPORTES 7 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76476
+#EXTINF:-1 tvg-id="M+DEPORTES8" tvg-name="ES: M+ DEPORTES 8 HD" tvg-logo="https://docdog.top/logo/countries/new/es/movistar/M_DEPORTES_8.png" group-title="Spanyolország",ES: M+ DEPORTES 8 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76477
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ELLAS V FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="Spanyolország",ES: M+ ELLAS V FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76478
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ELLAS V HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="Spanyolország",ES: M+ ELLAS V HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76479
+#EXTINF:-1 tvg-id="M+.Golf.es" tvg-name="ES: M+ GOLF FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="Spanyolország",ES: M+ GOLF FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76480
+#EXTINF:-1 tvg-id="M+.Golf.es" tvg-name="ES: M+ GOLF HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="Spanyolország",ES: M+ GOLF HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76481
+#EXTINF:-1 tvg-id="M+.Golf.2.es" tvg-name="ES: M+ GOLF 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="Spanyolország",ES: M+ GOLF 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76482
+#EXTINF:-1 tvg-id="M+.Golf.2.es" tvg-name="ES: M+ GOLF 2 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="Spanyolország",ES: M+ GOLF 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76483
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COPA DEL REY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="Spanyolország",ES: M+ COPA DEL REY FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76484
+#EXTINF:-1 tvg-id="M+.Estrenos.es" tvg-name="ES: M+ ESTRENOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="Spanyolország",ES: M+ ESTRENOS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76519
+#EXTINF:-1 tvg-id="M+.Hits.es" tvg-name="ES: M+ HITS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="Spanyolország",ES: M+ HITS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76520
+#EXTINF:-1 tvg-id="M+.Clásicos.es" tvg-name="ES: M+ CLÁSICOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="Spanyolország",ES: M+ CLÁSICOS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76521
+#EXTINF:-1 tvg-id="M+.Acción.es" tvg-name="ES: M+ ACCIÓN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="Spanyolország",ES: M+ ACCIÓN FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76522
+#EXTINF:-1 tvg-id="M+.Comedia.es" tvg-name="ES: M+ COMEDIA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="Spanyolország",ES: M+ COMEDIA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76523
+#EXTINF:-1 tvg-id="M+.Drama.es" tvg-name="ES: M+ DRAMA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="Spanyolország",ES: M+ DRAMA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76524
+#EXTINF:-1 tvg-id="M+.Indie.es" tvg-name="ES: M+ INDIE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="Spanyolország",ES: M+ INDIE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76525
+#EXTINF:-1 tvg-id="M+.Cine.Espanol.es" tvg-name="ES: M+ CINE ESPANOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="Spanyolország",ES: M+ CINE ESPANOL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76526
+#EXTINF:-1 tvg-id="Calle.13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="Spanyolország",ES: CALLE 13 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76527
+#EXTINF:-1 tvg-id="COSMO.es" tvg-name="ES: COSMO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="Spanyolország",ES: COSMO FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76528
+#EXTINF:-1 tvg-id="Syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="Spanyolország",ES: SYFY FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76529
+#EXTINF:-1 tvg-id="SkyShowtime.1.es" tvg-name="ES: SKYSHOWTIME 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="Spanyolország",ES: SKYSHOWTIME 1 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76530
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="Spanyolország",ES: STAR CHANNEL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76531
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES: TCM FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="Spanyolország",ES: TCM FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76532
+#EXTINF:-1 tvg-id="Paramount.Network.es" tvg-name="ES: PARAMOUNT CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="Spanyolország",ES: PARAMOUNT CHANNEL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76533
+#EXTINF:-1 tvg-id="Be.Mad.es" tvg-name="ES: BE MAD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="Spanyolország",ES: BE MAD FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76534
+#EXTINF:-1 tvg-id="Warner.TV.es" tvg-name="ES: WARNER TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="Spanyolország",ES: WARNER TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76535
+#EXTINF:-1 tvg-id="C.Hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="Spanyolország",ES: HOLLYWOOD FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76536
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="Spanyolország",ES: AXN FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76537
+#EXTINF:-1 tvg-id="Comedy.Central.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="Spanyolország",ES: COMEDY CENTRAL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76538
+#EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="ES: M+ ORIGINALES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="Spanyolország",ES: M+ ORIGINALES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76539
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES: DARK FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="Spanyolország",ES: DARK FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76540
+#EXTINF:-1 tvg-id="Sundance.Channel.es" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="Spanyolország",ES: SUNDANCE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76541
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES: AMC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="Spanyolország",ES: AMC FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76542
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES: SOMOS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="Spanyolország",ES: SOMOS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76543
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES: XTRM FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="Spanyolország",ES: XTRM FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76544
+#EXTINF:-1 tvg-id="AMC.Crime.es" tvg-name="ES: AMC CRIME FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="Spanyolország",ES: AMC CRIME FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76545
+#EXTINF:-1 tvg-id="AXN.Movies.es" tvg-name="ES: AXN MOVIES FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Spanyolország",ES: AXN MOVIES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76546
+#EXTINF:-1 tvg-id="" tvg-name="ES: BBC SERIES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_SERIES.png" group-title="Spanyolország",ES: BBC SERIES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76547
+#EXTINF:-1 tvg-id="M+ Los 2000" tvg-name="ES: M+ LOS 2000 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="Spanyolország",ES: M+ LOS 2000 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76548
+#EXTINF:-1 tvg-id="M+ Top Comedia Espanola" tvg-name="ES: M+ TOP COMEDIA ESPANOLA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="Spanyolország",ES: M+ TOP COMEDIA ESPANOLA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76549
+#EXTINF:-1 tvg-id="HBO.Max.Avances.es" tvg-name="ES: MAX AVANCES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="Spanyolország",ES: MAX AVANCES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76550
+#EXTINF:-1 tvg-id="SQUIRREL" tvg-name="ES: SQUIRREL TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/SQUIRREL_TV.png" group-title="Spanyolország",ES: SQUIRREL TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76551
+#EXTINF:-1 tvg-id="BOM.Cine.es" tvg-name="ES: BOM CINE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/BOM_CINE.png" group-title="Spanyolország",ES: BOM CINE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76552
+#EXTINF:-1 tvg-id="Gametoon" tvg-name="ES: GAMETOON FHD" tvg-logo="https://docdog.top/logo/countries/new/es/GAMETOON.png" group-title="Spanyolország",ES: GAMETOON FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76553
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL FLIXOLE 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="Spanyolország",ES: CANAL FLIXOLE 1 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76554
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL FLIXOLE 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="Spanyolország",ES: CANAL FLIXOLE 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76555
+#EXTINF:-1 tvg-id="M+.Estrenos.es" tvg-name="ES: M+ ESTRENOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="Spanyolország",ES: M+ ESTRENOS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76556
+#EXTINF:-1 tvg-id="M+.Hits.es" tvg-name="ES: M+ HITS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="Spanyolország",ES: M+ HITS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76557
+#EXTINF:-1 tvg-id="M+.Clásicos.es" tvg-name="ES: M+ CLÁSICOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="Spanyolország",ES: M+ CLÁSICOS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76558
+#EXTINF:-1 tvg-id="M+.Acción.es" tvg-name="ES: M+ ACCIÓN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="Spanyolország",ES: M+ ACCIÓN HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76559
+#EXTINF:-1 tvg-id="M+.Comedia.es" tvg-name="ES: M+ COMEDIA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="Spanyolország",ES: M+ COMEDIA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76560
+#EXTINF:-1 tvg-id="M+.Drama.es" tvg-name="ES: M+ DRAMA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="Spanyolország",ES: M+ DRAMA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76561
+#EXTINF:-1 tvg-id="M+.Indie.es" tvg-name="ES: M+ INDIE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="Spanyolország",ES: M+ INDIE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76562
+#EXTINF:-1 tvg-id="M+.Cine.Espanol.es" tvg-name="ES: M+ CINE ESPANOL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="Spanyolország",ES: M+ CINE ESPANOL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76563
+#EXTINF:-1 tvg-id="Calle.13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="Spanyolország",ES: CALLE 13 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76564
+#EXTINF:-1 tvg-id="COSMO.es" tvg-name="ES: COSMO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="Spanyolország",ES: COSMO HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76565
+#EXTINF:-1 tvg-id="Syfy.es" tvg-name="ES: SYFY HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="Spanyolország",ES: SYFY HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76566
+#EXTINF:-1 tvg-id="SkyShowtime.1.es" tvg-name="ES: SKYSHOWTIME 1 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="Spanyolország",ES: SKYSHOWTIME 1 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76567
+#EXTINF:-1 tvg-id="STAR Channel" tvg-name="ES: STAR CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="Spanyolország",ES: STAR CHANNEL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76568
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES: TCM HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="Spanyolország",ES: TCM HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76569
+#EXTINF:-1 tvg-id="Paramount.Network.es" tvg-name="ES: PARAMOUNT CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="Spanyolország",ES: PARAMOUNT CHANNEL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76570
+#EXTINF:-1 tvg-id="Be.Mad.es" tvg-name="ES: BE MAD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="Spanyolország",ES: BE MAD HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76571
+#EXTINF:-1 tvg-id="Warner.TV.es" tvg-name="ES: WARNER TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="Spanyolország",ES: WARNER TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76572
+#EXTINF:-1 tvg-id="C.Hollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="Spanyolország",ES: HOLLYWOOD HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76573
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="Spanyolország",ES: AXN HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76574
+#EXTINF:-1 tvg-id="Comedy.Central.es" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="Spanyolország",ES: COMEDY CENTRAL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76575
+#EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="ES: M+ ORIGINALES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="Spanyolország",ES: M+ ORIGINALES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76576
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES: DARK HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="Spanyolország",ES: DARK HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76577
+#EXTINF:-1 tvg-id="Sundance.Channel.es" tvg-name="ES: SUNDANCE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="Spanyolország",ES: SUNDANCE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76578
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES: AMC HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="Spanyolország",ES: AMC HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76579
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="ES: SOMOS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="Spanyolország",ES: SOMOS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76580
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES: XTRM HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="Spanyolország",ES: XTRM HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76581
+#EXTINF:-1 tvg-id="AMC.Crime.es" tvg-name="ES: AMC CRIME HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="Spanyolország",ES: AMC CRIME HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76582
+#EXTINF:-1 tvg-id="AXN.Movies.es" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="Spanyolország",ES: AXN MOVIES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76583
+#EXTINF:-1 tvg-id="M+ Los 2000" tvg-name="ES: M+ LOS 2000 HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="Spanyolország",ES: M+ LOS 2000 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76584
+#EXTINF:-1 tvg-id="M+ Top Comedia Espanola" tvg-name="ES: M+ TOP COMEDIA ESPANOLA HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="Spanyolország",ES: M+ TOP COMEDIA ESPANOLA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76585
+#EXTINF:-1 tvg-id="HBO.Max.Avances.es" tvg-name="ES: MAX AVANCES HD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="Spanyolország",ES: MAX AVANCES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76586
+#EXTINF:-1 tvg-id="SQUIRREL" tvg-name="ES: SQUIRREL TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/SQUIRREL_TV.png" group-title="Spanyolország",ES: SQUIRREL TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76587
+#EXTINF:-1 tvg-id="BOM.Cine.es" tvg-name="ES: BOM CINE HD" tvg-logo="https://docdog.top/logo/countries/new/es/BOM_CINE.png" group-title="Spanyolország",ES: BOM CINE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76588
+#EXTINF:-1 tvg-id="Gametoon" tvg-name="ES: GAMETOON HD" tvg-logo="https://docdog.top/logo/countries/new/es/GAMETOON.png" group-title="Spanyolország",ES: GAMETOON HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76589
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL FLIXOLE 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_1.png" group-title="Spanyolország",ES: CANAL FLIXOLE 1 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76590
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL FLIXOLE 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/CANAL_FLIXOLE_2.png" group-title="Spanyolország",ES: CANAL FLIXOLE 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76591
+#EXTINF:-1 tvg-id="" tvg-name="ES: BBC SERIES HD" tvg-logo="https://docdog.top/logo/countries/new/es/BBC_SERIES.png" group-title="Spanyolország",ES: BBC SERIES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76592
+#EXTINF:-1 tvg-id="" tvg-name="ES: AL JAZEERA ENGLISH FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png" group-title="Spanyolország",ES: AL JAZEERA ENGLISH FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76633
+#EXTINF:-1 tvg-id="" tvg-name="ES: FRANCE24 (FR) FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png" group-title="Spanyolország",ES: FRANCE24 (FR) FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76634
+#EXTINF:-1 tvg-id="" tvg-name="ES: 1+1 INTERNACIONAL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png" group-title="Spanyolország",ES: 1+1 INTERNACIONAL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76635
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNBC FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNBC.png" group-title="Spanyolország",ES: CNBC FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76636
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV5MONDE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png" group-title="Spanyolország",ES: TV5MONDE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76637
+#EXTINF:-1 tvg-id="" tvg-name="ES: CGTN ESPANOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="Spanyolország",ES: CGTN ESPANOL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76638
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Bloomberg.png" group-title="Spanyolország",ES: BLOOMBERG FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76639
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="ES: 24 HORAS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="Spanyolország",ES: 24 HORAS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76640
+#EXTINF:-1 tvg-id="BBC World News Europe HD" tvg-name="ES: BBC WORLD FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BBC_World.png" group-title="Spanyolország",ES: BBC WORLD FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76641
+#EXTINF:-1 tvg-id="CNN.Internacional.es" tvg-name="ES: CNN INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNN_Int.png" group-title="Spanyolország",ES: CNN INT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76642
+#EXTINF:-1 tvg-id="Euronews.es" tvg-name="ES: EURONEWS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="Spanyolország",ES: EURONEWS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76643
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="Spanyolország",ES: NEGOCIOS TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76644
+#EXTINF:-1 tvg-id="Canal.Sur.es" tvg-name="ES: CANAL SUR ANDALUCÍA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="Spanyolország",ES: CANAL SUR ANDALUCÍA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76645
+#EXTINF:-1 tvg-id="Galicia.TV.es" tvg-name="ES: TVG EUROPA FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png" group-title="Spanyolország",ES: TVG EUROPA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76646
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA SAT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="Spanyolország",ES: CANAL EXTREMADURA SAT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76647
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGÓN TV INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="Spanyolország",ES: ARAGÓN TV INT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76648
+#EXTINF:-1 tvg-id="etb2ON" tvg-name="ES: EITB BASQUE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png" group-title="Spanyolország",ES: EITB BASQUE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76649
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES: TELEMADRID INT FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="Spanyolország",ES: TELEMADRID INT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76650
+#EXTINF:-1 tvg-id="" tvg-name="ES: CARACOL TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/CARACOL_TV.png" group-title="Spanyolország",ES: CARACOL TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76651
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/PRO_TV.png" group-title="Spanyolország",ES: PRO TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76652
+#EXTINF:-1 tvg-id="Canal.24.h.es" tvg-name="ES: 24 HORAS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="Spanyolország",ES: 24 HORAS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76653
+#EXTINF:-1 tvg-id="Euronews.es" tvg-name="ES: EURONEWS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="Spanyolország",ES: EURONEWS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76654
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="Spanyolország",ES: NEGOCIOS TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76655
+#EXTINF:-1 tvg-id="Canal.Sur.es" tvg-name="ES: CANAL SUR ANDALUCÍA HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="Spanyolország",ES: CANAL SUR ANDALUCÍA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76656
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL EXTREMADURA SAT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="Spanyolország",ES: CANAL EXTREMADURA SAT HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76657
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGÓN TV INT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="Spanyolország",ES: ARAGÓN TV INT HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76658
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES: TELEMADRID INT HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="Spanyolország",ES: TELEMADRID INT HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76659
+#EXTINF:-1 tvg-id="" tvg-name="ES: CARACOL TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/CARACOL_TV.png" group-title="Spanyolország",ES: CARACOL TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76660
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRO TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/PRO_TV.png" group-title="Spanyolország",ES: PRO TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76661
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="ES: MEZZO FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="Spanyolország",ES: MEZZO FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76681
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="Spanyolország",ES: MEZZO LIVE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76682
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="ES: MEZZO HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="Spanyolország",ES: MEZZO HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76684
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="Spanyolország",ES: MEZZO LIVE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76685
+#EXTINF:-1 tvg-id="Baby.TV.es" tvg-name="ES: BABY TV FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="Spanyolország",ES: BABY TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76686
+#EXTINF:-1 tvg-id="Disney.Junior.es" tvg-name="ES: DISNEY JUNIOR FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="Spanyolország",ES: DISNEY JUNIOR FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76687
+#EXTINF:-1 tvg-id="Nick.Junior.es" tvg-name="ES: NICK JR FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="Spanyolország",ES: NICK JR FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76688
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="Spanyolország",ES: NICKELODEON FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76689
+#EXTINF:-1 tvg-id="Dreamworks.es" tvg-name="ES: DREAMWORKS FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="Spanyolország",ES: DREAMWORKS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76690
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Spanyolország",ES: DISNEY CHANNEL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76691
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES: BOING FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="Spanyolország",ES: BOING FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76692
+#EXTINF:-1 tvg-id="Disney.Junior.es" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="Spanyolország",ES: DISNEY JUNIOR HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76693
+#EXTINF:-1 tvg-id="Anime Visión" tvg-name="ES: ANIME VISION FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION.png" group-title="Spanyolország",ES: ANIME VISION FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76694
+#EXTINF:-1 tvg-id="Anime Visión Classics" tvg-name="ES: ANIME VISION CLASSICS FHD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION_CLASSICS.png" group-title="Spanyolország",ES: ANIME VISION CLASSICS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76695
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="ES: CLAN TVE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="Spanyolország",ES: CLAN TVE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76696
+#EXTINF:-1 tvg-id="Nick.Junior.es" tvg-name="ES: NICK JR HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="Spanyolország",ES: NICK JR HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76697
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="Spanyolország",ES: NICKELODEON HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76698
+#EXTINF:-1 tvg-id="Dreamworks.es" tvg-name="ES: DREAMWORKS HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="Spanyolország",ES: DREAMWORKS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76699
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Spanyolország",ES: DISNEY CHANNEL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76700
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES: BOING HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="Spanyolország",ES: BOING HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76701
+#EXTINF:-1 tvg-id="Clan.es" tvg-name="ES: CLAN TVE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="Spanyolország",ES: CLAN TVE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76702
+#EXTINF:-1 tvg-id="Anime Visión" tvg-name="ES: ANIME VISION HD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION.png" group-title="Spanyolország",ES: ANIME VISION HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76703
+#EXTINF:-1 tvg-id="Anime Visión Classics" tvg-name="ES: ANIME VISION CLASSICS HD" tvg-logo="https://docdog.top/logo/countries/new/es/ANIME_VISION_CLASSICS.png" group-title="Spanyolország",ES: ANIME VISION CLASSICS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76704
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/24H.png" group-title="Spanyolország",ES: 24H FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76722
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/24H.png" group-title="Spanyolország",ES: 24H HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76723
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24H SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/24H.png" group-title="Spanyolország",ES: 24H SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76724
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 RM FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/7_RM.png" group-title="Spanyolország",ES: 7 RM FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76725
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 RM HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/7_RM.png" group-title="Spanyolország",ES: 7 RM HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76726
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 RM SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/7_RM.png" group-title="Spanyolország",ES: 7 RM SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76727
+#EXTINF:-1 tvg-id="" tvg-name="ES: A PUNT FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/A_PUNT.png" group-title="Spanyolország",ES: A PUNT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76728
+#EXTINF:-1 tvg-id="" tvg-name="ES: A PUNT HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/A_PUNT.png" group-title="Spanyolország",ES: A PUNT HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76729
+#EXTINF:-1 tvg-id="" tvg-name="ES: A PUNT SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/A_PUNT.png" group-title="Spanyolország",ES: A PUNT SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76730
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC_BREAK.png" group-title="Spanyolország",ES: AMC BREAK FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76731
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC_BREAK.png" group-title="Spanyolország",ES: AMC BREAK HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76732
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC_BREAK.png" group-title="Spanyolország",ES: AMC BREAK SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76733
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC_CRIME.png" group-title="Spanyolország",ES: AMC CRIME FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76734
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC_CRIME.png" group-title="Spanyolország",ES: AMC CRIME HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76735
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC_CRIME.png" group-title="Spanyolország",ES: AMC CRIME SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76736
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC.png" group-title="Spanyolország",ES: AMC FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76737
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC.png" group-title="Spanyolország",ES: AMC HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76738
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AMC.png" group-title="Spanyolország",ES: AMC SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76739
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ANDALUCIA_TV.png" group-title="Spanyolország",ES: ANDALUCIA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76740
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ANTENA_3.png" group-title="Spanyolország",ES: ANTENA 3
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76741
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ARAGON_TV.png" group-title="Spanyolország",ES: ARAGON TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76742
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ARAGON_TV.png" group-title="Spanyolország",ES: ARAGON TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76743
+#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ARAGON_TV.png" group-title="Spanyolország",ES: ARAGON TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76744
+#EXTINF:-1 tvg-id="" tvg-name="ES: ATRESERIES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ATRESERIES.png" group-title="Spanyolország",ES: ATRESERIES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76745
+#EXTINF:-1 tvg-id="" tvg-name="ES: ATRESERIES HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ATRESERIES.png" group-title="Spanyolország",ES: ATRESERIES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76746
+#EXTINF:-1 tvg-id="" tvg-name="ES: ATRESERIES SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ATRESERIES.png" group-title="Spanyolország",ES: ATRESERIES SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76747
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AXN.png" group-title="Spanyolország",ES: AXN FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76748
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AXN.png" group-title="Spanyolország",ES: AXN HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76749
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AXN.png" group-title="Spanyolország",ES: AXN SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76750
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AXN_MOVIES.png" group-title="Spanyolország",ES: AXN MOVIES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76751
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AXN_MOVIES.png" group-title="Spanyolország",ES: AXN MOVIES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76752
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/AXN_MOVIES.png" group-title="Spanyolország",ES: AXN MOVIES SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76753
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BETIS_TV.png" group-title="Spanyolország",ES: BETIS TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76754
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BETIS_TV.png" group-title="Spanyolország",ES: BETIS TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76755
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BETIS_TV.png" group-title="Spanyolország",ES: BETIS TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76756
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BE_MAD.png" group-title="Spanyolország",ES: BE MAD FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76757
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BE_MAD.png" group-title="Spanyolország",ES: BE MAD HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76758
+#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BE_MAD.png" group-title="Spanyolország",ES: BE MAD SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76759
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BOING.png" group-title="Spanyolország",ES: BOING FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76760
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BOING.png" group-title="Spanyolország",ES: BOING HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76761
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOING SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BOING.png" group-title="Spanyolország",ES: BOING SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76762
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BOM_CINE.png" group-title="Spanyolország",ES: BOM CINE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76763
+#EXTINF:-1 tvg-id="" tvg-name="ES: BUEN VIAJE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BUEN_VIAJE.png" group-title="Spanyolország",ES: BUEN VIAJE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76764
+#EXTINF:-1 tvg-id="" tvg-name="ES: BUEN VIAJE HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BUEN_VIAJE.png" group-title="Spanyolország",ES: BUEN VIAJE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76765
+#EXTINF:-1 tvg-id="" tvg-name="ES: BUEN VIAJE SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/BUEN_VIAJE.png" group-title="Spanyolország",ES: BUEN VIAJE SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76766
+#EXTINF:-1 tvg-id="" tvg-name="ES: CABLE UNION FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CABLE_UNION.png" group-title="Spanyolország",ES: CABLE UNION FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76767
+#EXTINF:-1 tvg-id="" tvg-name="ES: CABLE UNION HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CABLE_UNION.png" group-title="Spanyolország",ES: CABLE UNION HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76768
+#EXTINF:-1 tvg-id="" tvg-name="ES: CABLE UNION SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CABLE_UNION.png" group-title="Spanyolország",ES: CABLE UNION SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76769
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CALLE_13.png" group-title="Spanyolország",ES: CALLE 13 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76770
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CALLE_13.png" group-title="Spanyolország",ES: CALLE 13 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76771
+#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CALLE_13.png" group-title="Spanyolország",ES: CALLE 13 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76772
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_COCINA.png" group-title="Spanyolország",ES: CANAL COCINA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76773
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_COCINA.png" group-title="Spanyolország",ES: CANAL COCINA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76774
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_COCINA.png" group-title="Spanyolország",ES: CANAL COCINA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76775
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COSTA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_COSTA.png" group-title="Spanyolország",ES: CANAL COSTA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76776
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COSTA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_COSTA.png" group-title="Spanyolország",ES: CANAL COSTA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76777
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COSTA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_COSTA.png" group-title="Spanyolország",ES: CANAL COSTA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76778
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL LUZ FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_LUZ.png" group-title="Spanyolország",ES: CANAL LUZ FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76779
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL LUZ HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_LUZ.png" group-title="Spanyolország",ES: CANAL LUZ HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76780
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL LUZ SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_LUZ.png" group-title="Spanyolország",ES: CANAL LUZ SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76781
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR 2" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_SUR_2.png" group-title="Spanyolország",ES: CANAL SUR 2
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76782
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_SUR.png" group-title="Spanyolország",ES: CANAL SUR FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76783
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_SUR.png" group-title="Spanyolország",ES: CANAL SUR HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76784
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANAL_SUR.png" group-title="Spanyolország",ES: CANAL SUR SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76785
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANALE EXTREMADURA" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CANALE_EXTREMADURA.png" group-title="Spanyolország",ES: CANALE EXTREMADURA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76786
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CLAN.png" group-title="Spanyolország",ES: CLAN FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76787
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CLAN.png" group-title="Spanyolország",ES: CLAN HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76788
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CLAN.png" group-title="Spanyolország",ES: CLAN SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76789
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CMM_TV.png" group-title="Spanyolország",ES: CMM TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76790
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CMM_TV.png" group-title="Spanyolország",ES: CMM TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76791
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMM TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CMM_TV.png" group-title="Spanyolország",ES: CMM TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76792
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/COMEDY_CENTRAL.png" group-title="Spanyolország",ES: COMEDY CENTRAL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76793
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/COMEDY_CENTRAL.png" group-title="Spanyolország",ES: COMEDY CENTRAL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76794
+#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/COMEDY_CENTRAL.png" group-title="Spanyolország",ES: COMEDY CENTRAL SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76795
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYL 7  SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CYL_7_.png" group-title="Spanyolország",ES: CYL 7  SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76796
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYL 7 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CYL_7.png" group-title="Spanyolország",ES: CYL 7 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76797
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYL 7 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CYL_7.png" group-title="Spanyolország",ES: CYL 7 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76798
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYL 8 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CYL_8.png" group-title="Spanyolország",ES: CYL 8 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76799
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYL 8 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CYL_8.png" group-title="Spanyolország",ES: CYL 8 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76800
+#EXTINF:-1 tvg-id="" tvg-name="ES: CYL 8 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/CYL_8.png" group-title="Spanyolország",ES: CYL 8 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76801
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DARK.png" group-title="Spanyolország",ES: DARK FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76802
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DARK.png" group-title="Spanyolország",ES: DARK HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76803
+#EXTINF:-1 tvg-id="" tvg-name="ES: DARK SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DARK.png" group-title="Spanyolország",ES: DARK SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76804
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DBIKE.png" group-title="Spanyolország",ES: DBIKE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76805
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DBIKE.png" group-title="Spanyolország",ES: DBIKE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76806
+#EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DBIKE.png" group-title="Spanyolország",ES: DBIKE SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76807
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DISCOVERY.png" group-title="Spanyolország",ES: DISCOVERY FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76808
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DISCOVERY.png" group-title="Spanyolország",ES: DISCOVERY HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76809
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DISCOVERY.png" group-title="Spanyolország",ES: DISCOVERY SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76810
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANEL" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DISNEY_CHANEL.png" group-title="Spanyolország",ES: DISNEY CHANEL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76811
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DIVINITY.png" group-title="Spanyolország",ES: DIVINITY FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76812
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DIVINITY.png" group-title="Spanyolország",ES: DIVINITY HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76813
+#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DIVINITY.png" group-title="Spanyolország",ES: DIVINITY SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76814
+#EXTINF:-1 tvg-id="" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DKISS.png" group-title="Spanyolország",ES: DKISS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76815
+#EXTINF:-1 tvg-id="" tvg-name="ES: DOCE TV VISO FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DOCE_TV_VISO.png" group-title="Spanyolország",ES: DOCE TV VISO FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76816
+#EXTINF:-1 tvg-id="" tvg-name="ES: DOCE TV VISO HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DOCE_TV_VISO.png" group-title="Spanyolország",ES: DOCE TV VISO HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76817
+#EXTINF:-1 tvg-id="" tvg-name="ES: DOCE TV VISO SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/DOCE_TV_VISO.png" group-title="Spanyolország",ES: DOCE TV VISO SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76818
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL TORO FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/EL_TORO.png" group-title="Spanyolország",ES: EL TORO FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76819
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL TORO HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/EL_TORO.png" group-title="Spanyolország",ES: EL TORO HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76820
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL TORO SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/EL_TORO.png" group-title="Spanyolország",ES: EL TORO SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76821
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ENERGY.png" group-title="Spanyolország",ES: ENERGY FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76822
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ENERGY.png" group-title="Spanyolország",ES: ENERGY HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76823
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ENERGY.png" group-title="Spanyolország",ES: ENERGY SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76824
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPORT 3" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ESPORT_3.png" group-title="Spanyolország",ES: ESPORT 3
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76825
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB_1.png" group-title="Spanyolország",ES: ETB 1 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76826
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB_1.png" group-title="Spanyolország",ES: ETB 1 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76827
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB_1.png" group-title="Spanyolország",ES: ETB 1 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76828
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB_2.png" group-title="Spanyolország",ES: ETB 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76829
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB_2.png" group-title="Spanyolország",ES: ETB 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76830
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB_2.png" group-title="Spanyolország",ES: ETB 2 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76831
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB3 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB3.png" group-title="Spanyolország",ES: ETB3 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76832
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB3 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB3.png" group-title="Spanyolország",ES: ETB3 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76833
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB3 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB3.png" group-title="Spanyolország",ES: ETB3 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76834
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB4" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ETB4.png" group-title="Spanyolország",ES: ETB4
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76835
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FDF.png" group-title="Spanyolország",ES: FDF FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76836
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FDF.png" group-title="Spanyolország",ES: FDF HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76837
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FDF.png" group-title="Spanyolország",ES: FDF SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76838
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIGHT TIME FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FIGHT_TIME.png" group-title="Spanyolország",ES: FIGHT TIME FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76839
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIGHT TIME HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FIGHT_TIME.png" group-title="Spanyolország",ES: FIGHT TIME HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76840
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIGHT TIME SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FIGHT_TIME.png" group-title="Spanyolország",ES: FIGHT TIME SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76841
+#EXTINF:-1 tvg-id="" tvg-name="ES: FTV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FTV.png" group-title="Spanyolország",ES: FTV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76842
+#EXTINF:-1 tvg-id="" tvg-name="ES: FTV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FTV.png" group-title="Spanyolország",ES: FTV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76843
+#EXTINF:-1 tvg-id="" tvg-name="ES: FTV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/FTV.png" group-title="Spanyolország",ES: FTV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76844
+#EXTINF:-1 tvg-id="" tvg-name="ES: GLOBAL TELENOVELAS FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png" group-title="Spanyolország",ES: GLOBAL TELENOVELAS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76845
+#EXTINF:-1 tvg-id="" tvg-name="ES: GLOBAL TELENOVELAS HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png" group-title="Spanyolország",ES: GLOBAL TELENOVELAS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76846
+#EXTINF:-1 tvg-id="" tvg-name="ES: GLOBAL TELENOVELAS SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TELENOVELAS.png" group-title="Spanyolország",ES: GLOBAL TELENOVELAS SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76847
+#EXTINF:-1 tvg-id="" tvg-name="ES: GLOBAL TENDENCIAS" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/GLOBAL_TENDENCIAS.png" group-title="Spanyolország",ES: GLOBAL TENDENCIAS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76848
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HISTORIA.png" group-title="Spanyolország",ES: HISTORIA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76849
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HISTORIA.png" group-title="Spanyolország",ES: HISTORIA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76850
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HISTORIA.png" group-title="Spanyolország",ES: HISTORIA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76851
+#EXTINF:-1 tvg-id="" tvg-name="ES: HIT TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HIT_TV.png" group-title="Spanyolország",ES: HIT TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76852
+#EXTINF:-1 tvg-id="" tvg-name="ES: HIT TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HIT_TV.png" group-title="Spanyolország",ES: HIT TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76853
+#EXTINF:-1 tvg-id="" tvg-name="ES: HIT TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HIT_TV.png" group-title="Spanyolország",ES: HIT TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76854
+#EXTINF:-1 tvg-id="" tvg-name="ES: HUELVA TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HUELVA_TV.png" group-title="Spanyolország",ES: HUELVA TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76855
+#EXTINF:-1 tvg-id="" tvg-name="ES: HUELVA TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HUELVA_TV.png" group-title="Spanyolország",ES: HUELVA TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76856
+#EXTINF:-1 tvg-id="" tvg-name="ES: HUELVA TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/HUELVA_TV.png" group-title="Spanyolország",ES: HUELVA TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76857
+#EXTINF:-1 tvg-id="" tvg-name="ES: IB 3 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IB_3.png" group-title="Spanyolország",ES: IB 3 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76858
+#EXTINF:-1 tvg-id="" tvg-name="ES: IB 3 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IB_3.png" group-title="Spanyolország",ES: IB 3 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76859
+#EXTINF:-1 tvg-id="" tvg-name="ES: IB 3 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IB_3.png" group-title="Spanyolország",ES: IB 3 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76860
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA CAZA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png" group-title="Spanyolország",ES: IBERALIA CAZA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76861
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA CAZA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png" group-title="Spanyolország",ES: IBERALIA CAZA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76862
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA CAZA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA_CAZA.png" group-title="Spanyolország",ES: IBERALIA CAZA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76863
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA.png" group-title="Spanyolország",ES: IBERALIA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76864
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA.png" group-title="Spanyolország",ES: IBERALIA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76865
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA.png" group-title="Spanyolország",ES: IBERALIA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76866
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png" group-title="Spanyolország",ES: IBERALIA PESCA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76867
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png" group-title="Spanyolország",ES: IBERALIA PESCA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76868
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA PESCA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/IBERALIA_PESCA.png" group-title="Spanyolország",ES: IBERALIA PESCA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76869
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_2.png" group-title="Spanyolország",ES: LA 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76870
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_2.png" group-title="Spanyolország",ES: LA 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76871
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_2.png" group-title="Spanyolország",ES: LA 2 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76872
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 8 MEDITERRANEO FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_8_MEDITERRANEO.png" group-title="Spanyolország",ES: LA 8 MEDITERRANEO FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76873
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 8 MEDITERRANEO HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_8_MEDITERRANEO.png" group-title="Spanyolország",ES: LA 8 MEDITERRANEO HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76874
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 8 MEDITERRANEO SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_8_MEDITERRANEO.png" group-title="Spanyolország",ES: LA 8 MEDITERRANEO SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76875
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA OTRA" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_OTRA.png" group-title="Spanyolország",ES: LA OTRA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76876
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LA_SEXTA.png" group-title="Spanyolország",ES: LA SEXTA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76877
+#EXTINF:-1 tvg-id="" tvg-name="ES: LEBRIJA TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LEBRIJA_TV.png" group-title="Spanyolország",ES: LEBRIJA TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76878
+#EXTINF:-1 tvg-id="" tvg-name="ES: LEBRIJA TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LEBRIJA_TV.png" group-title="Spanyolország",ES: LEBRIJA TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76879
+#EXTINF:-1 tvg-id="" tvg-name="ES: LEBRIJA TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LEBRIJA_TV.png" group-title="Spanyolország",ES: LEBRIJA TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76880
+#EXTINF:-1 tvg-id="" tvg-name="ES: LEVANTE TV" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/LEVANTE_TV.png" group-title="Spanyolország",ES: LEVANTE TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76881
+#EXTINF:-1 tvg-id="" tvg-name="ES: MARS 24" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MARS_24.png" group-title="Spanyolország",ES: MARS 24
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76882
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEDINFOR" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MEDINFOR.png" group-title="Spanyolország",ES: MEDINFOR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76883
+#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MEGA.png" group-title="Spanyolország",ES: MEGA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76884
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MOTO_ADV.png" group-title="Spanyolország",ES: MOTO ADV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76885
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MOTO_ADV.png" group-title="Spanyolország",ES: MOTO ADV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76886
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOTO ADV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MOTO_ADV.png" group-title="Spanyolország",ES: MOTO ADV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76887
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MTV.png" group-title="Spanyolország",ES: MTV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76889
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MTV.png" group-title="Spanyolország",ES: MTV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76890
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/MTV.png" group-title="Spanyolország",ES: MTV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76891
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAUTICA TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/NAUTICA_TV.png" group-title="Spanyolország",ES: NAUTICA TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76892
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAUTICA TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/NAUTICA_TV.png" group-title="Spanyolország",ES: NAUTICA TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76893
+#EXTINF:-1 tvg-id="" tvg-name="ES: NAUTICA TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/NAUTICA_TV.png" group-title="Spanyolország",ES: NAUTICA TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76894
+#EXTINF:-1 tvg-id="" tvg-name="ES: SQUIREEL 2" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/Squireel_2.png" group-title="Spanyolország",ES: SQUIREEL 2
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76895
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR AVTAEL" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/NICK_JR_AVTAEL.png" group-title="Spanyolország",ES: NICK JR AVTAEL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76896
+#EXTINF:-1 tvg-id="" tvg-name="ES: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/NICKELODEON.png" group-title="Spanyolország",ES: NICKELODEON
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76897
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/NOVA.png" group-title="Spanyolország",ES: NOVA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76898
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ODISEA.png" group-title="Spanyolország",ES: ODISEA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76899
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ODISEA.png" group-title="Spanyolország",ES: ODISEA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76900
+#EXTINF:-1 tvg-id="" tvg-name="ES: ODISEA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/ODISEA.png" group-title="Spanyolország",ES: ODISEA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76901
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT NETWORK" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/PARAMOUNT_NETWORK.png" group-title="Spanyolország",ES: PARAMOUNT NETWORK
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76902
+#EXTINF:-1 tvg-id="" tvg-name="ES: PELUCHE" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/PELUCHE.png" group-title="Spanyolország",ES: PELUCHE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76903
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/REAL_MADRID_TV.png" group-title="Spanyolország",ES: REAL MADRID TV FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76904
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/REAL_MADRID_TV.png" group-title="Spanyolország",ES: REAL MADRID TV HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76905
+#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/REAL_MADRID_TV.png" group-title="Spanyolország",ES: REAL MADRID TV SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76906
+#EXTINF:-1 tvg-id="" tvg-name="ES: SELEKT FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SELEKT.png" group-title="Spanyolország",ES: SELEKT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76907
+#EXTINF:-1 tvg-id="" tvg-name="ES: SELEKT HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SELEKT.png" group-title="Spanyolország",ES: SELEKT HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76908
+#EXTINF:-1 tvg-id="" tvg-name="ES: SELEKT SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SELEKT.png" group-title="Spanyolország",ES: SELEKT SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76909
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SOMOS.png" group-title="Spanyolország",ES: SOMOS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76910
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SOMOS.png" group-title="Spanyolország",ES: SOMOS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76911
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SOMOS.png" group-title="Spanyolország",ES: SOMOS SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76912
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SUNDANCE.png" group-title="Spanyolország",ES: SUNDANCE FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76913
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SUNDANCE.png" group-title="Spanyolország",ES: SUNDANCE HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76914
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SUNDANCE.png" group-title="Spanyolország",ES: SUNDANCE SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76915
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPER 333 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SUPER_333.png" group-title="Spanyolország",ES: SUPER 333 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76916
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPER 333 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SUPER_333.png" group-title="Spanyolország",ES: SUPER 333 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76917
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUPER 333 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SUPER_333.png" group-title="Spanyolország",ES: SUPER 333 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76918
+#EXTINF:-1 tvg-id="" tvg-name="ES: SURF CHANEL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SURF_CHANEL.png" group-title="Spanyolország",ES: SURF CHANEL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76919
+#EXTINF:-1 tvg-id="" tvg-name="ES: SURF CHANEL HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SURF_CHANEL.png" group-title="Spanyolország",ES: SURF CHANEL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76920
+#EXTINF:-1 tvg-id="" tvg-name="ES: SURF CHANEL SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/SURF_CHANEL.png" group-title="Spanyolország",ES: SURF CHANEL SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76921
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TCM.png" group-title="Spanyolország",ES: TCM FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76922
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TCM.png" group-title="Spanyolország",ES: TCM HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76923
+#EXTINF:-1 tvg-id="" tvg-name="ES: TCM SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TCM.png" group-title="Spanyolország",ES: TCM SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76924
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEJUMILLA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEJUMILLA.png" group-title="Spanyolország",ES: TELEJUMILLA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76925
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEJUMILLA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEJUMILLA.png" group-title="Spanyolország",ES: TELEJUMILLA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76926
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEJUMILLA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEJUMILLA.png" group-title="Spanyolország",ES: TELEJUMILLA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76927
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEMADRID.png" group-title="Spanyolország",ES: TELEMADRID FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76928
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEMADRID.png" group-title="Spanyolország",ES: TELEMADRID HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76929
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEMADRID.png" group-title="Spanyolország",ES: TELEMADRID SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76930
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELENERJA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELENERJA.png" group-title="Spanyolország",ES: TELENERJA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76931
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELENERJA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELENERJA.png" group-title="Spanyolország",ES: TELENERJA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76932
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELENERJA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELENERJA.png" group-title="Spanyolország",ES: TELENERJA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76933
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEONUBA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEONUBA.png" group-title="Spanyolország",ES: TELEONUBA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76934
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEONUBA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEONUBA.png" group-title="Spanyolország",ES: TELEONUBA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76935
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEONUBA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TELEONUBA.png" group-title="Spanyolország",ES: TELEONUBA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76936
+#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TEN.png" group-title="Spanyolország",ES: TEN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76937
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE TV" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TRECE_TV.png" group-title="Spanyolország",ES: TRECE TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76938
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIAS FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TV_CANARIAS.png" group-title="Spanyolország",ES: TV CANARIAS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76939
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIAS HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TV_CANARIAS.png" group-title="Spanyolország",ES: TV CANARIAS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76940
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV CANARIAS SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TV_CANARIAS.png" group-title="Spanyolország",ES: TV CANARIAS SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76941
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TV3.png" group-title="Spanyolország",ES: TV3 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76942
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TV3.png" group-title="Spanyolország",ES: TV3 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76943
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TV3.png" group-title="Spanyolország",ES: TV3 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76944
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TVG_2.png" group-title="Spanyolország",ES: TVG 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76945
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TVG_2.png" group-title="Spanyolország",ES: TVG 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76946
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG 2 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TVG_2.png" group-title="Spanyolország",ES: TVG 2 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76947
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TVG.png" group-title="Spanyolország",ES: TVG FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76948
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TVG.png" group-title="Spanyolország",ES: TVG HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76949
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TVG.png" group-title="Spanyolország",ES: TVG SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76950
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/UBEAT.png" group-title="Spanyolország",ES: UBEAT FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76951
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/UBEAT.png" group-title="Spanyolország",ES: UBEAT HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76952
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/UBEAT.png" group-title="Spanyolország",ES: UBEAT SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76953
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGA FIBRA TV HORADADA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGA_FIBRA_TV_HORADADA.png" group-title="Spanyolország",ES: VEGA FIBRA TV HORADADA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76954
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGA FIBRA TV HORADADA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGA_FIBRA_TV_HORADADA.png" group-title="Spanyolország",ES: VEGA FIBRA TV HORADADA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76955
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGA FIBRA TV HORADADA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGA_FIBRA_TV_HORADADA.png" group-title="Spanyolország",ES: VEGA FIBRA TV HORADADA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76956
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV BENEJUZAR FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_BENEJUZAR.png" group-title="Spanyolország",ES: VEGAFIBRA TV BENEJUZAR FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76957
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV BENEJUZAR HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_BENEJUZAR.png" group-title="Spanyolország",ES: VEGAFIBRA TV BENEJUZAR HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76958
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV BENEJUZAR SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_BENEJUZAR.png" group-title="Spanyolország",ES: VEGAFIBRA TV BENEJUZAR SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76959
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV COMARCAL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMARCAL.png" group-title="Spanyolország",ES: VEGAFIBRA TV COMARCAL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76960
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV COMARCAL HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMARCAL.png" group-title="Spanyolország",ES: VEGAFIBRA TV COMARCAL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76961
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV COMARCAL SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMARCAL.png" group-title="Spanyolország",ES: VEGAFIBRA TV COMARCAL SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76962
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV COMERCAL 2 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMERCAL_2.png" group-title="Spanyolország",ES: VEGAFIBRA TV COMERCAL 2 FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76963
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV COMERCAL 2 HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMERCAL_2.png" group-title="Spanyolország",ES: VEGAFIBRA TV COMERCAL 2 HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76964
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV COMERCAL 2 SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_COMERCAL_2.png" group-title="Spanyolország",ES: VEGAFIBRA TV COMERCAL 2 SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76965
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV GARMERS FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_GARMERS.png" group-title="Spanyolország",ES: VEGAFIBRA TV GARMERS FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76966
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV GARMERS HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_GARMERS.png" group-title="Spanyolország",ES: VEGAFIBRA TV GARMERS HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76967
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV GARMERS SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_GARMERS.png" group-title="Spanyolország",ES: VEGAFIBRA TV GARMERS SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76968
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV LOS DOLORES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_LOS_DOLORES.png" group-title="Spanyolország",ES: VEGAFIBRA TV LOS DOLORES FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76969
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV LOS DOLORES HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_LOS_DOLORES.png" group-title="Spanyolország",ES: VEGAFIBRA TV LOS DOLORES HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76970
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV LOS DOLORES SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_LOS_DOLORES.png" group-title="Spanyolország",ES: VEGAFIBRA TV LOS DOLORES SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76971
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV SAN MIGUEL FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_SAN_MIGUEL.png" group-title="Spanyolország",ES: VEGAFIBRA TV SAN MIGUEL FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76972
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV SAN MIGUEL HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_SAN_MIGUEL.png" group-title="Spanyolország",ES: VEGAFIBRA TV SAN MIGUEL HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76973
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV SAN MIGUEL SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_SAN_MIGUEL.png" group-title="Spanyolország",ES: VEGAFIBRA TV SAN MIGUEL SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76974
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV TELECOLOR FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_TELECOLOR.png" group-title="Spanyolország",ES: VEGAFIBRA TV TELECOLOR FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76975
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV TELECOLOR HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_TELECOLOR.png" group-title="Spanyolország",ES: VEGAFIBRA TV TELECOLOR HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76976
+#EXTINF:-1 tvg-id="" tvg-name="ES: VEGAFIBRA TV TELECOLOR SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VEGAFIBRA_TV_TELECOLOR.png" group-title="Spanyolország",ES: VEGAFIBRA TV TELECOLOR SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76977
+#EXTINF:-1 tvg-id="" tvg-name="ES: VELEVISA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VELEVISA.png" group-title="Spanyolország",ES: VELEVISA FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76978
+#EXTINF:-1 tvg-id="" tvg-name="ES: VELEVISA HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VELEVISA.png" group-title="Spanyolország",ES: VELEVISA HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76979
+#EXTINF:-1 tvg-id="" tvg-name="ES: VELEVISA SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VELEVISA.png" group-title="Spanyolország",ES: VELEVISA SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76980
+#EXTINF:-1 tvg-id="" tvg-name="ES: VELEVISA RECUERDO" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/VELEVISA_RECUERDO.png" group-title="Spanyolország",ES: VELEVISA RECUERDO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76981
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM FHD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/XTRM.png" group-title="Spanyolország",ES: XTRM FHD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76982
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM HD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/XTRM.png" group-title="Spanyolország",ES: XTRM HD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76983
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTRM SD" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/XTRM.png" group-title="Spanyolország",ES: XTRM SD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76984
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 CAT" tvg-logo="https://docdog.top/logo/countries/new/es/avatel/TV3_CAT.png" group-title="Spanyolország",ES: TV3 CAT
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76985
+#EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="ES: BBC WORLD NEWS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BBC_WORLD_NEWS.png" group-title="Spanyolország",ES: BBC WORLD NEWS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77225
+#EXTINF:-1 tvg-id="Aragon TV.es" tvg-name="ES: ARAGON TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ARAGON_TV.png" group-title="Spanyolország",ES: ARAGON TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77226
+#EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="ES: TVG" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TVG.png" group-title="Spanyolország",ES: TVG
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77227
+#EXTINF:-1 tvg-id="3 24.es" tvg-name="ES: 3/24" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/3_24.png" group-title="Spanyolország",ES: 3/24
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77228
+#EXTINF:-1 tvg-id="LA 1.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_1.png" group-title="Spanyolország",ES: LA 1
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77229
+#EXTINF:-1 tvg-id="ETB 1.es" tvg-name="ES: ETB1" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ETB1.png" group-title="Spanyolország",ES: ETB1
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77230
+#EXTINF:-1 tvg-id="Beteve.es" tvg-name="ES: BETEVE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BETEVE.png" group-title="Spanyolország",ES: BETEVE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77231
+#EXTINF:-1 tvg-id="DWLA" tvg-name="ES: DW EN ESPANOL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DW_EN_ESPANOL.png" group-title="Spanyolország",ES: DW EN ESPANOL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77232
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/HOLLYWOOD.png" group-title="Spanyolország",ES: HOLLYWOOD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77233
+#EXTINF:-1 tvg-id="ODSEATV" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ODISEA.png" group-title="Spanyolország",ES: ODISEA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77234
+#EXTINF:-1 tvg-id="Canal Sur.es" tvg-name="ES: CANAL SUR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_SUR.png" group-title="Spanyolország",ES: CANAL SUR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77235
+#EXTINF:-1 tvg-id="Esport 3.es" tvg-name="ES: ESPORT 3" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ESPORT_3.png" group-title="Spanyolország",ES: ESPORT 3
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77236
+#EXTINF:-1 tvg-id="ETB 2.es" tvg-name="ES: ETB2" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ETB2.png" group-title="Spanyolország",ES: ETB2
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77237
+#EXTINF:-1 tvg-id="LA 2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_2.png" group-title="Spanyolország",ES: LA 2
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77238
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NOVA.png" group-title="Spanyolország",ES: NOVA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77239
+#EXTINF:-1 tvg-id="Antena 3.es" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ANTENA_3.png" group-title="Spanyolország",ES: ANTENA 3
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77240
+#EXTINF:-1 tvg-id="Al Jazeera English.es" tvg-name="ES: AL JAZEERA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AL_JAZEERA.png" group-title="Spanyolország",ES: AL JAZEERA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77241
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL PARLAMENTO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_PARLAMENTO.png" group-title="Spanyolország",ES: CANAL PARLAMENTO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77242
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES: TELEMADRID" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELEMADRID.png" group-title="Spanyolország",ES: TELEMADRID
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77243
+#EXTINF:-1 tvg-id="MTRVSN" tvg-name="ES: MOTORVISION TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MOTORVISION_TV.png" group-title="Spanyolország",ES: MOTORVISION TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77244
+#EXTINF:-1 tvg-id="HISTSPA" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/HISTORIA.png" group-title="Spanyolország",ES: HISTORIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77245
+#EXTINF:-1 tvg-id="La Sexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_SEXTA.png" group-title="Spanyolország",ES: LA SEXTA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77246
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELECINCO.png" group-title="Spanyolország",ES: TELECINCO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77247
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CUATRO.png" group-title="Spanyolország",ES: CUATRO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77248
+#EXTINF:-1 tvg-id="33.es" tvg-name="ES: SUPER 3-33" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SUPER_3-33.png" group-title="Spanyolország",ES: SUPER 3-33
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77249
+#EXTINF:-1 tvg-id="A Punt.es" tvg-name="ES: A PUNT" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/A_PUNT.png" group-title="Spanyolország",ES: A PUNT
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77250
+#EXTINF:-1 tvg-id="TPA7" tvg-name="ES: TPA7" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TPA7.png" group-title="Spanyolország",ES: TPA7
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77251
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELEDEPORTE.png" group-title="Spanyolország",ES: TELEDEPORTE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77252
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AXN.png" group-title="Spanyolország",ES: AXN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77253
+#EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="ES: PARAMOUNT NETWORK" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PARAMOUNT_NETWORK.png" group-title="Spanyolország",ES: PARAMOUNT NETWORK
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77254
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 24 HORAS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_24_HORAS.png" group-title="Spanyolország",ES: CANAL 24 HORAS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77255
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MEGA.png" group-title="Spanyolország",ES: MEGA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77256
+#EXTINF:-1 tvg-id="FDFS" tvg-name="ES: FDF" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/FDF.png" group-title="Spanyolország",ES: FDF
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77257
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES: DIVINITY" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DIVINITY.png" group-title="Spanyolország",ES: DIVINITY
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77258
+#EXTINF:-1 tvg-id="" tvg-name="ES: RED BULL TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RED_BULL_TV.png" group-title="Spanyolország",ES: RED BULL TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77259
+#EXTINF:-1 tvg-id="DKISS.es" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DKISS.png" group-title="Spanyolország",ES: DKISS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77260
+#EXTINF:-1 tvg-id="TV3.es" tvg-name="ES: TV3" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TV3.png" group-title="Spanyolország",ES: TV3
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77261
+#EXTINF:-1 tvg-id="" tvg-name="ES: PIRINEUS TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PIRINEUS_TV.png" group-title="Spanyolország",ES: PIRINEUS TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77262
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NEOX.png" group-title="Spanyolország",ES: NEOX
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77263
+#EXTINF:-1 tvg-id="NHKWL" tvg-name="ES: NHK WORLD" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NHK_WORLD.png" group-title="Spanyolország",ES: NHK WORLD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77264
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL MALAGA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_MALAGA.png" group-title="Spanyolország",ES: CANAL MALAGA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77265
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="ES: MEZZO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MEZZO.png" group-title="Spanyolország",ES: MEZZO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77266
+#EXTINF:-1 tvg-id="" tvg-name="ES: FIBWI TV AUTONOMICA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/FIBWI_TV_AUTONOMICA.png" group-title="Spanyolország",ES: FIBWI TV AUTONOMICA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77267
+#EXTINF:-1 tvg-id="" tvg-name="ES: 101TV MALAGA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/101TV_MALAGA.png" group-title="Spanyolország",ES: 101TV MALAGA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77268
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AMC.png" group-title="Spanyolország",ES: AMC
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77269
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL 9 TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/EL_9_TV.png" group-title="Spanyolország",ES: EL 9 TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77270
+#EXTINF:-1 tvg-id="Mezzo Live.es" tvg-name="ES: MEZZO LIVE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MEZZO_LIVE.png" group-title="Spanyolország",ES: MEZZO LIVE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77271
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BOING.png" group-title="Spanyolország",ES: BOING
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77272
+#EXTINF:-1 tvg-id="Telesur.es" tvg-name="ES: TELESUR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELESUR.png" group-title="Spanyolország",ES: TELESUR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77273
+#EXTINF:-1 tvg-id="" tvg-name="ES: !BUEN VIAJE!" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BUEN_VIAJE.png" group-title="Spanyolország",ES: !BUEN VIAJE!
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77274
+#EXTINF:-1 tvg-id="BE MAD.es" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BE_MAD.png" group-title="Spanyolország",ES: BE MAD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77275
+#EXTINF:-1 tvg-id="ALJAZAR" tvg-name="ES: AL JAZEERA ARABIC" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AL_JAZEERA_ARABIC.png" group-title="Spanyolország",ES: AL JAZEERA ARABIC
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77276
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BETIS_TV.png" group-title="Spanyolország",ES: BETIS TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77277
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV RIPOLLeS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TV_RIPOLLeS.png" group-title="Spanyolország",ES: TV RIPOLLeS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77278
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRT ARABI" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRT_ARABI.png" group-title="Spanyolország",ES: TRT ARABI
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77279
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ATRESERIES.png" group-title="Spanyolország",ES: ATRESERIES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77280
+#EXTINF:-1 tvg-id="TRECE.es" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRECE.png" group-title="Spanyolország",ES: TRECE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77281
+#EXTINF:-1 tvg-id="IB3.es" tvg-name="ES: IB3" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/IB3.png" group-title="Spanyolország",ES: IB3
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77282
+#EXTINF:-1 tvg-id="Andalucía TV.es" tvg-name="ES: ANDALUCIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ANDALUCIA_TV.png" group-title="Spanyolország",ES: ANDALUCIA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77283
+#EXTINF:-1 tvg-id="TV3 Cat.es" tvg-name="ES: TV3 CAT" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TV3_CAT.png" group-title="Spanyolország",ES: TV3 CAT
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77284
+#EXTINF:-1 tvg-id="Clan TVE.es" tvg-name="ES: CLAN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CLAN.png" group-title="Spanyolország",ES: CLAN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77285
+#EXTINF:-1 tvg-id="AXN Movies.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AXN_MOVIES.png" group-title="Spanyolország",ES: AXN MOVIES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77286
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ENERGY.png" group-title="Spanyolország",ES: ENERGY
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77287
+#EXTINF:-1 tvg-id="TRTWRSD" tvg-name="ES: TRT WORLD" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRT_WORLD.png" group-title="Spanyolország",ES: TRT WORLD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77288
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7 REGION DE MURCIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/7_REGION_DE_MURCIA.png" group-title="Spanyolország",ES: 7 REGION DE MURCIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77289
+#EXTINF:-1 tvg-id="COCINA" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_COCINA.png" group-title="Spanyolország",ES: CANAL COCINA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77290
+#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SUNDANCE_TV.png" group-title="Spanyolország",ES: SUNDANCE TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77291
+#EXTINF:-1 tvg-id="EXTTEUV" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/XTRM.png" group-title="Spanyolország",ES: XTRM
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77292
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AMC_BREAK.png" group-title="Spanyolország",ES: AMC BREAK
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77293
+#EXTINF:-1 tvg-id="" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AMC_CRIME.png" group-title="Spanyolország",ES: AMC CRIME
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77294
+#EXTINF:-1 tvg-id="CMM" tvg-name="ES: CMM TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CMM_TV.png" group-title="Spanyolország",ES: CMM TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77295
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN VOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AXN_VOS.png" group-title="Spanyolország",ES: AXN VOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77296
+#EXTINF:-1 tvg-id="" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ENFAMILIA.png" group-title="Spanyolország",ES: ENFAMILIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77297
+#EXTINF:-1 tvg-id="SOMO" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SOMOS.png" group-title="Spanyolország",ES: SOMOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77298
+#EXTINF:-1 tvg-id="MONTTV" tvg-name="ES: CANAL 4 TELEVISIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_4_TELEVISIO.png" group-title="Spanyolország",ES: CANAL 4 TELEVISIO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77299
+#EXTINF:-1 tvg-id="1+1 Internacional.es" tvg-name="ES: TVG SAT" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TVG_SAT.png" group-title="Spanyolország",ES: TVG SAT
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77300
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB BASQUE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ETB_BASQUE.png" group-title="Spanyolország",ES: ETB BASQUE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77301
+#EXTINF:-1 tvg-id="ARAGON" tvg-name="ES: ARAGON TV INT" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ARAGON_TV_INT.png" group-title="Spanyolország",ES: ARAGON TV INT
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77302
+#EXTINF:-1 tvg-id="Canal Sur Andalucía.es" tvg-name="ES: CANAL SUR ANDALUCIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_SUR_ANDALUCIA.png" group-title="Spanyolország",ES: CANAL SUR ANDALUCIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77303
+#EXTINF:-1 tvg-id="A Punt.es" tvg-name="ES: A PUNT GLOBAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/A_PUNT_GLOBAL.png" group-title="Spanyolország",ES: A PUNT GLOBAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77304
+#EXTINF:-1 tvg-id="Telemadrid Int..es" tvg-name="ES: TELEMADRID INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELEMADRID_INTERNACIONAL.png" group-title="Spanyolország",ES: TELEMADRID INTERNACIONAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77305
+#EXTINF:-1 tvg-id="CMM" tvg-name="ES: CMM GLOBAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CMM_GLOBAL.png" group-title="Spanyolország",ES: CMM GLOBAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77306
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 7" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_7.png" group-title="Spanyolország",ES: LA 7
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77307
+#EXTINF:-1 tvg-id="TV Canaria.es" tvg-name="ES: TV CANARIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TV_CANARIA.png" group-title="Spanyolország",ES: TV CANARIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77308
+#EXTINF:-1 tvg-id="" tvg-name="ES: DESCUBRE TIVIFY" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DESCUBRE_TIVIFY.png" group-title="Spanyolország",ES: DESCUBRE TIVIFY
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77309
+#EXTINF:-1 tvg-id="" tvg-name="ES: TPA8" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TPA8.png" group-title="Spanyolország",ES: TPA8
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77310
+#EXTINF:-1 tvg-id="TVG2" tvg-name="ES: TVG 2" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TVG_2.png" group-title="Spanyolország",ES: TVG 2
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77311
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 8" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_8.png" group-title="Spanyolország",ES: LA 8
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77312
+#EXTINF:-1 tvg-id="DARKSPA" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DARK.png" group-title="Spanyolország",ES: DARK
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77313
+#EXTINF:-1 tvg-id="" tvg-name="ES: DEJATE DE HISTORIAS TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DEJATE_DE_HISTORIAS_TV.png" group-title="Spanyolország",ES: DEJATE DE HISTORIAS TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77314
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISTRITO TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DISTRITO_TV.png" group-title="Spanyolország",ES: DISTRITO TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77315
+#EXTINF:-1 tvg-id="" tvg-name="ES: TAC 12" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TAC_12.png" group-title="Spanyolország",ES: TAC 12
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77316
+#EXTINF:-1 tvg-id="BEST" tvg-name="ES: NEWSMAX TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NEWSMAX_TV.png" group-title="Spanyolország",ES: NEWSMAX TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77317
+#EXTINF:-1 tvg-id="" tvg-name="ES: POCOYO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/POCOYO.png" group-title="Spanyolország",ES: POCOYO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77318
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELERIBERA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELERIBERA.png" group-title="Spanyolország",ES: TELERIBERA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77319
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOON GOGGLES EN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TOON_GOGGLES_EN.png" group-title="Spanyolország",ES: TOON GOGGLES EN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77320
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELESAFOR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELESAFOR.png" group-title="Spanyolország",ES: TELESAFOR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77321
+#EXTINF:-1 tvg-id="SICNOTI" tvg-name="ES: SIC NOTICIAS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SIC_NOTICIAS.png" group-title="Spanyolország",ES: SIC NOTICIAS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77322
+#EXTINF:-1 tvg-id="El Toro TV.es" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/EL_TORO_TV.png" group-title="Spanyolország",ES: EL TORO TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77323
+#EXTINF:-1 tvg-id="La Otra.es" tvg-name="ES: LA OTRA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_OTRA.png" group-title="Spanyolország",ES: LA OTRA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77324
+#EXTINF:-1 tvg-id="BFMTV" tvg-name="ES: BFM TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BFM_TV.png" group-title="Spanyolország",ES: BFM TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77325
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEVISIO L'HOSPITALET" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELEVISIO_LHOSPITALET.png" group-title="Spanyolország",ES: TELEVISIO L'HOSPITALET
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77326
+#EXTINF:-1 tvg-id="" tvg-name="ES: VALLeS VISIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VALLeS_VISIO.png" group-title="Spanyolország",ES: VALLeS VISIO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77327
+#EXTINF:-1 tvg-id="" tvg-name="ES: BDN TELEVISIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BDN_TELEVISIO.png" group-title="Spanyolország",ES: BDN TELEVISIO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77328
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV MELILLA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TV_MELILLA.png" group-title="Spanyolország",ES: TV MELILLA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77329
+#EXTINF:-1 tvg-id="" tvg-name="ES: BON DIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BON_DIA_TV.png" group-title="Spanyolország",ES: BON DIA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77330
+#EXTINF:-1 tvg-id="IB3.es" tvg-name="ES: IB3 GLOBAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/IB3_GLOBAL.png" group-title="Spanyolország",ES: IB3 GLOBAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77331
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA 8 MEDITERRANEO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_8_MEDITERRANEO.png" group-title="Spanyolország",ES: LA 8 MEDITERRANEO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77332
+#EXTINF:-1 tvg-id="" tvg-name="ES: 7TV ANDALUCIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/7TV_ANDALUCIA.png" group-title="Spanyolország",ES: 7TV ANDALUCIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77333
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SIERRA DE CADIZ" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_SIERRA_DE_CADIZ.png" group-title="Spanyolország",ES: CANAL SIERRA DE CADIZ
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77334
+#EXTINF:-1 tvg-id="" tvg-name="ES: TELEONUBA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELEONUBA.png" group-title="Spanyolország",ES: TELEONUBA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77335
+#EXTINF:-1 tvg-id="" tvg-name="ES: CONDAVISION" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CONDAVISION.png" group-title="Spanyolország",ES: CONDAVISION
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77336
+#EXTINF:-1 tvg-id="" tvg-name="ES: TUYA TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TUYA_TV.png" group-title="Spanyolország",ES: TUYA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77337
+#EXTINF:-1 tvg-id="Negocios TV.es" tvg-name="ES: NEGOCIOS TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NEGOCIOS_TV.png" group-title="Spanyolország",ES: NEGOCIOS TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77338
+#EXTINF:-1 tvg-id="" tvg-name="ES: MIJAS 3.40 TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MIJAS_3.40_TV.png" group-title="Spanyolország",ES: MIJAS 3.40 TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77339
+#EXTINF:-1 tvg-id="" tvg-name="ES: 9 LA LOMA TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/9_LA_LOMA_TV.png" group-title="Spanyolország",ES: 9 LA LOMA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77340
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA ALGECIRAS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ONDA_ALGECIRAS.png" group-title="Spanyolország",ES: ONDA ALGECIRAS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77341
+#EXTINF:-1 tvg-id="" tvg-name="ES: 101TV ANTEQUERA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/101TV_ANTEQUERA.png" group-title="Spanyolország",ES: 101TV ANTEQUERA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77342
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESTEPONA TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ESTEPONA_TV.png" group-title="Spanyolország",ES: ESTEPONA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77343
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SAN ROQUE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_SAN_ROQUE.png" group-title="Spanyolország",ES: CANAL SAN ROQUE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77344
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVM CORDOBA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TVM_CORDOBA.png" group-title="Spanyolország",ES: TVM CORDOBA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77345
+#EXTINF:-1 tvg-id="" tvg-name="ES: AXN MOVIES VOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AXN_MOVIES_VOS.png" group-title="Spanyolország",ES: AXN MOVIES VOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77346
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL PAIS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/EL_PAIS.png" group-title="Spanyolország",ES: EL PAIS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77347
+#EXTINF:-1 tvg-id="" tvg-name="ES: FILM&CO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/FILMCO.png" group-title="Spanyolország",ES: FILM&CO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77348
+#EXTINF:-1 tvg-id="" tvg-name="ES: QELLO CONCERTS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/QELLO_CONCERTS.png" group-title="Spanyolország",ES: QELLO CONCERTS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77349
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL CONFIDENCIAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/EL_CONFIDENCIAL.png" group-title="Spanyolország",ES: EL CONFIDENCIAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77350
+#EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/EURONEWS.png" group-title="Spanyolország",ES: EURONEWS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77351
+#EXTINF:-1 tvg-id="" tvg-name="ES: ITA | INTERMEDIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ITA_INTERMEDIO.png" group-title="Spanyolország",ES: ITA | INTERMEDIO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77352
+#EXTINF:-1 tvg-id="" tvg-name="ES: INGLES TOTAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/INGLES_TOTAL.png" group-title="Spanyolország",ES: INGLES TOTAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77353
+#EXTINF:-1 tvg-id="" tvg-name="ES: GROSS OUT TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/GROSS_OUT_TV.png" group-title="Spanyolország",ES: GROSS OUT TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77354
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIVIR CON PERROS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VIVIR_CON_PERROS.png" group-title="Spanyolország",ES: VIVIR CON PERROS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77355
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIVIR CON GATOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VIVIR_CON_GATOS.png" group-title="Spanyolország",ES: VIVIR CON GATOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77356
+#EXTINF:-1 tvg-id="" tvg-name="ES: SIN FILTROS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SIN_FILTROS.png" group-title="Spanyolország",ES: SIN FILTROS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77357
+#EXTINF:-1 tvg-id="" tvg-name="ES: ITA | PRINCIPIANTE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ITA_PRINCIPIANTE.png" group-title="Spanyolország",ES: ITA | PRINCIPIANTE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77358
+#EXTINF:-1 tvg-id="" tvg-name="ES: ITA | AVANZADO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ITA_AVANZADO.png" group-title="Spanyolország",ES: ITA | AVANZADO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77359
+#EXTINF:-1 tvg-id="" tvg-name="ES: COOKING PANDA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/COOKING_PANDA.png" group-title="Spanyolország",ES: COOKING PANDA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77360
+#EXTINF:-1 tvg-id="" tvg-name="ES: MMA TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MMA_TV.png" group-title="Spanyolország",ES: MMA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77361
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME.png" group-title="Spanyolország",ES: RUNTIME
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77362
+#EXTINF:-1 tvg-id="" tvg-name="ES: OAN PLUS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/OAN_PLUS.png" group-title="Spanyolország",ES: OAN PLUS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77363
+#EXTINF:-1 tvg-id="" tvg-name="ES: AWE PLUS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AWE_PLUS.png" group-title="Spanyolország",ES: AWE PLUS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77364
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME CRIMEN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_CRIMEN.png" group-title="Spanyolország",ES: RUNTIME CRIMEN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77365
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME ACCION" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_ACCION.png" group-title="Spanyolország",ES: RUNTIME ACCION
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77366
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME ROMANCE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_ROMANCE.png" group-title="Spanyolország",ES: RUNTIME ROMANCE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77367
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME CLASICOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_CLASICOS.png" group-title="Spanyolország",ES: RUNTIME CLASICOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77368
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME THRILLER + TERROR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_THRILLER_TERROR.png" group-title="Spanyolország",ES: RUNTIME THRILLER + TERROR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77369
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME COMEDIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_COMEDIA.png" group-title="Spanyolország",ES: RUNTIME COMEDIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77370
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME SERIES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_SERIES.png" group-title="Spanyolország",ES: RUNTIME SERIES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77371
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 4 TENERIFE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_4_TENERIFE.png" group-title="Spanyolország",ES: CANAL 4 TENERIFE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77372
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANA Y LOS 7" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ANA_Y_LOS_7.png" group-title="Spanyolország",ES: ANA Y LOS 7
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77373
+#EXTINF:-1 tvg-id="" tvg-name="ES: CURRO JIMENEZ" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CURRO_JIMENEZ.png" group-title="Spanyolország",ES: CURRO JIMENEZ
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77374
+#EXTINF:-1 tvg-id="" tvg-name="ES: ALCARRIA TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ALCARRIA_TV.png" group-title="Spanyolország",ES: ALCARRIA TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77375
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOON GOGGLES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TOON_GOGGLES.png" group-title="Spanyolország",ES: TOON GOGGLES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77376
+#EXTINF:-1 tvg-id="" tvg-name="ES: NESTING TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NESTING_TV.png" group-title="Spanyolország",ES: NESTING TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77377
+#EXTINF:-1 tvg-id="" tvg-name="ES: AFORTUNADAS TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AFORTUNADAS_TV.png" group-title="Spanyolország",ES: AFORTUNADAS TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77378
+#EXTINF:-1 tvg-id="" tvg-name="ES: FASHION TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/FASHION_TV.png" group-title="Spanyolország",ES: FASHION TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77379
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARTY TYME KARAOKE INT." tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PARTY_TYME_KARAOKE_INT.png" group-title="Spanyolország",ES: PARTY TYME KARAOKE INT.
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77380
+#EXTINF:-1 tvg-id="" tvg-name="ES: ONDA15 TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ONDA15_TV.png" group-title="Spanyolország",ES: ONDA15 TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77381
+#EXTINF:-1 tvg-id="" tvg-name="ES: DURANGALDEKO TELEBISTA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DURANGALDEKO_TELEBISTA.png" group-title="Spanyolország",ES: DURANGALDEKO TELEBISTA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77382
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATURE TIME" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NATURE_TIME.png" group-title="Spanyolország",ES: NATURE TIME
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77383
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 4 MANCHA CENTRO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_4_MANCHA_CENTRO.png" group-title="Spanyolország",ES: CANAL 4 MANCHA CENTRO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77384
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIVE KANAL D DRAMA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VIVE_KANAL_D_DRAMA.png" group-title="Spanyolország",ES: VIVE KANAL D DRAMA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77385
+#EXTINF:-1 tvg-id="" tvg-name="ES: DUCKTV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DUCKTV.png" group-title="Spanyolország",ES: DUCKTV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77386
+#EXTINF:-1 tvg-id="" tvg-name="ES: 50TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/50TV.png" group-title="Spanyolország",ES: 50TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77387
+#EXTINF:-1 tvg-id="" tvg-name="ES: TODO NOVELAS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TODO_NOVELAS.png" group-title="Spanyolország",ES: TODO NOVELAS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77388
+#EXTINF:-1 tvg-id="" tvg-name="ES: 13 CULTURA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/13_CULTURA.png" group-title="Spanyolország",ES: 13 CULTURA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77389
+#EXTINF:-1 tvg-id="" tvg-name="ES: RUNTIME FAMILIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RUNTIME_FAMILIA.png" group-title="Spanyolország",ES: RUNTIME FAMILIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77390
+#EXTINF:-1 tvg-id="" tvg-name="ES: WATERBEAR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/WATERBEAR.png" group-title="Spanyolország",ES: WATERBEAR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77391
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL RED" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_RED.png" group-title="Spanyolország",ES: CANAL RED
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77392
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRACE LATINA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRACE_LATINA.png" group-title="Spanyolország",ES: TRACE LATINA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77393
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRACE URBAN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRACE_URBAN.png" group-title="Spanyolország",ES: TRACE URBAN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77394
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRACE BRASIL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRACE_BRASIL.png" group-title="Spanyolország",ES: TRACE BRASIL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77395
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRACE SPORT STARS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRACE_SPORT_STARS.png" group-title="Spanyolország",ES: TRACE SPORT STARS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77396
+#EXTINF:-1 tvg-id="" tvg-name="ES: OFICIOS PERDIDOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/OFICIOS_PERDIDOS.png" group-title="Spanyolország",ES: OFICIOS PERDIDOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77397
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA ABEJA MAYA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LA_ABEJA_MAYA.png" group-title="Spanyolország",ES: LA ABEJA MAYA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77398
+#EXTINF:-1 tvg-id="" tvg-name="ES: 4V TELEVISION BOLLULLOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/4V_TELEVISION_BOLLULLOS.png" group-title="Spanyolország",ES: 4V TELEVISION BOLLULLOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77399
+#EXTINF:-1 tvg-id="" tvg-name="ES: 4V TELEVISION VILLAMANRIQUE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/4V_TELEVISION_VILLAMANRIQUE.png" group-title="Spanyolország",ES: 4V TELEVISION VILLAMANRIQUE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77400
+#EXTINF:-1 tvg-id="" tvg-name="ES: RTPI3" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RTPI3.png" group-title="Spanyolország",ES: RTPI3
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77401
+#EXTINF:-1 tvg-id="" tvg-name="ES: LOVE THE PLANET" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LOVE_THE_PLANET.png" group-title="Spanyolország",ES: LOVE THE PLANET
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77402
+#EXTINF:-1 tvg-id="" tvg-name="ES: LOVE WINE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LOVE_WINE.png" group-title="Spanyolország",ES: LOVE WINE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77403
+#EXTINF:-1 tvg-id="" tvg-name="ES: FUEL TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/FUEL_TV.png" group-title="Spanyolország",ES: FUEL TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77404
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL GOURMET" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/EL_GOURMET.png" group-title="Spanyolország",ES: EL GOURMET
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77405
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRAILERS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRAILERS.png" group-title="Spanyolország",ES: TRAILERS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77406
+#EXTINF:-1 tvg-id="" tvg-name="ES: CMTV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CMTV.png" group-title="Spanyolország",ES: CMTV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77407
+#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL 11 INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_11_INTERNACIONAL.png" group-title="Spanyolország",ES: CANAL 11 INTERNACIONAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77408
+#EXTINF:-1 tvg-id="" tvg-name="ES: PORTO CANAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PORTO_CANAL.png" group-title="Spanyolország",ES: PORTO CANAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77409
+#EXTINF:-1 tvg-id="" tvg-name="ES: NHK WORLD PREMIUM" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NHK_WORLD_PREMIUM.png" group-title="Spanyolország",ES: NHK WORLD PREMIUM
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77410
+#EXTINF:-1 tvg-id="" tvg-name="ES: CLIC" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CLIC.png" group-title="Spanyolország",ES: CLIC
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77411
+#EXTINF:-1 tvg-id="" tvg-name="ES: CORAZON" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CORAZON.png" group-title="Spanyolország",ES: CORAZON
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77412
+#EXTINF:-1 tvg-id="" tvg-name="ES: AZTECA INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AZTECA_INTERNACIONAL.png" group-title="Spanyolország",ES: AZTECA INTERNACIONAL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77413
+#EXTINF:-1 tvg-id="" tvg-name="ES: RECORD NEWS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/RECORD_NEWS.png" group-title="Spanyolország",ES: RECORD NEWS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77414
+#EXTINF:-1 tvg-id="" tvg-name="ES: PITUFO TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PITUFO_TV.png" group-title="Spanyolország",ES: PITUFO TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77415
+#EXTINF:-1 tvg-id="" tvg-name="ES: WEDO BIG STORIES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/WEDO_BIG_STORIES.png" group-title="Spanyolország",ES: WEDO BIG STORIES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77416
+#EXTINF:-1 tvg-id="" tvg-name="ES: PLANET HORROR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PLANET_HORROR.png" group-title="Spanyolország",ES: PLANET HORROR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77417
+#EXTINF:-1 tvg-id="SOLMUSC" tvg-name="ES: SOL MúSICA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SOL_MúSICA.png" group-title="Spanyolország",ES: SOL MúSICA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77418
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA Y ACTUALIDAD" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/HISTORIA_Y_ACTUALIDAD.png" group-title="Spanyolország",ES: HISTORIA Y ACTUALIDAD
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77419
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOW 70'S" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NOW_70S.png" group-title="Spanyolország",ES: NOW 70'S
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77420
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACTION HOLLYWOOD MOVIES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ACTION_HOLLYWOOD_MOVIES.png" group-title="Spanyolország",ES: ACTION HOLLYWOOD MOVIES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77421
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOW 80'S" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NOW_80S.png" group-title="Spanyolország",ES: NOW 80'S
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77422
+#EXTINF:-1 tvg-id="" tvg-name="ES: NOW ROCK" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NOW_ROCK.png" group-title="Spanyolország",ES: NOW ROCK
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77423
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA INSIDE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LALIGA_INSIDE.png" group-title="Spanyolország",ES: LALIGA INSIDE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77424
+#EXTINF:-1 tvg-id="XMOEGB" tvg-name="ES: X-MO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/X-MO.png" group-title="Spanyolország",ES: X-MO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77425
+#EXTINF:-1 tvg-id="OUTTV" tvg-name="ES: OUTTV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/OUTTV.png" group-title="Spanyolország",ES: OUTTV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77426
+#EXTINF:-1 tvg-id="" tvg-name="ES: SATEN | TITANES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SATEN_TITANES.png" group-title="Spanyolország",ES: SATEN | TITANES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77427
+#EXTINF:-1 tvg-id="" tvg-name="ES: SATEN | LUXURY" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SATEN_LUXURY.png" group-title="Spanyolország",ES: SATEN | LUXURY
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77428
+#EXTINF:-1 tvg-id="" tvg-name="ES: SATEN | CLASSY" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SATEN_CLASSY.png" group-title="Spanyolország",ES: SATEN | CLASSY
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77429
+#EXTINF:-1 tvg-id="" tvg-name="ES: SATEN | 100% ESPANOL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SATEN_100_ESPANOL.png" group-title="Spanyolország",ES: SATEN | 100% ESPANOL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77430
+#EXTINF:-1 tvg-id="" tvg-name="ES: 4K TRAVEL TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/4K_TRAVEL_TV.png" group-title="Spanyolország",ES: 4K TRAVEL TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77431
+#EXTINF:-1 tvg-id="" tvg-name="ES: HERITAGE+" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/HERITAGE.png" group-title="Spanyolország",ES: HERITAGE+
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77432
+#EXTINF:-1 tvg-id="" tvg-name="ES: MUNDO SERIES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MUNDO_SERIES.png" group-title="Spanyolország",ES: MUNDO SERIES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77433
+#EXTINF:-1 tvg-id="" tvg-name="ES: XTREM SPORTS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/XTREM_SPORTS.png" group-title="Spanyolország",ES: XTREM SPORTS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77434
+#EXTINF:-1 tvg-id="TEVEO" tvg-name="ES: ARMONIA TEVE SANA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ARMONIA_TEVE_SANA.png" group-title="Spanyolország",ES: ARMONIA TEVE SANA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77435
+#EXTINF:-1 tvg-id="" tvg-name="ES: ZUT TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ZUT_TV.png" group-title="Spanyolország",ES: ZUT TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77436
+#EXTINF:-1 tvg-id="" tvg-name="ES: FLAMENCO AUDITORIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/FLAMENCO_AUDITORIO.png" group-title="Spanyolország",ES: FLAMENCO AUDITORIO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77437
+#EXTINF:-1 tvg-id="" tvg-name="ES: ADVENTURE SPORTS TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ADVENTURE_SPORTS_TV.png" group-title="Spanyolország",ES: ADVENTURE SPORTS TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77438
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINES VERDI TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CINES_VERDI_TV.png" group-title="Spanyolország",ES: CINES VERDI TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77439
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINE FEEL GOOD VERDI TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CINE_FEEL_GOOD_VERDI_TV.png" group-title="Spanyolország",ES: CINE FEEL GOOD VERDI TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77440
+#EXTINF:-1 tvg-id="" tvg-name="ES: CINE WESTERN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CINE_WESTERN.png" group-title="Spanyolország",ES: CINE WESTERN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77441
+#EXTINF:-1 tvg-id="" tvg-name="ES: DW ENGLISH" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DW_ENGLISH.png" group-title="Spanyolország",ES: DW ENGLISH
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77442
+#EXTINF:-1 tvg-id="" tvg-name="ES: ZENLIFE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ZENLIFE.png" group-title="Spanyolország",ES: ZENLIFE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77443
+#EXTINF:-1 tvg-id="" tvg-name="ES: HOMEFUL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/HOMEFUL.png" group-title="Spanyolország",ES: HOMEFUL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77444
+#EXTINF:-1 tvg-id="" tvg-name="ES: FAILARMY" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/FAILARMY.png" group-title="Spanyolország",ES: FAILARMY
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77445
+#EXTINF:-1 tvg-id="" tvg-name="ES: PEOPLE ARE AWESOME" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PEOPLE_ARE_AWESOME.png" group-title="Spanyolország",ES: PEOPLE ARE AWESOME
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77446
+#EXTINF:-1 tvg-id="" tvg-name="ES: THE PET COLLECTIVE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/THE_PET_COLLECTIVE.png" group-title="Spanyolország",ES: THE PET COLLECTIVE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77447
+#EXTINF:-1 tvg-id="" tvg-name="ES: WEATHERSPY" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/WEATHERSPY.png" group-title="Spanyolország",ES: WEATHERSPY
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77448
+#EXTINF:-1 tvg-id="" tvg-name="ES: TENNIS CHANNEL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TENNIS_CHANNEL.png" group-title="Spanyolország",ES: TENNIS CHANNEL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77449
+#EXTINF:-1 tvg-id="" tvg-name="ES: PLANETA DE CINE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/PLANETA_DE_CINE.png" group-title="Spanyolország",ES: PLANETA DE CINE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77450
+#EXTINF:-1 tvg-id="ESCAPA" tvg-name="ES: ESCAPATV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ESCAPATV.png" group-title="Spanyolország",ES: ESCAPATV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77451
+#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA Y VIDA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/HISTORIA_Y_VIDA.png" group-title="Spanyolország",ES: HISTORIA Y VIDA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77452
+#EXTINF:-1 tvg-id="" tvg-name="ES: SURF CHANNEL TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SURF_CHANNEL_TV.png" group-title="Spanyolország",ES: SURF CHANNEL TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77453
+#EXTINF:-1 tvg-id="" tvg-name="ES: MY PADEL TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MY_PADEL_TV.png" group-title="Spanyolország",ES: MY PADEL TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77454
+#EXTINF:-1 tvg-id="" tvg-name="ES: LINGOKIDS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/LINGOKIDS.png" group-title="Spanyolország",ES: LINGOKIDS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77455
+#EXTINF:-1 tvg-id="" tvg-name="ES: VAUGHAN TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VAUGHAN_TV.png" group-title="Spanyolország",ES: VAUGHAN TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77456
+#EXTINF:-1 tvg-id="" tvg-name="ES: STINGRAY GREATEST HITS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_GREATEST_HITS.png" group-title="Spanyolország",ES: STINGRAY GREATEST HITS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77457
+#EXTINF:-1 tvg-id="SMUS06D" tvg-name="ES: STINGRAY REMEMBER THE 80S" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_REMEMBER_THE_80S.png" group-title="Spanyolország",ES: STINGRAY REMEMBER THE 80S
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77458
+#EXTINF:-1 tvg-id="SM040" tvg-name="ES: STINGRAY SMOOTH JAZZ" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_SMOOTH_JAZZ.png" group-title="Spanyolország",ES: STINGRAY SMOOTH JAZZ
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77459
+#EXTINF:-1 tvg-id="SMUS07" tvg-name="ES: STINGRAY NOTHIN' BUT 90S" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_NOTHIN_BUT_90S.png" group-title="Spanyolország",ES: STINGRAY NOTHIN' BUT 90S
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77460
+#EXTINF:-1 tvg-id="" tvg-name="ES: STINGRAY TODAY'S LATIN POP" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_TODAYS_LATIN_POP.png" group-title="Spanyolország",ES: STINGRAY TODAY'S LATIN POP
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77461
+#EXTINF:-1 tvg-id="SM022" tvg-name="ES: STINGRAY THE SPA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_THE_SPA.png" group-title="Spanyolország",ES: STINGRAY THE SPA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77462
+#EXTINF:-1 tvg-id="SMESP34" tvg-name="ES: STINGRAY CLASSIC ROCK" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_CLASSIC_ROCK.png" group-title="Spanyolország",ES: STINGRAY CLASSIC ROCK
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77463
+#EXTINF:-1 tvg-id="SM037" tvg-name="ES: STINGRAY EASY LISTENING" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_EASY_LISTENING.png" group-title="Spanyolország",ES: STINGRAY EASY LISTENING
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77464
+#EXTINF:-1 tvg-id="SMUS05D" tvg-name="ES: STINGRAY FLASHBACK 70S" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_FLASHBACK_70S.png" group-title="Spanyolország",ES: STINGRAY FLASHBACK 70S
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77465
+#EXTINF:-1 tvg-id="SMESP51" tvg-name="ES: STINGRAY ROMANCE LATINO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_ROMANCE_LATINO.png" group-title="Spanyolország",ES: STINGRAY ROMANCE LATINO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77466
+#EXTINF:-1 tvg-id="SMUS27" tvg-name="ES: STINGRAY SOUL STORM" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_SOUL_STORM.png" group-title="Spanyolország",ES: STINGRAY SOUL STORM
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77467
+#EXTINF:-1 tvg-id="SMESP04" tvg-name="ES: STINGRAY REGGAETON" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_REGGAETON.png" group-title="Spanyolország",ES: STINGRAY REGGAETON
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77468
+#EXTINF:-1 tvg-id="" tvg-name="ES: STINGRAY DANCEFLOOR FILLERS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_DANCEFLOOR_FILLERS.png" group-title="Spanyolország",ES: STINGRAY DANCEFLOOR FILLERS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77469
+#EXTINF:-1 tvg-id="" tvg-name="ES: STINGRAY EXITOS LATINOS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_EXITOS_LATINOS.png" group-title="Spanyolország",ES: STINGRAY EXITOS LATINOS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77470
+#EXTINF:-1 tvg-id="" tvg-name="ES: STINGRAY TOTAL HITS SPAIN" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/STINGRAY_TOTAL_HITS_SPAIN.png" group-title="Spanyolország",ES: STINGRAY TOTAL HITS SPAIN
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77471
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROPEAN LEAGUE OF FOOTBALL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/EUROPEAN_LEAGUE_OF_FOOTBALL.png" group-title="Spanyolország",ES: EUROPEAN LEAGUE OF FOOTBALL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77472
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG ORIGINALS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BLOOMBERG_ORIGINALS.png" group-title="Spanyolország",ES: BLOOMBERG ORIGINALS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77473
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG TELEVISION" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BLOOMBERG_TELEVISION.png" group-title="Spanyolország",ES: BLOOMBERG TELEVISION
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77474
+#EXTINF:-1 tvg-id="" tvg-name="ES: ECUAVISA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ECUAVISA.png" group-title="Spanyolország",ES: ECUAVISA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77475
+#EXTINF:-1 tvg-id="" tvg-name="ES: CRIMEN & HISTORIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CRIMEN_HISTORIA.png" group-title="Spanyolország",ES: CRIMEN & HISTORIA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77476
+#EXTINF:-1 tvg-id="" tvg-name="ES: CARTOON CLASSICS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CARTOON_CLASSICS.png" group-title="Spanyolország",ES: CARTOON CLASSICS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77477
+#EXTINF:-1 tvg-id="" tvg-name="ES: DOCTOR WHO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DOCTOR_WHO.png" group-title="Spanyolország",ES: DOCTOR WHO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77478
+#EXTINF:-1 tvg-id="" tvg-name="ES: BBC DRAMA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BBC_DRAMA.png" group-title="Spanyolország",ES: BBC DRAMA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77479
+#EXTINF:-1 tvg-id="" tvg-name="ES: TOP GEAR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TOP_GEAR.png" group-title="Spanyolország",ES: TOP GEAR
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77480
+#EXTINF:-1 tvg-id="" tvg-name="ES: NATURESCAPE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/NATURESCAPE.png" group-title="Spanyolország",ES: NATURESCAPE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77481
+#EXTINF:-1 tvg-id="" tvg-name="ES: DJAZZ" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DJAZZ.png" group-title="Spanyolország",ES: DJAZZ
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77482
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVIE MUSIC" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/MOVIE_MUSIC.png" group-title="Spanyolország",ES: MOVIE MUSIC
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77483
+#EXTINF:-1 tvg-id="" tvg-name="ES: SATEN TV | PROMO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SATEN_TV_PROMO.png" group-title="Spanyolország",ES: SATEN TV | PROMO
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77484
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACTUALIDAD 360" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/ACTUALIDAD_360.png" group-title="Spanyolország",ES: ACTUALIDAD 360
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77485
+#EXTINF:-1 tvg-id="" tvg-name="ES: VIAJES Y SABORES" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VIAJES_Y_SABORES.png" group-title="Spanyolország",ES: VIAJES Y SABORES
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77486
+#EXTINF:-1 tvg-id="" tvg-name="ES: 13 POP" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/13_POP.png" group-title="Spanyolország",ES: 13 POP
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77487
+#EXTINF:-1 tvg-id="" tvg-name="ES: INFAST" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/INFAST.png" group-title="Spanyolország",ES: INFAST
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77488
+#EXTINF:-1 tvg-id="" tvg-name="ES: INWONDER" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/INWONDER.png" group-title="Spanyolország",ES: INWONDER
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77489
+#EXTINF:-1 tvg-id="" tvg-name="ES: INTROUBLE" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/INTROUBLE.png" group-title="Spanyolország",ES: INTROUBLE
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77490
+#EXTINF:-1 tvg-id="" tvg-name="ES: DFB PLAY TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/DFB_PLAY_TV.png" group-title="Spanyolország",ES: DFB PLAY TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77491
+#EXTINF:-1 tvg-id="" tvg-name="ES: 1+1 NEWS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/1_1_NEWS.png" group-title="Spanyolország",ES: 1+1 NEWS
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77492
+#EXTINF:-1 tvg-id="QWEST" tvg-name="ES: QWEST TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/QWEST_TV.png" group-title="Spanyolország",ES: QWEST TV
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77493
+#EXTINF:-1 tvg-id="" tvg-name="ES: 1+1 TRAVEL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/1_1_TRAVEL.png" group-title="Spanyolország",ES: 1+1 TRAVEL
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77494
+#EXTINF:-1 tvg-id="" tvg-name="ES: XATAKA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/XATAKA.png" group-title="Spanyolország",ES: XATAKA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77495
+#EXTINF:-1 tvg-id="" tvg-name="ES: AGUILA ROJA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/AGUILA_ROJA.png" group-title="Spanyolország",ES: AGUILA ROJA
+http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77496
+
+
+
+
+
 
 
 
