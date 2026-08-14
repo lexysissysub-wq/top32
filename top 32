@@ -2224,19 +2224,7 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 
 
 
- #EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia", BBC One HD UK
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19176/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia", BBC Two HD UK
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19177/index.m3u8
-#EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia",  BBC Alba UK
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19179/index.m3u8
- #EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia",ITV1 UK
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19185/index.m3u8
- #EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia",ITV2 HD UK
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19186/index.m3u8
- #EXTINF:0 tvg-rec="3" group-title="Nagy-Britannia",ITV4 +1 UK
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/19188/index.m3u8
-
+ 
 #EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="||--- |UK| UK FULLHD |UK| ----||" tvg-logo="" group-title="Nagy-Britannia",||--- |UK| UK FULLHD |UK| ----||
 http://hdlocal.de:8080/X5vDQGQTkpuq/3Wqihvdsdxs/665016842
@@ -6414,8 +6402,7 @@ https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5802
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5803
 #EXTINF:-1 tvg-id="" tvg-name="LA SEXTA HD" tvg-logo="" group-title="Spanyolország",LA SEXTA HD
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5804
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS +" tvg-logo="" group-title="Spanyolország",MOVISTAR PLUS +
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7575
+
 #EXTINF:-1 tvg-id="" tvg-name="M+ VAMOS" tvg-logo="" group-title="Spanyolország",M+ VAMOS
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5806
 #EXTINF:-1 tvg-id="" tvg-name="ARAGON TV " tvg-logo="" group-title="Spanyolország",ARAGON TV
@@ -6434,14 +6421,10 @@ https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6275
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/1739
 #EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="Spanyolország",CASTILLA LA MANCHA
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6330
-#EXTINF:-1 tvg-id="" tvg-name="PTV CORDOBA" tvg-logo="" group-title="Spanyolország",PTV CORDOBA
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/8487
+
 #EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS" tvg-logo="" group-title="Spanyolország",M+ ESTRENOS
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5825
-#EXTINF:-1 tvg-id="" tvg-name="M+ HITS" tvg-logo="" group-title="Spanyolország",M+ HITS
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5809
-#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS" tvg-logo="" group-title="Spanyolország",M+ CLASICOS
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7576
+
 #EXTINF:-1 tvg-id="" tvg-name="M+ ACCION" tvg-logo="" group-title="Spanyolország",M+ ACCION
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5828
 #EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA" tvg-logo="" group-title="Spanyolország",M+ COMEDIA
@@ -6496,10 +6479,7 @@ https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/9010
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/11685
 #EXTINF:-1 tvg-id="" tvg-name="THRILLER-TERROR" tvg-logo="" group-title="Spanyolország",THRILLER-TERROR
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/14758
-#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 1" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 1
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/934
-#EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 2" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 2
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/932
+
 #EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 3" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 3
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/962
 #EXTINF:-1 tvg-id="" tvg-name="TAQUILLA VIP 4" tvg-logo="" group-title="Spanyolország",TAQUILLA VIP 4
@@ -6522,66 +6502,12 @@ https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18238
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18239
 #EXTINF:-1 tvg-id="" tvg-name="PTV SEVILLA" tvg-logo="" group-title="Spanyolország",PTV SEVILLA
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16738
-#EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="Spanyolország",PTV MALAGA
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16740
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MundialHD" tvg-logo="" group-title="Spanyolország",DAZN MundialHD
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5869
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial2 HD" tvg-logo="" group-title="Spanyolország",DAZN Mundial2 HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12031
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial 3" tvg-logo="" group-title="Spanyolország",DAZN Mundial 3
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7588
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Mundial 4" tvg-logo="" group-title="Spanyolország",DAZN Mundial 4
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/7580
-#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA HD" tvg-logo="" group-title="Spanyolország",M LA LIGA HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5872
-#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="" group-title="Spanyolország",M+ LALIGA TV 2 HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5870
-#EXTINF:-1 tvg-id="" tvg-name="M+ LALIGA TV 3 HD" tvg-logo="" group-title="Spanyolország",M+ LALIGA TV 3 HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/11691
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="" group-title="Spanyolország",LALIGA TV HYPERMOTION
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5851
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="" group-title="Spanyolország",LALIGA TV HYPERMOTION 2
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5852
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV HYPERMOTION 3 " tvg-logo="" group-title="Spanyolország",LALIGA TV HYPERMOTION 3
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12030
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA CAMPEONES HD" tvg-logo="" group-title="Spanyolország",M LIGA CAMPEONES HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5862
-#EXTINF:-1 tvg-id="" tvg-name="M LIGA REF" tvg-logo="" group-title="Spanyolország",M LIGA REF
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/17952
-#EXTINF:-1 tvg-id="" tvg-name="GOL" tvg-logo="" group-title="Spanyolország",GOL
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18161
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 1" tvg-logo="" group-title="Spanyolország",DAZN BALONCESTO 1
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18934
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 2" tvg-logo="" group-title="Spanyolország",DAZN BALONCESTO 2
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18935
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BALONCESTO 3" tvg-logo="" group-title="Spanyolország",DAZN BALONCESTO 3
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18936
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="Spanyolország",DAZN F1 HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5853
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MOTOS" tvg-logo="" group-title="Spanyolország",DAZN MOTOS
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/19096
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Spanyolország",DAZN 1 HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5849
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Spanyolország",DAZN 2 HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5850
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="" group-title="Spanyolország",DAZN 3
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12923
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="" group-title="Spanyolország",DAZN 4
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/12924
-#EXTINF:-1 tvg-id="" tvg-name="M GOLF" tvg-logo="" group-title="Spanyolország",M GOLF
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/19182
-#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES HD" tvg-logo="" group-title="Spanyolország",M DEPORTES HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5866
-#EXTINF:-1 tvg-id="" tvg-name="M DEPORTES 2 " tvg-logo="" group-title="Spanyolország",M DEPORTES 2
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5864
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 3" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 3
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18605
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 4" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 4
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18606
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 5" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 5
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18607
-#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES 6" tvg-logo="" group-title="Spanyolország",M+ DEPORTES 6
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18608
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="Spanyolország",EUROSPORT 1 HD
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5858
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 " tvg-logo="" group-title="Spanyolország",EUROSPORT 2
@@ -6596,10 +6522,7 @@ https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5883
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18221
 #EXTINF:-1 tvg-id="" tvg-name="TOROLE" tvg-logo="" group-title="Spanyolország",TOROLE
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/16737
-#EXTINF:-1 tvg-id="" tvg-name="ONE TORO" tvg-logo="" group-title="Spanyolország",ONE TORO
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/18271
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="Spanyolország",CAZAyPESCA HD
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5845
+
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV" tvg-logo="" group-title="Spanyolország",IBERALIA TV
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5861
 #EXTINF:-1 tvg-id="" tvg-name="IBERALIACAZA" tvg-logo="" group-title="Spanyolország",IBERALIACAZA
@@ -6652,8 +6575,6 @@ https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5878
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5839
 #EXTINF:-1 tvg-id="" tvg-name="CLAN  HD" tvg-logo="" group-title="Spanyolország",CLAN  HD
 https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/5846
-#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite Espana" tvg-logo="" group-title="Spanyolország",Cadena Elite Espana
-https://main.gotencloud.xyz:8443/lusi16/TvDh6ydA4g/6279
 
 
 
