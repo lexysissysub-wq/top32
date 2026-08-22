@@ -6368,6 +6368,36 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Zene",- DEEJAY TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+ #EXTINF:-1 group-title="Zene" ,Deluxe Music DE ????
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
+#EXTINF:-1 group-title="Zene",,Óčko
+http://88.212.15.19/live/test_ocko/playlist.m3u8
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Zene",,Óčko Expres
+http://88.212.15.19/live/test_ocko_expres/playlist.m3u8
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Zene",,Óčko Star
+http://88.212.15.19/live/test_ocko_star/playlist.m3u8
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Zene",,Óčko Black
+http://88.212.15.19/live/test_ocko_black/playlist.m3u8
+https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 group-title="Zene",,REBEL
+https://dash2.antik.sk/live/test_rebel/playlist.m3u8
+#EXTINF:-1 group-title="Zene",,RetroMusicTV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Zene"  ,Kiss tv RO ????
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 group-title="Zene" ,Rock TV RO ????
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 group-title="Zene",Hiel Music
+https://live.obslivestream.com/hielmusic/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Zene",- Quello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8 
 #EXTINF:-1 group-title="Zene",- QWEST DJAZZ
@@ -6879,7 +6909,7 @@ https://main.gotencloud.xyz:8443/antoniocf/987654321/5878
 https://main.gotencloud.xyz:8443/antoniocf/987654321/5839
 #EXTINF:-1 group-title="Spanyolország",CLAN  HD
 https://main.gotencloud.xyz:8443/antoniocf/987654321/5846
-#EXTINF:-1 group-title="Spanyolország",Cadena Elite España
+#EXTINF:-1 group-title="Spanyolország",Cadena Elite Espana
 https://main.gotencloud.xyz:8443/antoniocf/987654321/6279
 
 
@@ -7058,7 +7088,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76523
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76524
 #EXTINF:-1 tvg-id="M+.Indie.es" tvg-name="ES: M+ INDIE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="Spanyolország",ES: M+ INDIE FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76525
-#EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="ES: M+ CINE ESPAÑOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="Spanyolország",ES: M+ CINE ESPAÑOL FHD
+#EXTINF:-1 tvg-id="M+.Cine.Espanol.es" tvg-name="ES: M+ CINE ESPANOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="Spanyolország",ES: M+ CINE ESPANOL FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76526
 #EXTINF:-1 tvg-id="Calle.13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="Spanyolország",ES: CALLE 13 FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76527
@@ -7104,7 +7134,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76546
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76547
 #EXTINF:-1 tvg-id="M+ Los 2000" tvg-name="ES: M+ LOS 2000 FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="Spanyolország",ES: M+ LOS 2000 FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76548
-#EXTINF:-1 tvg-id="M+ Top Comedia Española" tvg-name="ES: M+ TOP COMEDIA ESPANOLA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="Spanyolország",ES: M+ TOP COMEDIA ESPANOLA FHD
+#EXTINF:-1 tvg-id="M+ Top Comedia Espanola" tvg-name="ES: M+ TOP COMEDIA ESPANOLA FHD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="Spanyolország",ES: M+ TOP COMEDIA ESPANOLA FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76549
 #EXTINF:-1 tvg-id="HBO.Max.Avances.es" tvg-name="ES: MAX AVANCES FHD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="Spanyolország",ES: MAX AVANCES FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76550
@@ -7132,7 +7162,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76560
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76561
 #EXTINF:-1 tvg-id="M+.Indie.es" tvg-name="ES: M+ INDIE HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="Spanyolország",ES: M+ INDIE HD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76562
-#EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="ES: M+ CINE ESPAÑOL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="Spanyolország",ES: M+ CINE ESPAÑOL HD
+#EXTINF:-1 tvg-id="M+.Cine.Espanol.es" tvg-name="ES: M+ CINE ESPANOL HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="Spanyolország",ES: M+ CINE ESPANOL HD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76563
 #EXTINF:-1 tvg-id="Calle.13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="Spanyolország",ES: CALLE 13 HD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76564
@@ -7176,7 +7206,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76582
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76583
 #EXTINF:-1 tvg-id="M+ Los 2000" tvg-name="ES: M+ LOS 2000 HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_LOS_2000.png" group-title="Spanyolország",ES: M+ LOS 2000 HD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76584
-#EXTINF:-1 tvg-id="M+ Top Comedia Española" tvg-name="ES: M+ TOP COMEDIA ESPANOLA HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="Spanyolország",ES: M+ TOP COMEDIA ESPANOLA HD
+#EXTINF:-1 tvg-id="M+ Top Comedia Espanola" tvg-name="ES: M+ TOP COMEDIA ESPANOLA HD" tvg-logo="https://docdog.top/logo/countries/new/es/M+_TOP_COMEDIA_ESPANOLA.png" group-title="Spanyolország",ES: M+ TOP COMEDIA ESPANOLA HD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76585
 #EXTINF:-1 tvg-id="HBO.Max.Avances.es" tvg-name="ES: MAX AVANCES HD" tvg-logo="https://docdog.top/logo/countries/new/es/MAX_AVANCES.png" group-title="Spanyolország",ES: MAX AVANCES HD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76586
@@ -7202,7 +7232,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76635
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76636
 #EXTINF:-1 tvg-id="" tvg-name="ES: TV5MONDE FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png" group-title="Spanyolország",ES: TV5MONDE FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76637
-#EXTINF:-1 tvg-id="" tvg-name="ES: CGTN ESPAÑOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="Spanyolország",ES: CGTN ESPAÑOL FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES: CGTN ESPANOL FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="Spanyolország",ES: CGTN ESPANOL FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76638
 #EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Bloomberg.png" group-title="Spanyolország",ES: BLOOMBERG FHD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/76639
@@ -7872,7 +7902,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77247
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77248
 #EXTINF:-1 tvg-id="33.es" tvg-name="ES: SUPER 3-33" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/SUPER_3-33.png" group-title="Spanyolország",ES: SUPER 3-33
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77249
-#EXTINF:-1 tvg-id="À Punt.es" tvg-name="ES: À PUNT" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/À_PUNT.png" group-title="Spanyolország",ES: À PUNT
+#EXTINF:-1 tvg-id="A Punt.es" tvg-name="ES: A PUNT" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/A_PUNT.png" group-title="Spanyolország",ES: A PUNT
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77250
 #EXTINF:-1 tvg-id="TPA7" tvg-name="ES: TPA7" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TPA7.png" group-title="Spanyolország",ES: TPA7
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77251
@@ -7920,7 +7950,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77271
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77272
 #EXTINF:-1 tvg-id="Telesur.es" tvg-name="ES: TELESUR" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELESUR.png" group-title="Spanyolország",ES: TELESUR
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77273
-#EXTINF:-1 tvg-id="" tvg-name="ES: ¡BUEN VIAJE!" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BUEN_VIAJE.png" group-title="Spanyolország",ES: ¡BUEN VIAJE!
+#EXTINF:-1 tvg-id="" tvg-name="ES: !BUEN VIAJE!" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BUEN_VIAJE.png" group-title="Spanyolország",ES: !BUEN VIAJE!
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77274
 #EXTINF:-1 tvg-id="BE MAD.es" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BE_MAD.png" group-title="Spanyolország",ES: BE MAD
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77275
@@ -7928,7 +7958,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77275
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77276
 #EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BETIS_TV.png" group-title="Spanyolország",ES: BETIS TV
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77277
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV RIPOLLèS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TV_RIPOLLèS.png" group-title="Spanyolország",ES: TV RIPOLLèS
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV RIPOLLeS" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TV_RIPOLLeS.png" group-title="Spanyolország",ES: TV RIPOLLeS
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77278
 #EXTINF:-1 tvg-id="" tvg-name="ES: TRT ARABI" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TRT_ARABI.png" group-title="Spanyolország",ES: TRT ARABI
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77279
@@ -7980,7 +8010,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77301
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77302
 #EXTINF:-1 tvg-id="Canal Sur Andalucía.es" tvg-name="ES: CANAL SUR ANDALUCIA" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/CANAL_SUR_ANDALUCIA.png" group-title="Spanyolország",ES: CANAL SUR ANDALUCIA
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77303
-#EXTINF:-1 tvg-id="À Punt.es" tvg-name="ES: À PUNT GLOBAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/À_PUNT_GLOBAL.png" group-title="Spanyolország",ES: À PUNT GLOBAL
+#EXTINF:-1 tvg-id="A Punt.es" tvg-name="ES: A PUNT GLOBAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/A_PUNT_GLOBAL.png" group-title="Spanyolország",ES: A PUNT GLOBAL
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77304
 #EXTINF:-1 tvg-id="Telemadrid Int..es" tvg-name="ES: TELEMADRID INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELEMADRID_INTERNACIONAL.png" group-title="Spanyolország",ES: TELEMADRID INTERNACIONAL
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77305
@@ -8026,7 +8056,7 @@ http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77324
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77325
 #EXTINF:-1 tvg-id="" tvg-name="ES: TELEVISIO L'HOSPITALET" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/TELEVISIO_LHOSPITALET.png" group-title="Spanyolország",ES: TELEVISIO L'HOSPITALET
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77326
-#EXTINF:-1 tvg-id="" tvg-name="ES: VALLèS VISIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VALLèS_VISIO.png" group-title="Spanyolország",ES: VALLèS VISIO
+#EXTINF:-1 tvg-id="" tvg-name="ES: VALLeS VISIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/VALLeS_VISIO.png" group-title="Spanyolország",ES: VALLeS VISIO
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77327
 #EXTINF:-1 tvg-id="" tvg-name="ES: BDN TELEVISIO" tvg-logo="https://docdog.top/logo/countries/new/es/tivify/BDN_TELEVISIO.png" group-title="Spanyolország",ES: BDN TELEVISIO
 http://melones.bollo.hofcepesp1.top:8080/es5061736289126002/df4f15c8090b/77328
