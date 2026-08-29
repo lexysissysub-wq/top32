@@ -71490,6 +71490,7 @@ http://p1.tomtv.eu:80/series/7m8B8A4HgUEn/9IrsFaIrNR/269745.mkv
 http://p1.tomtv.eu:80/series/7m8B8A4HgUEn/9IrsFaIrNR/269746.mkv
 
 
-
-
-
+#EXTINF:-1 group-title="Radio",Real Country Music Radio
+https://hugh.cdn.rumble.cloud/live/t34ch9px/live-hls/ly10-5h7r/chunklist_i1_DVR.m3u8
+#EXTINF:-1 group-title="Radio",Deep House Club Radio
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/live-hls/p079-gcko/chunklist_i1_DVR.m3u8
