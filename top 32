@@ -301,6 +301,11 @@ http://213.163.13.122:1559/udp/239.1.10.54:2000
 
 
 
+
+
+#EXTINF:-1 group-title="Radio",Sunset Sol Radio
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/live-hls/e7o7-cf92/chunklist_i1_DVR.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="Magyar",Izaura
 http://88.212.15.19/live/izaura/index.m3u8
