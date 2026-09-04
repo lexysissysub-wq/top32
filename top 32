@@ -27574,6 +27574,8 @@ https://hugh.cdn.rumble.cloud/live/d0t27del/live-hls/6ykn-pcmb/chunklist_i1_DVR.
 #EXTINF:-1 group-title="Radio",Relaxing Smooth Jazz & R&B Music 
 https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-140/k4p5-fw5i_1080p/chunklist_DVR.m3u8
 
+#EXTINF:-1 group-title="Radio",192 Radio 
+https://192radio.stream-server.nl/stream?1788494868517
 #EXTINF:-1 group-title="Radio",Beatles 24/7 Radio
 https://strw3.openstream.co/981
 #EXTINF:-1 group-title="Radio",Still Waters Music- DEEP RELAXATION
