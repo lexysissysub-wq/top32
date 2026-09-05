@@ -10696,6 +10696,935 @@ https://streaminglive.co.il:3730/live/raniamranilive.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 xui-id="1" tvg-id="156624" tvg-name="NRK1" tvg-logo="http://fomo.re/images/Nrk1_square.png" group-title="Norvégia",NRK1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87__PB9aISUUr1ai6JJqepk/ts
+#EXTINF:-1 timeshift="3" xui-id="2" tvg-id="156624" tvg-name="NRK1 HD" tvg-logo="http://fomo.re/images/Nrk1_square.png" group-title="Norvégia",NRK1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83QSTCQEjf082cZSJ9MAbPU/ts
+#EXTINF:-1 xui-id="3" tvg-id="156624" tvg-name="NRK1 Lav Internett hastighet" tvg-logo="http://fomo.re/images/Nrk1_square.png" group-title="Norvégia",NRK1 Lav Internett hastighet
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87kSrLK3uCk873l0eTjwN1E/ts
+#EXTINF:-1 xui-id="4" tvg-id="156625" tvg-name="NRK2" tvg-logo="http://fomo.re/images/Nrk2_square.png" group-title="Norvégia",NRK2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87ffHJjttR5fYHsJcser6pk/ts
+#EXTINF:-1 timeshift="5" xui-id="5" tvg-id="156625" tvg-name="NRK2 HD" tvg-logo="http://fomo.re/images/Nrk2_square.png" group-title="Norvégia",NRK2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85PQIkJF_njnh62OlCh8QeE/ts
+#EXTINF:-1 xui-id="6" tvg-id="156626" tvg-name="NRK3" tvg-logo="http://fomo.re/images/Nrk3_square.png" group-title="Norvégia",NRK3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85qwWPBTJot2vDIIiHMoT24/ts
+#EXTINF:-1 timeshift="2" xui-id="11955" tvg-id="156626" tvg-name="NRK3 HD" tvg-logo="http://fomo.re/images/Nrk3_square.png" group-title="Norvégia",NRK3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zXT8R1iJcmgqaC9TdY_FVE/ts
+#EXTINF:-1 xui-id="7" tvg-id="156515" tvg-name="TV 2" tvg-logo="http://fomo.re/images/Tv2Ny_square.svg.png" group-title="Norvégia",TV 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8w2zScMUcMBB_0_1blfBz78/ts
+#EXTINF:-1 timeshift="3" xui-id="8" tvg-id="155951" tvg-name="TV 2 HD" tvg-logo="http://fomo.re/images/Tv2Ny_square.svg.png" group-title="Norvégia",TV 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85EsP-8sBNd9Rkyuc5pnUZs/ts
+#EXTINF:-1 xui-id="9" tvg-id="156544" tvg-name="TVNorge" tvg-logo="http://fomo.re/images/TvNorge_square.svg.png" group-title="Norvégia",TVNorge
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8y-51q9hpSesPeZ_TOQ4XCI/ts
+#EXTINF:-1 timeshift="2" xui-id="10" tvg-id="156544" tvg-name="TVNorge HD" tvg-logo="http://fomo.re/images/TvNorge_square.svg.png" group-title="Norvégia",TVNorge HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85Xg6B35NMYic9kqOlDY73I/ts
+#EXTINF:-1 xui-id="11" tvg-id="156513" tvg-name="TV 3" tvg-logo="http://fomo.re/images/Tv3_square.svg.png" group-title="Norvégia",TV 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82iwdcZtI7Dqohia09qdX8s/ts
+#EXTINF:-1 timeshift="2" xui-id="12" tvg-id="156513" tvg-name="TV 3 HD" tvg-logo="http://fomo.re/images/Tv3_square.svg.png" group-title="Norvégia",TV 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88Tz2ld0reVpLA-_LcjE-7E/ts
+#EXTINF:-1 xui-id="13" tvg-id="156542" tvg-name="REX" tvg-logo="http://fomo.re/images/Max_square.svg.png" group-title="Norvégia",REX
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86ewFjJgcigc2vLj-RZIosk/ts
+#EXTINF:-1 timeshift="2" xui-id="14" tvg-id="156479" tvg-name="MAX HD" tvg-logo="http://fomo.re/images/Max_square.svg.png" group-title="Norvégia",MAX HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80qKlHz8nVj7bJV7ktq6A0E/ts
+#EXTINF:-1 xui-id="15" tvg-id="156560" tvg-name="TV3+" tvg-logo="http://fomo.re/images/TV3Pluss_square.svg.png" group-title="Norvégia",TV3+
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82w-Q62Li5rbgzdT5cQyPGU/ts
+#EXTINF:-1 xui-id="15" tvg-id="156560" tvg-name="TV3+" tvg-logo="http://fomo.re/images/TV3Pluss_square.svg.png" group-title="Norvégia",TV3+
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82w-Q62Li5rbgzdT5cQyPGU/ts
+#EXTINF:-1 xui-id="16" tvg-id="156560" tvg-name="TV3+ HD" tvg-logo="http://fomo.re/images/TV3Pluss_square.svg.png" group-title="Norvégia",TV3+ HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_7XuX4FY7tL-6Ep1SXnbAs/ts
+#EXTINF:-1 xui-id="16" tvg-id="156560" tvg-name="TV3+ HD" tvg-logo="http://fomo.re/images/TV3Pluss_square.svg.png" group-title="Norvégia",TV3+ HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_7XuX4FY7tL-6Ep1SXnbAs/ts
+#EXTINF:-1 xui-id="17" tvg-id="156551" tvg-name="TV 2 Zebra" tvg-logo="http://fomo.re/images/Tv2ZebraNyV2_square.svg.png" group-title="Norvégia",TV 2 Zebra
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83DKM2b89AYHE-CmQ5zWH74/ts
+#EXTINF:-1 timeshift="2" xui-id="30210" tvg-id="156551" tvg-name="TV 2 Zebra HD" tvg-logo="http://fomo.re/images/Tv2ZebraNyV2_square.svg.png" group-title="Norvégia",TV 2 Zebra HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81WcHqVhfQ9DD9rTstA9X5c/ts
+#EXTINF:-1 xui-id="18" tvg-id="156552" tvg-name="TV 2 Livsstil" tvg-logo="http://fomo.re/images/Tv2LivsstilNyV2_square.svg.png" group-title="Norvégia",TV 2 Livsstil
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x6H8CC9zhBx7B_buVuwzs8/ts
+#EXTINF:-1 timeshift="2" xui-id="30228" tvg-id="156552" tvg-name="TV 2 Livsstil HD" tvg-logo="http://fomo.re/images/Tv2LivsstilNyV2_square.svg.png" group-title="Norvégia",TV 2 Livsstil HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xeo0d1_e2bCqxVODqNRR9c/ts
+#EXTINF:-1 xui-id="19" tvg-id="156187" tvg-name="FEM" tvg-logo="http://fomo.re/images/Fem_square.svg.png" group-title="Norvégia",FEM
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85U3bRgTseAMV-6x6Gekn9E/ts
+#EXTINF:-1 timeshift="2" xui-id="20" tvg-id="156187" tvg-name="FEM HD" tvg-logo="http://fomo.re/images/Fem_square.svg.png" group-title="Norvégia",FEM HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86R-Bbj7HZ9Ov2hyLoHSJ-I/ts
+#EXTINF:-1 timeshift="2" xui-id="21" tvg-id="156475" tvg-name="TV 6" tvg-logo="http://fomo.re/images/Tv6_square.svg.png" group-title="Norvégia",TV 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xR5YUbk1PCHcts6HTXPRS0/ts
+#EXTINF:-1 xui-id="22" tvg-id="156554" tvg-name="TV 2 Nyhetskanalen" tvg-logo="http://fomo.re/images/Tv2NyhetskanalenNyV2_square.svg.png" group-title="Norvégia",TV 2 Nyhetskanalen
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81y0Y2r-Qu9n0J1O9XKDiaU/ts
+#EXTINF:-1 timeshift="2" xui-id="9912" tvg-id="156554" tvg-name="TV 2 Nyhetskanalen HD" tvg-logo="http://fomo.re/images/Tv2NyhetskanalenNyV2_square.svg.png" group-title="Norvégia",TV 2 Nyhetskanalen HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88LS4Jmjaotx-gYqUecI2iU/ts
+#EXTINF:-1 xui-id="38705" tvg-id="NRWLIVE" tvg-name="Norway Live OTT" tvg-logo="http://fomo.re/images/NorwayLive_square.svg.png" group-title="Norvégia",Norway Live OTT
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83K1DN9mxNdsIKxBlLaXDnU/ts
+#EXTINF:-1 xui-id="23" tvg-id="155968" tvg-name="VGTV" tvg-logo="http://fomo.re/images/1DgwPCJ2Tct51MRieFLg1mn2xMXEPacx9x.png" group-title="Norvégia",VGTV
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87UIS9Md6RZN3qO4eaU-y1s/ts
+#EXTINF:-1 xui-id="12069" tvg-id="155968" tvg-name="VGTV HD" tvg-logo="http://fomo.re/images/1DgwPCJ2Tct51MRieFLg1mn2xMXEPacx9x.png" group-title="Norvégia",VGTV HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82Si4esLBwEm9ViNeWfNvNo/ts
+#EXTINF:-1 xui-id="24" tvg-id="156424" tvg-name="CNN" tvg-logo="http://fomo.re/images/CNN_square.svg.png" group-title="Norvégia",CNN
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81YAdPJQIPmvdgBya_JPSEI/ts
+#EXTINF:-1 xui-id="12317" tvg-id="156458" tvg-name="Discovery" tvg-logo="http://fomo.re/images/UK_discovery.png" group-title="Norvégia",Discovery
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87YYxXmWQzu3C1OZsoBZHQA/ts
+#EXTINF:-1 timeshift="2" xui-id="31726" tvg-id="156458" tvg-name="Discovery HD" tvg-logo="http://fomo.re/images/UK_discovery_hd.png" group-title="Norvégia",Discovery HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp879m7e7wyvsff-HXwPKljaY/ts
+#EXTINF:-1 xui-id="50" tvg-id="156465" tvg-name="ID" tvg-logo="http://fomo.re/images/SWE_id.png" group-title="Norvégia",ID
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8505jZebx-U9sWH6hj2BNUI/ts
+#EXTINF:-1 xui-id="31" tvg-id="156462" tvg-name="TLC" tvg-logo="http://fomo.re/images/TLC_square.svg.png" group-title="Norvégia",TLC
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84ZsIQNKaVGHjVJA3qqPcY0/ts
+#EXTINF:-1 timeshift="2" xui-id="31676" tvg-id="156462" tvg-name="TLC HD" tvg-logo="http://fomo.re/images/SWE_tlc.png" group-title="Norvégia",TLC HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81rT0ZHPAW_iacgGs9sffBw/ts
+#EXTINF:-1 xui-id="32" tvg-id="156194" tvg-name="Nat Geo" tvg-logo="http://fomo.re/images/NationalGeographic_square.svg.png" group-title="Norvégia",Nat Geo
+http://fomo.re/play/aKsn33HOenVDJxsA9swp872VtSuWDLD2QIMQwZrZoNY/ts
+#EXTINF:-1 timeshift="2" xui-id="33" tvg-id="156194" tvg-name="Nat Geo HD" tvg-logo="http://fomo.re/images/NationalGeographic_square.svg.png" group-title="Norvégia",Nat Geo HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84r1rcUNAU7IYVKR_Ao5QyI/ts
+#EXTINF:-1 xui-id="34" tvg-id="156188" tvg-name="VOX" tvg-logo="http://fomo.re/images/GER_vox.png" group-title="Norvégia",VOX
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80f0pkyBzNs8X0WXWiRohVE/ts
+#EXTINF:-1 timeshift="2" xui-id="35" tvg-id="156188" tvg-name="VOX HD" tvg-logo="http://fomo.re/images/GER_vox.png" group-title="Norvégia",VOX HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87K9RFigqbIjNG4q2_5j0Ng/ts
+#EXTINF:-1 xui-id="36" tvg-id="156579" tvg-name="BBC Nordic" tvg-logo="http://fomo.re/images/all_bbc_nodik.png" group-title="Norvégia",BBC Nordic
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81HVnCukGep3h_J7-NYddv4/ts
+#EXTINF:-1 timeshift="2" xui-id="9914" tvg-id="156579" tvg-name="BBC Nordic HD" tvg-logo="http://fomo.re/images/all_bbc_nodik.png" group-title="Norvégia",BBC Nordic HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xGCsde8MAxIaCh9ftNAR0A/ts
+#EXTINF:-1 xui-id="37" tvg-id="156582" tvg-name="Viasat Explore HD" tvg-logo="http://fomo.re/images/SWE_viasat_explore_hd.png" group-title="Norvégia",Viasat Explore HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80-l7JjV5vWVR3TnTyy1tJU/ts
+#EXTINF:-1 xui-id="38" tvg-id="156586" tvg-name="Viasat History HD" tvg-logo="http://fomo.re/images/SWE_viasat_history_hd.png" group-title="Norvégia",Viasat History HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84b2TX8EqMsw_dxDDyabYsk/ts
+#EXTINF:-1 xui-id="39" tvg-id="156590" tvg-name="Viasat Nature HD" tvg-logo="http://fomo.re/images/SWE_viasat_nature_hd.png" group-title="Norvégia",Viasat Nature HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x73duY0TWVpZoUAZNceUD0/ts
+#EXTINF:-1 xui-id="40" tvg-id="156537" tvg-name="H&C" tvg-logo="http://fomo.re/images/SWE_h_and_c.png" group-title="Norvégia",H&C
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yvBuS3RlGtDWzHb4-b0B7E/ts
+#EXTINF:-1 xui-id="206" tvg-id="156472" tvg-name="Rikstoto Direkte HD" tvg-logo="http://fomo.re/images/RikstotoDirekte_square.svg.png" group-title="Norvégia",Rikstoto Direkte HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-k7HmQdsMd6ni6Swxx1hPU/ts
+#EXTINF:-1 xui-id="206" tvg-id="156472" tvg-name="Rikstoto Direkte HD" tvg-logo="http://fomo.re/images/RikstotoDirekte_square.svg.png" group-title="Norvégia",Rikstoto Direkte HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-k7HmQdsMd6ni6Swxx1hPU/ts
+#EXTINF:-1 xui-id="32831" tvg-id="" tvg-name="Rikstoto 2 HD" tvg-logo="http://fomo.re/images/RikstotoDirekte_square.svg.png" group-title="Norvégia",Rikstoto 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83d3v7yvkPg0zTIxsWlx04M/ts
+#EXTINF:-1 xui-id="32831" tvg-id="" tvg-name="Rikstoto 2 HD" tvg-logo="http://fomo.re/images/RikstotoDirekte_square.svg.png" group-title="Norvégia",Rikstoto 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83d3v7yvkPg0zTIxsWlx04M/ts
+#EXTINF:-1 xui-id="32832" tvg-id="" tvg-name="Rikstoto 3 HD" tvg-logo="http://fomo.re/images/RikstotoDirekte_square.svg.png" group-title="Norvégia",Rikstoto 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_MIZYZxlpK0DtWdrKKWYQQ/ts
+#EXTINF:-1 xui-id="32832" tvg-id="" tvg-name="Rikstoto 3 HD" tvg-logo="http://fomo.re/images/RikstotoDirekte_square.svg.png" group-title="Norvégia",Rikstoto 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_MIZYZxlpK0DtWdrKKWYQQ/ts
+#EXTINF:-1 xui-id="88" tvg-id="156532" tvg-name="V sport 1" tvg-logo="http://fomo.re/images/ALL_vsport_1.png" group-title="Norvégia",V sport 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xHKSBZdFgg1JbLmuxZ9ez8/ts
+#EXTINF:-1 xui-id="88" tvg-id="156532" tvg-name="V sport 1" tvg-logo="http://fomo.re/images/ALL_vsport_1.png" group-title="Norvégia",V sport 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xHKSBZdFgg1JbLmuxZ9ez8/ts
+#EXTINF:-1 xui-id="89" tvg-id="156532" tvg-name="V sport 1 HD" tvg-logo="http://fomo.re/images/ALL_vsport_1_hd.png" group-title="Norvégia",V sport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x5q-q4sAXAfQRpxD5RZngk/ts
+#EXTINF:-1 xui-id="89" tvg-id="156532" tvg-name="V sport 1 HD" tvg-logo="http://fomo.re/images/ALL_vsport_1_hd.png" group-title="Norvégia",V sport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x5q-q4sAXAfQRpxD5RZngk/ts
+#EXTINF:-1 timeshift="1" xui-id="9922" tvg-id="156532" tvg-name="V sport 1 HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_1_hd.png" group-title="Norvégia",V sport 1 HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84jrFkCzkqu3C275feCFKzE/ts
+#EXTINF:-1 timeshift="1" xui-id="9922" tvg-id="156532" tvg-name="V sport 1 HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_1_hd.png" group-title="Norvégia",V sport 1 HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84jrFkCzkqu3C275feCFKzE/ts
+#EXTINF:-1 xui-id="38707" tvg-id="" tvg-name="V sport 1 HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_1_hd.png" group-title="Norvégia",V sport 1 HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81Tdy4A56SerNFBqCqsc7LI/ts
+#EXTINF:-1 xui-id="38707" tvg-id="" tvg-name="V sport 1 HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_1_hd.png" group-title="Norvégia",V sport 1 HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81Tdy4A56SerNFBqCqsc7LI/ts
+#EXTINF:-1 xui-id="90" tvg-id="156509" tvg-name="V sport 2" tvg-logo="http://fomo.re/images/ALL_vsport_2.png" group-title="Norvégia",V sport 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86c6G7ek-yJBda8U32X4PLM/ts
+#EXTINF:-1 xui-id="90" tvg-id="156509" tvg-name="V sport 2" tvg-logo="http://fomo.re/images/ALL_vsport_2.png" group-title="Norvégia",V sport 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86c6G7ek-yJBda8U32X4PLM/ts
+#EXTINF:-1 xui-id="91" tvg-id="156509" tvg-name="V sport 2 HD" tvg-logo="http://fomo.re/images/ALL_vsport_2_hd.png" group-title="Norvégia",V sport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89p7wWuCej-71f6cjOfbhJM/ts
+#EXTINF:-1 xui-id="91" tvg-id="156509" tvg-name="V sport 2 HD" tvg-logo="http://fomo.re/images/ALL_vsport_2_hd.png" group-title="Norvégia",V sport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89p7wWuCej-71f6cjOfbhJM/ts
+#EXTINF:-1 timeshift="1" xui-id="9923" tvg-id="156509" tvg-name="V sport 2 HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_2_hd.png" group-title="Norvégia",V sport 2 HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ymOzqYlbDyK2nLHNlhUvTA/ts
+#EXTINF:-1 timeshift="1" xui-id="9923" tvg-id="156509" tvg-name="V sport 2 HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_2_hd.png" group-title="Norvégia",V sport 2 HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ymOzqYlbDyK2nLHNlhUvTA/ts
+#EXTINF:-1 xui-id="38708" tvg-id="" tvg-name="V sport 2 HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_2_hd.png" group-title="Norvégia",V sport 2 HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86gQOAZDqOnHwWqfnqssjuA/ts
+#EXTINF:-1 xui-id="38708" tvg-id="" tvg-name="V sport 2 HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_2_hd.png" group-title="Norvégia",V sport 2 HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86gQOAZDqOnHwWqfnqssjuA/ts
+#EXTINF:-1 xui-id="92" tvg-id="156510" tvg-name="V sport 3" tvg-logo="http://fomo.re/images/ALL_vsport_3.png" group-title="Norvégia",V sport 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86DkQ2PfE3Df348WSgaqW_A/ts
+#EXTINF:-1 xui-id="92" tvg-id="156510" tvg-name="V sport 3" tvg-logo="http://fomo.re/images/ALL_vsport_3.png" group-title="Norvégia",V sport 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86DkQ2PfE3Df348WSgaqW_A/ts
+#EXTINF:-1 xui-id="93" tvg-id="156510" tvg-name="V sport 3 HD" tvg-logo="http://fomo.re/images/ALL_vsport_3_hd.png" group-title="Norvégia",V sport 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zq51R8fP__6UU77Hod1J9g/ts
+#EXTINF:-1 xui-id="93" tvg-id="156510" tvg-name="V sport 3 HD" tvg-logo="http://fomo.re/images/ALL_vsport_3_hd.png" group-title="Norvégia",V sport 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zq51R8fP__6UU77Hod1J9g/ts
+#EXTINF:-1 xui-id="9924" tvg-id="156510" tvg-name="V sport 3 HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_3_hd.png" group-title="Norvégia",V sport 3 HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82qAd52JoPzCCVprZYKMAz4/ts
+#EXTINF:-1 xui-id="9924" tvg-id="156510" tvg-name="V sport 3 HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_3_hd.png" group-title="Norvégia",V sport 3 HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82qAd52JoPzCCVprZYKMAz4/ts
+#EXTINF:-1 xui-id="38709" tvg-id="" tvg-name="V sport 3 HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_3_hd.png" group-title="Norvégia",V sport 3 HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-rlzwEbqGNpj_fU1RSE_hg/ts
+#EXTINF:-1 xui-id="38709" tvg-id="" tvg-name="V sport 3 HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_3_hd.png" group-title="Norvégia",V sport 3 HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-rlzwEbqGNpj_fU1RSE_hg/ts
+#EXTINF:-1 xui-id="86" tvg-id="156508" tvg-name="V Sport+" tvg-logo="http://fomo.re/images/ALL_vsport_plus.png" group-title="Norvégia",V Sport+
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-_nYpYPBh4oma688a7_YUI/ts
+#EXTINF:-1 xui-id="86" tvg-id="156508" tvg-name="V Sport+" tvg-logo="http://fomo.re/images/ALL_vsport_plus.png" group-title="Norvégia",V Sport+
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-_nYpYPBh4oma688a7_YUI/ts
+#EXTINF:-1 xui-id="87" tvg-id="156508" tvg-name="V sport+ HD" tvg-logo="http://fomo.re/images/ALL_vsport_plus_hd.png" group-title="Norvégia",V sport+ HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88bMwQ8701D7iP6W91lzi6Y/ts
+#EXTINF:-1 xui-id="87" tvg-id="156508" tvg-name="V sport+ HD" tvg-logo="http://fomo.re/images/ALL_vsport_plus_hd.png" group-title="Norvégia",V sport+ HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88bMwQ8701D7iP6W91lzi6Y/ts
+#EXTINF:-1 xui-id="9921" tvg-id="156508" tvg-name="V sport+ HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_plus_hd.png" group-title="Norvégia",V sport+ HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-CFrL1blzqlcQauXVzubkI/ts
+#EXTINF:-1 xui-id="9921" tvg-id="156508" tvg-name="V sport+ HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_plus_hd.png" group-title="Norvégia",V sport+ HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-CFrL1blzqlcQauXVzubkI/ts
+#EXTINF:-1 xui-id="38706" tvg-id="" tvg-name="V sport+ HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_plus_hd.png" group-title="Norvégia",V sport+ HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83nz18igDeTWJD3M353KWYk/ts
+#EXTINF:-1 xui-id="38706" tvg-id="" tvg-name="V sport+ HD OTT | 50FPS" tvg-logo="http://fomo.re/images/ALL_vsport_plus_hd.png" group-title="Norvégia",V sport+ HD OTT | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83nz18igDeTWJD3M353KWYk/ts
+#EXTINF:-1 xui-id="63427" tvg-id="" tvg-name="V sport golf" tvg-logo="http://fomo.re/images/golfhd.png" group-title="Norvégia",V sport golf
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88t0EOttEpNz44uFEIscBEY/ts
+#EXTINF:-1 xui-id="63427" tvg-id="" tvg-name="V sport golf" tvg-logo="http://fomo.re/images/golfhd.png" group-title="Norvégia",V sport golf
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88t0EOttEpNz44uFEIscBEY/ts
+#EXTINF:-1 xui-id="63426" tvg-id="" tvg-name="V sport golf HD" tvg-logo="http://fomo.re/images/golf.png" group-title="Norvégia",V sport golf HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp827uo8PXdBLs1RnUEYYX-AQ/ts
+#EXTINF:-1 xui-id="63426" tvg-id="" tvg-name="V sport golf HD" tvg-logo="http://fomo.re/images/golf.png" group-title="Norvégia",V sport golf HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp827uo8PXdBLs1RnUEYYX-AQ/ts
+#EXTINF:-1 xui-id="41907" tvg-id="156492" tvg-name="V sport ultra HD (N)" tvg-logo="http://fomo.re/images/ALL_vsport_ultrahd.png" group-title="Norvégia",V sport ultra HD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-PeiEv-73bL5VJ7MfbaC7w/ts
+#EXTINF:-1 xui-id="41907" tvg-id="156492" tvg-name="V sport ultra HD (N)" tvg-logo="http://fomo.re/images/ALL_vsport_ultrahd.png" group-title="Norvégia",V sport ultra HD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-PeiEv-73bL5VJ7MfbaC7w/ts
+#EXTINF:-1 xui-id="536" tvg-id="" tvg-name="TV 2 Sport 1" tvg-logo="http://fomo.re/images/NO_tv2_sport_1.png" group-title="Norvégia",TV 2 Sport 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88dWH_hUM1i78WlR2rTdGEY/ts
+#EXTINF:-1 xui-id="536" tvg-id="" tvg-name="TV 2 Sport 1" tvg-logo="http://fomo.re/images/NO_tv2_sport_1.png" group-title="Norvégia",TV 2 Sport 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88dWH_hUM1i78WlR2rTdGEY/ts
+#EXTINF:-1 xui-id="64" tvg-id="156550" tvg-name="TV 2 Sport 1 HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_1_hd.png" group-title="Norvégia",TV 2 Sport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wzL-e4My4q77unzed1w8wU/ts
+#EXTINF:-1 xui-id="64" tvg-id="156550" tvg-name="TV 2 Sport 1 HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_1_hd.png" group-title="Norvégia",TV 2 Sport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wzL-e4My4q77unzed1w8wU/ts
+#EXTINF:-1 xui-id="4370" tvg-id="156550" tvg-name="TV 2 Sport 1 HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_1_hd.png" group-title="Norvégia",TV 2 Sport 1 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86y8heR3uw2hp2zksOscsMw/ts
+#EXTINF:-1 xui-id="4370" tvg-id="156550" tvg-name="TV 2 Sport 1 HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_1_hd.png" group-title="Norvégia",TV 2 Sport 1 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86y8heR3uw2hp2zksOscsMw/ts
+#EXTINF:-1 xui-id="38710" tvg-id="" tvg-name="TV 2 Sport 1 HD OTT  (50FPS)" tvg-logo="http://fomo.re/images/NO_tv2_sport_1_hd.png" group-title="Norvégia",TV 2 Sport 1 HD OTT  (50FPS)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-mKD10424Ihp7yXZ0O4Y-M/ts
+#EXTINF:-1 xui-id="38710" tvg-id="" tvg-name="TV 2 Sport 1 HD OTT  (50FPS)" tvg-logo="http://fomo.re/images/NO_tv2_sport_1_hd.png" group-title="Norvégia",TV 2 Sport 1 HD OTT  (50FPS)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-mKD10424Ihp7yXZ0O4Y-M/ts
+#EXTINF:-1 xui-id="65" tvg-id="156553" tvg-name="TV 2 Sport 2 HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_2_hd.png" group-title="Norvégia",TV 2 Sport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80VDdmztgdPX7VQGEDcigkk/ts
+#EXTINF:-1 xui-id="65" tvg-id="156553" tvg-name="TV 2 Sport 2 HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_2_hd.png" group-title="Norvégia",TV 2 Sport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80VDdmztgdPX7VQGEDcigkk/ts
+#EXTINF:-1 xui-id="12201" tvg-id="156553" tvg-name="TV 2 Sport 2 HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_2_hd.png" group-title="Norvégia",TV 2 Sport 2 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83Xp_4EAaLHYOF2oRPExing/ts
+#EXTINF:-1 xui-id="12201" tvg-id="156553" tvg-name="TV 2 Sport 2 HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_2_hd.png" group-title="Norvégia",TV 2 Sport 2 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83Xp_4EAaLHYOF2oRPExing/ts
+#EXTINF:-1 xui-id="38711" tvg-id="" tvg-name="TV 2 Sport 2 HD OTT (50FPS)" tvg-logo="http://fomo.re/images/NO_tv2_sport_2_hd.png" group-title="Norvégia",TV 2 Sport 2 HD OTT (50FPS)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84V0yClIAIO_NZBnGLGZVr4/ts
+#EXTINF:-1 xui-id="38711" tvg-id="" tvg-name="TV 2 Sport 2 HD OTT (50FPS)" tvg-logo="http://fomo.re/images/NO_tv2_sport_2_hd.png" group-title="Norvégia",TV 2 Sport 2 HD OTT (50FPS)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84V0yClIAIO_NZBnGLGZVr4/ts
+#EXTINF:-1 xui-id="94" tvg-id="156548" tvg-name="TV 2 Sport Premium HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xuGwb2PNg6HkPDcQKJHee8/ts
+#EXTINF:-1 xui-id="94" tvg-id="156548" tvg-name="TV 2 Sport Premium HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xuGwb2PNg6HkPDcQKJHee8/ts
+#EXTINF:-1 xui-id="4371" tvg-id="156548" tvg-name="TV 2 Sport Premium HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wniUoDbcaz6QmJJxffkfI8/ts
+#EXTINF:-1 xui-id="4371" tvg-id="156548" tvg-name="TV 2 Sport Premium HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wniUoDbcaz6QmJJxffkfI8/ts
+#EXTINF:-1 xui-id="95" tvg-id="156549" tvg-name="TV 2 Sport Premium 2 HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86__X1LZKdogmKpdEmU7Jzk/ts
+#EXTINF:-1 xui-id="95" tvg-id="156549" tvg-name="TV 2 Sport Premium 2 HD" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86__X1LZKdogmKpdEmU7Jzk/ts
+#EXTINF:-1 xui-id="12312" tvg-id="156549" tvg-name="TV 2 Sport Premium 2 HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium 2 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yyt23lx32aG5Z6NnIi18xc/ts
+#EXTINF:-1 xui-id="12312" tvg-id="156549" tvg-name="TV 2 Sport Premium 2 HD [raw]" tvg-logo="http://fomo.re/images/NO_tv2_sport_premium_hd.png" group-title="Norvégia",TV 2 Sport Premium 2 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yyt23lx32aG5Z6NnIi18xc/ts
+#EXTINF:-1 xui-id="66" tvg-id="156503" tvg-name="Eurosport Norge" tvg-logo="http://fomo.re/images/NO_eurosport_norway.png" group-title="Norvégia",Eurosport Norge
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-0zFt6iENqbYnxOI6QdI6s/ts
+#EXTINF:-1 xui-id="66" tvg-id="156503" tvg-name="Eurosport Norge" tvg-logo="http://fomo.re/images/NO_eurosport_norway.png" group-title="Norvégia",Eurosport Norge
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-0zFt6iENqbYnxOI6QdI6s/ts
+#EXTINF:-1 xui-id="244" tvg-id="156503" tvg-name="Eurosport Norge HD" tvg-logo="http://fomo.re/images/NO_eurosport_norway_hd.png" group-title="Norvégia",Eurosport Norge HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yQb63qdogdmXETOwFMVvLs/ts
+#EXTINF:-1 xui-id="244" tvg-id="156503" tvg-name="Eurosport Norge HD" tvg-logo="http://fomo.re/images/NO_eurosport_norway_hd.png" group-title="Norvégia",Eurosport Norge HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yQb63qdogdmXETOwFMVvLs/ts
+#EXTINF:-1 xui-id="9920" tvg-id="156503" tvg-name="Eurosport Norge HD [raw]" tvg-logo="http://fomo.re/images/NO_eurosport_norway_hd.png" group-title="Norvégia",Eurosport Norge HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xlN0Dw4IWIFFDg1Q93JPr4/ts
+#EXTINF:-1 xui-id="9920" tvg-id="156503" tvg-name="Eurosport Norge HD [raw]" tvg-logo="http://fomo.re/images/NO_eurosport_norway_hd.png" group-title="Norvégia",Eurosport Norge HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xlN0Dw4IWIFFDg1Q93JPr4/ts
+#EXTINF:-1 xui-id="67" tvg-id="156501" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re/images/NO_eurosport_1_hd.png" group-title="Norvégia",Eurosport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86IYzZZMeGVrxgZChTPFpps/ts
+#EXTINF:-1 xui-id="67" tvg-id="156501" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re/images/NO_eurosport_1_hd.png" group-title="Norvégia",Eurosport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86IYzZZMeGVrxgZChTPFpps/ts
+#EXTINF:-1 xui-id="9919" tvg-id="156501" tvg-name="Eurosport 1 HD [raw]" tvg-logo="http://fomo.re/images/NO_eurosport_1_hd.png" group-title="Norvégia",Eurosport 1 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_wM7U1bqIzxYIhQRQ9Rr6g/ts
+#EXTINF:-1 xui-id="9919" tvg-id="156501" tvg-name="Eurosport 1 HD [raw]" tvg-logo="http://fomo.re/images/NO_eurosport_1_hd.png" group-title="Norvégia",Eurosport 1 HD [raw]
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_wM7U1bqIzxYIhQRQ9Rr6g/ts
+#EXTINF:-1 xui-id="121" tvg-id="156398" tvg-name="MTV Aitio" tvg-logo="http://fomo.re/images/swe_mtv_aitio.png" group-title="Norvégia",MTV Aitio
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zwF7RDBfmzbSI3fVUUqscw/ts
+#EXTINF:-1 xui-id="9915" tvg-id="156398" tvg-name="MTV Aitio HD" tvg-logo="http://fomo.re/images/swe_mtv_aitio.png" group-title="Norvégia",MTV Aitio HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yES-x4VcOm6Eua60gS-qeQ/ts
+#EXTINF:-1 xui-id="122" tvg-id="156253" tvg-name="MTV Viidhe" tvg-logo="http://fomo.re/images/CMoreSeries_square.svg.png" group-title="Norvégia",MTV Viidhe
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84ruCw-KSufAyeVUDsJdmBA/ts
+#EXTINF:-1 xui-id="9916" tvg-id="" tvg-name="MTV Viidhe HD" tvg-logo="http://fomo.re/images/CMoreSeries_square.svg.png" group-title="Norvégia",MTV Viidhe HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86aHhTOK4JLQMvcbIrPN1t8/ts
+#EXTINF:-1 xui-id="123" tvg-id="156399" tvg-name="TV4 Hits" tvg-logo="http://fomo.re/images/CMoreHits_square.svg.png" group-title="Norvégia",TV4 Hits
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83rKM2etjvruNGlJOJcW_x8/ts
+#EXTINF:-1 xui-id="9917" tvg-id="" tvg-name="TV4 Hits HD" tvg-logo="http://fomo.re/images/CMoreHits_square.svg.png" group-title="Norvégia",TV4 Hits HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80yJchF96XBFMeNfB1xT9tU/ts
+#EXTINF:-1 xui-id="124" tvg-id="156400" tvg-name="TV4 Stars" tvg-logo="http://fomo.re/images/CMoreStars_square.svg.png" group-title="Norvégia",TV4 Stars
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80TXclLe5IM-r_smgikIv80/ts
+#EXTINF:-1 xui-id="9918" tvg-id="" tvg-name="TV4 Stars HD" tvg-logo="http://fomo.re/images/CMoreStars_square.svg.png" group-title="Norvégia",TV4 Stars HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8waBCS0LkHSp6dwO3NKn-Gk/ts
+#EXTINF:-1 xui-id="127" tvg-id="155839" tvg-name="V film premiere HD" tvg-logo="http://fomo.re/images/ALL_vsport_film_premiere_hd.png" group-title="Norvégia",V film premiere HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85ilY_Qv26CkagADFtTq-gA/ts
+#EXTINF:-1 xui-id="129" tvg-id="156481" tvg-name="V Film Action HD" tvg-logo="http://fomo.re/images/ALL_vsport_film_action_hd.png" group-title="Norvégia",V Film Action HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82rhtny5kgDJfqkYLedjWbo/ts
+#EXTINF:-1 xui-id="131" tvg-id="156488" tvg-name="V Film Hits HD" tvg-logo="http://fomo.re/images/ALL_vsport_film_hits_hd.png" group-title="Norvégia",V Film Hits HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_X483JGhHK_Jrkase459k8/ts
+#EXTINF:-1 xui-id="132" tvg-id="156494" tvg-name="V Film Family" tvg-logo="http://fomo.re/images/ALL_vsport_35.png" group-title="Norvégia",V Film Family
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86hmmjfma-v11sFJI4q5JcE/ts
+#EXTINF:-1 xui-id="133" tvg-id="156486" tvg-name="V series HD" tvg-logo="http://fomo.re/images/ALL_vsport_series_hd.png" group-title="Norvégia",V series HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp844i8asV_uENdslcMn6jloQ/ts
+#EXTINF:-1 xui-id="82" tvg-id="156534" tvg-name="MOTORVISION TV HD" tvg-logo="http://fomo.re/images/NO_motor_vision_hd.png" group-title="Norvégia",MOTORVISION TV HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yVymoPq2qUJxbeybMGCoYE/ts
+#EXTINF:-1 xui-id="82" tvg-id="156534" tvg-name="MOTORVISION TV HD" tvg-logo="http://fomo.re/images/NO_motor_vision_hd.png" group-title="Norvégia",MOTORVISION TV HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yVymoPq2qUJxbeybMGCoYE/ts
+#EXTINF:-1 xui-id="9909" tvg-id="" tvg-name="Bilkanalen HD" tvg-logo="http://fomo.re/images/AutoMotorSportTv_square.svg.png" group-title="Norvégia",Bilkanalen HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zVm6um3xHnOLSI6j_Ja5zw/ts
+#EXTINF:-1 xui-id="9909" tvg-id="" tvg-name="Bilkanalen HD" tvg-logo="http://fomo.re/images/AutoMotorSportTv_square.svg.png" group-title="Norvégia",Bilkanalen HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zVm6um3xHnOLSI6j_Ja5zw/ts
+#EXTINF:-1 xui-id="113245" tvg-id="" tvg-name="V sport Premier League" tvg-logo="http://fomo.re/images/v1.png" group-title="Norvégia",V sport Premier League
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-fx79Xnio1fKnzN7ojCJ3g/ts
+#EXTINF:-1 xui-id="113245" tvg-id="" tvg-name="V sport Premier League" tvg-logo="http://fomo.re/images/v1.png" group-title="Norvégia",V sport Premier League
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-fx79Xnio1fKnzN7ojCJ3g/ts
+#EXTINF:-1 xui-id="113250" tvg-id="" tvg-name="V sport Premier League HD" tvg-logo="http://fomo.re/images/v1.png" group-title="Norvégia",V sport Premier League HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84xJDbxydUvMRiceEZ41EDA/ts
+#EXTINF:-1 xui-id="113250" tvg-id="" tvg-name="V sport Premier League HD" tvg-logo="http://fomo.re/images/v1.png" group-title="Norvégia",V sport Premier League HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84xJDbxydUvMRiceEZ41EDA/ts
+#EXTINF:-1 xui-id="109595" tvg-id="" tvg-name="V sport Premier League HD | 50FPS" tvg-logo="http://fomo.re/images/v1.png" group-title="Norvégia",V sport Premier League HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84_94Kmo8zi8BYHb4mbIVqs/ts
+#EXTINF:-1 xui-id="109595" tvg-id="" tvg-name="V sport Premier League HD | 50FPS" tvg-logo="http://fomo.re/images/v1.png" group-title="Norvégia",V sport Premier League HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84_94Kmo8zi8BYHb4mbIVqs/ts
+#EXTINF:-1 xui-id="113246" tvg-id="" tvg-name="V sport Premier League 1" tvg-logo="http://fomo.re/images/v2.png" group-title="Norvégia",V sport Premier League 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83WE97qTRtJZ96NI3yhupYM/ts
+#EXTINF:-1 xui-id="113246" tvg-id="" tvg-name="V sport Premier League 1" tvg-logo="http://fomo.re/images/v2.png" group-title="Norvégia",V sport Premier League 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83WE97qTRtJZ96NI3yhupYM/ts
+#EXTINF:-1 timeshift="1" xui-id="113251" tvg-id="" tvg-name="V sport Premier League 1 HD" tvg-logo="http://fomo.re/images/v2.png" group-title="Norvégia",V sport Premier League 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83wDUazHCz-EIo3zZBaEMzQ/ts
+#EXTINF:-1 timeshift="1" xui-id="113251" tvg-id="" tvg-name="V sport Premier League 1 HD" tvg-logo="http://fomo.re/images/v2.png" group-title="Norvégia",V sport Premier League 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83wDUazHCz-EIo3zZBaEMzQ/ts
+#EXTINF:-1 xui-id="112900" tvg-id="" tvg-name="V sport Premier League 1 HD | 50FPS" tvg-logo="http://fomo.re/images/v2.png" group-title="Norvégia",V sport Premier League 1 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_rvFCQS06rx6FDjgWKHCXA/ts
+#EXTINF:-1 xui-id="112900" tvg-id="" tvg-name="V sport Premier League 1 HD | 50FPS" tvg-logo="http://fomo.re/images/v2.png" group-title="Norvégia",V sport Premier League 1 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_rvFCQS06rx6FDjgWKHCXA/ts
+#EXTINF:-1 xui-id="113247" tvg-id="" tvg-name="V sport Premier League 2" tvg-logo="http://fomo.re/images/v2-2.png" group-title="Norvégia",V sport Premier League 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85e01An56oBH8TY7_blgdMQ/ts
+#EXTINF:-1 xui-id="113247" tvg-id="" tvg-name="V sport Premier League 2" tvg-logo="http://fomo.re/images/v2-2.png" group-title="Norvégia",V sport Premier League 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85e01An56oBH8TY7_blgdMQ/ts
+#EXTINF:-1 xui-id="113252" tvg-id="" tvg-name="V sport Premeir League 2 HD" tvg-logo="http://fomo.re/images/v2-2.png" group-title="Norvégia",V sport Premeir League 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81qktpElnAX_dddjAhtZ6do/ts
+#EXTINF:-1 xui-id="113252" tvg-id="" tvg-name="V sport Premeir League 2 HD" tvg-logo="http://fomo.re/images/v2-2.png" group-title="Norvégia",V sport Premeir League 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81qktpElnAX_dddjAhtZ6do/ts
+#EXTINF:-1 xui-id="112901" tvg-id="" tvg-name="V sport Premier League 2 HD | 50FPS" tvg-logo="http://fomo.re/images/v2-2.png" group-title="Norvégia",V sport Premier League 2 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81ffHoCWdA93wClD2-tK0nc/ts
+#EXTINF:-1 xui-id="112901" tvg-id="" tvg-name="V sport Premier League 2 HD | 50FPS" tvg-logo="http://fomo.re/images/v2-2.png" group-title="Norvégia",V sport Premier League 2 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81ffHoCWdA93wClD2-tK0nc/ts
+#EXTINF:-1 xui-id="113248" tvg-id="" tvg-name="V sport Premier League 3" tvg-logo="http://fomo.re/images/v3.png" group-title="Norvégia",V sport Premier League 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82MlThjhH10bAhwqxLlrj3A/ts
+#EXTINF:-1 xui-id="113248" tvg-id="" tvg-name="V sport Premier League 3" tvg-logo="http://fomo.re/images/v3.png" group-title="Norvégia",V sport Premier League 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82MlThjhH10bAhwqxLlrj3A/ts
+#EXTINF:-1 timeshift="1" xui-id="113253" tvg-id="" tvg-name="V sport Premier League 3 HD" tvg-logo="http://fomo.re/images/v3.png" group-title="Norvégia",V sport Premier League 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84BrPgF8y6yj1VqbXI1TAt4/ts
+#EXTINF:-1 timeshift="1" xui-id="113253" tvg-id="" tvg-name="V sport Premier League 3 HD" tvg-logo="http://fomo.re/images/v3.png" group-title="Norvégia",V sport Premier League 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84BrPgF8y6yj1VqbXI1TAt4/ts
+#EXTINF:-1 xui-id="112902" tvg-id="" tvg-name="V sport Premier League 3 HD | 50FPS" tvg-logo="http://fomo.re/images/v3.png" group-title="Norvégia",V sport Premier League 3 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xzNu7XSlK7nuXkTzfRrmA8/ts
+#EXTINF:-1 xui-id="112902" tvg-id="" tvg-name="V sport Premier League 3 HD | 50FPS" tvg-logo="http://fomo.re/images/v3.png" group-title="Norvégia",V sport Premier League 3 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xzNu7XSlK7nuXkTzfRrmA8/ts
+#EXTINF:-1 xui-id="113249" tvg-id="" tvg-name="V sport Premier League 4" tvg-logo="http://fomo.re/images/v4.png" group-title="Norvégia",V sport Premier League 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xE65qR3C6jTQZqHQXFJjvs/ts
+#EXTINF:-1 xui-id="113249" tvg-id="" tvg-name="V sport Premier League 4" tvg-logo="http://fomo.re/images/v4.png" group-title="Norvégia",V sport Premier League 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xE65qR3C6jTQZqHQXFJjvs/ts
+#EXTINF:-1 timeshift="1" xui-id="113254" tvg-id="" tvg-name="V sport Premier League 4 HD" tvg-logo="http://fomo.re/images/v4.png" group-title="Norvégia",V sport Premier League 4 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yDXr0uq8UWoXL9mdQG31hY/ts
+#EXTINF:-1 timeshift="1" xui-id="113254" tvg-id="" tvg-name="V sport Premier League 4 HD" tvg-logo="http://fomo.re/images/v4.png" group-title="Norvégia",V sport Premier League 4 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yDXr0uq8UWoXL9mdQG31hY/ts
+#EXTINF:-1 xui-id="112903" tvg-id="" tvg-name="V sport Premier League 4 HD | 50FPS" tvg-logo="http://fomo.re/images/v4.png" group-title="Norvégia",V sport Premier League 4 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_Yb_pYLN21Gh1OBqe69RSo/ts
+#EXTINF:-1 xui-id="112903" tvg-id="" tvg-name="V sport Premier League 4 HD | 50FPS" tvg-logo="http://fomo.re/images/v4.png" group-title="Norvégia",V sport Premier League 4 HD | 50FPS
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_Yb_pYLN21Gh1OBqe69RSo/ts
+#EXTINF:-1 xui-id="35253" tvg-id="" tvg-name="Viaplay Extra 1 HD" tvg-logo="http://fomo.re/images/NO_viaplay_1.png" group-title="Norvégia",Viaplay Extra 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81PUSVSaJRpye9anAe29FWQ/ts
+#EXTINF:-1 xui-id="35253" tvg-id="" tvg-name="Viaplay Extra 1 HD" tvg-logo="http://fomo.re/images/NO_viaplay_1.png" group-title="Norvégia",Viaplay Extra 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81PUSVSaJRpye9anAe29FWQ/ts
+#EXTINF:-1 xui-id="35354" tvg-id="" tvg-name="Viaplay Extra 2 HD" tvg-logo="http://fomo.re/images/NO_viaplay_2.png" group-title="Norvégia",Viaplay Extra 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z6fz0u0a7M97I_KBVuedKI/ts
+#EXTINF:-1 xui-id="35354" tvg-id="" tvg-name="Viaplay Extra 2 HD" tvg-logo="http://fomo.re/images/NO_viaplay_2.png" group-title="Norvégia",Viaplay Extra 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z6fz0u0a7M97I_KBVuedKI/ts
+#EXTINF:-1 xui-id="35355" tvg-id="" tvg-name="Viaplay Extra 3 HD" tvg-logo="http://fomo.re/images/NO_viaplay_3.png" group-title="Norvégia",Viaplay Extra 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xqacM4Bd2nHDq3HWcZfcGc/ts
+#EXTINF:-1 xui-id="35355" tvg-id="" tvg-name="Viaplay Extra 3 HD" tvg-logo="http://fomo.re/images/NO_viaplay_3.png" group-title="Norvégia",Viaplay Extra 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xqacM4Bd2nHDq3HWcZfcGc/ts
+#EXTINF:-1 xui-id="35356" tvg-id="" tvg-name="Viaplay Extra 4 HD" tvg-logo="http://fomo.re/images/NO_viaplay_4.png" group-title="Norvégia",Viaplay Extra 4 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84bA0WyG8HleDFyZucv4xRI/ts
+#EXTINF:-1 xui-id="35356" tvg-id="" tvg-name="Viaplay Extra 4 HD" tvg-logo="http://fomo.re/images/NO_viaplay_4.png" group-title="Norvégia",Viaplay Extra 4 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84bA0WyG8HleDFyZucv4xRI/ts
+#EXTINF:-1 xui-id="35357" tvg-id="" tvg-name="Viaplay Extra 5 HD" tvg-logo="http://fomo.re/images/NO_viaplay_5.png" group-title="Norvégia",Viaplay Extra 5 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84R2kcf6tNTxOE5oui7fu-4/ts
+#EXTINF:-1 xui-id="35357" tvg-id="" tvg-name="Viaplay Extra 5 HD" tvg-logo="http://fomo.re/images/NO_viaplay_5.png" group-title="Norvégia",Viaplay Extra 5 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84R2kcf6tNTxOE5oui7fu-4/ts
+#EXTINF:-1 xui-id="35358" tvg-id="" tvg-name="Viaplay Extra 6 HD" tvg-logo="http://fomo.re/images/NO_viaplay_6.png" group-title="Norvégia",Viaplay Extra 6 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88-yFeTqXDc0ynMpO3FUTKU/ts
+#EXTINF:-1 xui-id="35358" tvg-id="" tvg-name="Viaplay Extra 6 HD" tvg-logo="http://fomo.re/images/NO_viaplay_6.png" group-title="Norvégia",Viaplay Extra 6 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88-yFeTqXDc0ynMpO3FUTKU/ts
+#EXTINF:-1 xui-id="35359" tvg-id="" tvg-name="Viaplay Extra 7 HD" tvg-logo="http://fomo.re/images/NO_viaplay_7.png" group-title="Norvégia",Viaplay Extra 7 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80YYT4G25rCWzi748wOiDj4/ts
+#EXTINF:-1 xui-id="35359" tvg-id="" tvg-name="Viaplay Extra 7 HD" tvg-logo="http://fomo.re/images/NO_viaplay_7.png" group-title="Norvégia",Viaplay Extra 7 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80YYT4G25rCWzi748wOiDj4/ts
+#EXTINF:-1 xui-id="35360" tvg-id="" tvg-name="Viaplay Extra 8 HD" tvg-logo="http://fomo.re/images/NO_viaplay_8.png" group-title="Norvégia",Viaplay Extra 8 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wOtOD7hsfxVOPUVRlxt9xc/ts
+#EXTINF:-1 xui-id="35360" tvg-id="" tvg-name="Viaplay Extra 8 HD" tvg-logo="http://fomo.re/images/NO_viaplay_8.png" group-title="Norvégia",Viaplay Extra 8 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wOtOD7hsfxVOPUVRlxt9xc/ts
+#EXTINF:-1 xui-id="35361" tvg-id="" tvg-name="Viaplay Extra 9 HD" tvg-logo="http://fomo.re/images/NO_viaplay_9.png" group-title="Norvégia",Viaplay Extra 9 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81BxVpoDi6HUtiUIK0kBiW8/ts
+#EXTINF:-1 xui-id="35361" tvg-id="" tvg-name="Viaplay Extra 9 HD" tvg-logo="http://fomo.re/images/NO_viaplay_9.png" group-title="Norvégia",Viaplay Extra 9 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81BxVpoDi6HUtiUIK0kBiW8/ts
+#EXTINF:-1 xui-id="35362" tvg-id="" tvg-name="Viaplay Extra 10 HD" tvg-logo="http://fomo.re/images/NO_viaplay_10.png" group-title="Norvégia",Viaplay Extra 10 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yGZC3EbNurQX3cUdjQqyZA/ts
+#EXTINF:-1 xui-id="35362" tvg-id="" tvg-name="Viaplay Extra 10 HD" tvg-logo="http://fomo.re/images/NO_viaplay_10.png" group-title="Norvégia",Viaplay Extra 10 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yGZC3EbNurQX3cUdjQqyZA/ts
+#EXTINF:-1 xui-id="38815" tvg-id="" tvg-name="ViaPlay Extra 11 HD" tvg-logo="http://fomo.re/images/NO_viaplay_11.png" group-title="Norvégia",ViaPlay Extra 11 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84Ll1c7WCOpgLN1aEg4WqQk/ts
+#EXTINF:-1 xui-id="38815" tvg-id="" tvg-name="ViaPlay Extra 11 HD" tvg-logo="http://fomo.re/images/NO_viaplay_11.png" group-title="Norvégia",ViaPlay Extra 11 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84Ll1c7WCOpgLN1aEg4WqQk/ts
+#EXTINF:-1 xui-id="38816" tvg-id="" tvg-name="ViaPlay Extra 12 HD" tvg-logo="http://fomo.re/images/NO_viaplay_12.png" group-title="Norvégia",ViaPlay Extra 12 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yFOByDMovvKolX9IeUmymI/ts
+#EXTINF:-1 xui-id="38816" tvg-id="" tvg-name="ViaPlay Extra 12 HD" tvg-logo="http://fomo.re/images/NO_viaplay_12.png" group-title="Norvégia",ViaPlay Extra 12 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yFOByDMovvKolX9IeUmymI/ts
+#EXTINF:-1 xui-id="38817" tvg-id="" tvg-name="ViaPlay Extra 13 HD" tvg-logo="http://fomo.re/images/NO_viaplay_13.png" group-title="Norvégia",ViaPlay Extra 13 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86SU3RMRg11sNuz1V_CTg9E/ts
+#EXTINF:-1 xui-id="38817" tvg-id="" tvg-name="ViaPlay Extra 13 HD" tvg-logo="http://fomo.re/images/NO_viaplay_13.png" group-title="Norvégia",ViaPlay Extra 13 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86SU3RMRg11sNuz1V_CTg9E/ts
+#EXTINF:-1 xui-id="38819" tvg-id="" tvg-name="ViaPlay Extra 14 HD" tvg-logo="http://fomo.re/images/NO_viaplay_14.png" group-title="Norvégia",ViaPlay Extra 14 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_vHYclIMMQlxEA9JiVOuxg/ts
+#EXTINF:-1 xui-id="38819" tvg-id="" tvg-name="ViaPlay Extra 14 HD" tvg-logo="http://fomo.re/images/NO_viaplay_14.png" group-title="Norvégia",ViaPlay Extra 14 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_vHYclIMMQlxEA9JiVOuxg/ts
+#EXTINF:-1 xui-id="85258" tvg-id="" tvg-name="ViaPlay Extra 15 HD" tvg-logo="http://fomo.re/images/NO_viaplay_15.png" group-title="Norvégia",ViaPlay Extra 15 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_xk3ZkLnOhu3ONnreDgt0I/ts
+#EXTINF:-1 xui-id="85258" tvg-id="" tvg-name="ViaPlay Extra 15 HD" tvg-logo="http://fomo.re/images/NO_viaplay_15.png" group-title="Norvégia",ViaPlay Extra 15 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_xk3ZkLnOhu3ONnreDgt0I/ts
+#EXTINF:-1 xui-id="85259" tvg-id="" tvg-name="ViaPlay Extra 16 HD" tvg-logo="http://fomo.re/images/NO_viaplay_16.png" group-title="Norvégia",ViaPlay Extra 16 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xEcrDgo2qhyJ1mUqR-i3R8/ts
+#EXTINF:-1 xui-id="85259" tvg-id="" tvg-name="ViaPlay Extra 16 HD" tvg-logo="http://fomo.re/images/NO_viaplay_16.png" group-title="Norvégia",ViaPlay Extra 16 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xEcrDgo2qhyJ1mUqR-i3R8/ts
+#EXTINF:-1 xui-id="85260" tvg-id="" tvg-name="ViaPlay Extra 17 HD" tvg-logo="http://fomo.re/images/NO_viaplay_17.png" group-title="Norvégia",ViaPlay Extra 17 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp858KBThyDN0ma9_lzRZnWVw/ts
+#EXTINF:-1 xui-id="85260" tvg-id="" tvg-name="ViaPlay Extra 17 HD" tvg-logo="http://fomo.re/images/NO_viaplay_17.png" group-title="Norvégia",ViaPlay Extra 17 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp858KBThyDN0ma9_lzRZnWVw/ts
+#EXTINF:-1 xui-id="85261" tvg-id="" tvg-name="ViaPlay Extra 18 HD" tvg-logo="http://fomo.re/images/NO_viaplay_18.png" group-title="Norvégia",ViaPlay Extra 18 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-i4NiDMdovAlU8O4QM3Np4/ts
+#EXTINF:-1 xui-id="85261" tvg-id="" tvg-name="ViaPlay Extra 18 HD" tvg-logo="http://fomo.re/images/NO_viaplay_18.png" group-title="Norvégia",ViaPlay Extra 18 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-i4NiDMdovAlU8O4QM3Np4/ts
+#EXTINF:-1 xui-id="85262" tvg-id="" tvg-name="ViaPlay Extra 19 HD" tvg-logo="http://fomo.re/images/NO_viaplay_19.png" group-title="Norvégia",ViaPlay Extra 19 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80_22m7x0SgScSz6sPuxYwo/ts
+#EXTINF:-1 xui-id="85262" tvg-id="" tvg-name="ViaPlay Extra 19 HD" tvg-logo="http://fomo.re/images/NO_viaplay_19.png" group-title="Norvégia",ViaPlay Extra 19 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80_22m7x0SgScSz6sPuxYwo/ts
+#EXTINF:-1 xui-id="85263" tvg-id="" tvg-name="Viaplay Goalshow" tvg-logo="http://fomo.re/images/62f6319a43c7d.png" group-title="Norvégia",Viaplay Goalshow
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89ambEhLWEow4VGcNNlS_yk/ts
+#EXTINF:-1 xui-id="85263" tvg-id="" tvg-name="Viaplay Goalshow" tvg-logo="http://fomo.re/images/62f6319a43c7d.png" group-title="Norvégia",Viaplay Goalshow
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89ambEhLWEow4VGcNNlS_yk/ts
+#EXTINF:-1 xui-id="66563" tvg-id="" tvg-name="TV2 Play 1" tvg-logo="http://fomo.re/images/NO_tv2_play_1.png" group-title="Norvégia",TV2 Play 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83yO6fhgugJuH18Pmqi5jm8/ts
+#EXTINF:-1 xui-id="66563" tvg-id="" tvg-name="TV2 Play 1" tvg-logo="http://fomo.re/images/NO_tv2_play_1.png" group-title="Norvégia",TV2 Play 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83yO6fhgugJuH18Pmqi5jm8/ts
+#EXTINF:-1 xui-id="66564" tvg-id="" tvg-name="TV2 Play 2" tvg-logo="http://fomo.re/images/NO_tv2_play2.png" group-title="Norvégia",TV2 Play 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp870aIji0XBUlHXVoisCqSeo/ts
+#EXTINF:-1 xui-id="66564" tvg-id="" tvg-name="TV2 Play 2" tvg-logo="http://fomo.re/images/NO_tv2_play2.png" group-title="Norvégia",TV2 Play 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp870aIji0XBUlHXVoisCqSeo/ts
+#EXTINF:-1 xui-id="66565" tvg-id="" tvg-name="TV2 Play 3" tvg-logo="http://fomo.re/images/NO_tv2_play3.png" group-title="Norvégia",TV2 Play 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yBqzEdvn_94kNbX4S1P_LQ/ts
+#EXTINF:-1 xui-id="66565" tvg-id="" tvg-name="TV2 Play 3" tvg-logo="http://fomo.re/images/NO_tv2_play3.png" group-title="Norvégia",TV2 Play 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yBqzEdvn_94kNbX4S1P_LQ/ts
+#EXTINF:-1 xui-id="66566" tvg-id="" tvg-name="TV2 Play 4" tvg-logo="http://fomo.re/images/NO_tv2_play4.png" group-title="Norvégia",TV2 Play 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8y0ZNnK6NufdLaql0UHZlTI/ts
+#EXTINF:-1 xui-id="66566" tvg-id="" tvg-name="TV2 Play 4" tvg-logo="http://fomo.re/images/NO_tv2_play4.png" group-title="Norvégia",TV2 Play 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8y0ZNnK6NufdLaql0UHZlTI/ts
+#EXTINF:-1 xui-id="66567" tvg-id="" tvg-name="TV2 Play 5" tvg-logo="http://fomo.re/images/NO_tv2_play5.png" group-title="Norvégia",TV2 Play 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80jbZIkEtOpSKwd8aEfxSSI/ts
+#EXTINF:-1 xui-id="66567" tvg-id="" tvg-name="TV2 Play 5" tvg-logo="http://fomo.re/images/NO_tv2_play5.png" group-title="Norvégia",TV2 Play 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80jbZIkEtOpSKwd8aEfxSSI/ts
+#EXTINF:-1 xui-id="66568" tvg-id="" tvg-name="TV2 Play 6" tvg-logo="http://fomo.re/images/NO_tv2_play6.png" group-title="Norvégia",TV2 Play 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_Kz3HkqPTbmK48T5OvENhM/ts
+#EXTINF:-1 xui-id="66568" tvg-id="" tvg-name="TV2 Play 6" tvg-logo="http://fomo.re/images/NO_tv2_play6.png" group-title="Norvégia",TV2 Play 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_Kz3HkqPTbmK48T5OvENhM/ts
+#EXTINF:-1 xui-id="66569" tvg-id="" tvg-name="TV2 Play 7" tvg-logo="http://fomo.re/images/NO_tv2_play7.png" group-title="Norvégia",TV2 Play 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85_cULpZBbdwPk1MJBgrpog/ts
+#EXTINF:-1 xui-id="66569" tvg-id="" tvg-name="TV2 Play 7" tvg-logo="http://fomo.re/images/NO_tv2_play7.png" group-title="Norvégia",TV2 Play 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85_cULpZBbdwPk1MJBgrpog/ts
+#EXTINF:-1 xui-id="66794" tvg-id="" tvg-name="TV2 Play 8" tvg-logo="http://fomo.re/images/NO_tv2_play8.png" group-title="Norvégia",TV2 Play 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83qTIN9ozf67doX4ubsUN1U/ts
+#EXTINF:-1 xui-id="66794" tvg-id="" tvg-name="TV2 Play 8" tvg-logo="http://fomo.re/images/NO_tv2_play8.png" group-title="Norvégia",TV2 Play 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83qTIN9ozf67doX4ubsUN1U/ts
+#EXTINF:-1 xui-id="66795" tvg-id="" tvg-name="TV2 play 9" tvg-logo="http://fomo.re/images/NO_tv2_play9.png" group-title="Norvégia",TV2 play 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83sIeg1X3RGrUYwSk_48vro/ts
+#EXTINF:-1 xui-id="66795" tvg-id="" tvg-name="TV2 play 9" tvg-logo="http://fomo.re/images/NO_tv2_play9.png" group-title="Norvégia",TV2 play 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83sIeg1X3RGrUYwSk_48vro/ts
+#EXTINF:-1 xui-id="66796" tvg-id="" tvg-name="TV2 Play 10" tvg-logo="http://fomo.re/images/NO_tv2_play10.png" group-title="Norvégia",TV2 Play 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ywFT5Ize2mAWi3Sd7VreV8/ts
+#EXTINF:-1 xui-id="66796" tvg-id="" tvg-name="TV2 Play 10" tvg-logo="http://fomo.re/images/NO_tv2_play10.png" group-title="Norvégia",TV2 Play 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ywFT5Ize2mAWi3Sd7VreV8/ts
+#EXTINF:-1 xui-id="66797" tvg-id="" tvg-name="TV2 Play 11" tvg-logo="http://fomo.re/images/NO_tv2_play11.png" group-title="Norvégia",TV2 Play 11
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82E2K04_48OS2MBEFTRTE6k/ts
+#EXTINF:-1 xui-id="66797" tvg-id="" tvg-name="TV2 Play 11" tvg-logo="http://fomo.re/images/NO_tv2_play11.png" group-title="Norvégia",TV2 Play 11
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82E2K04_48OS2MBEFTRTE6k/ts
+#EXTINF:-1 xui-id="66798" tvg-id="" tvg-name="TV2 Play 12" tvg-logo="http://fomo.re/images/NO_tv2_play12.png" group-title="Norvégia",TV2 Play 12
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85HqNNXDKLLH5lsFgCsn4nQ/ts
+#EXTINF:-1 xui-id="66798" tvg-id="" tvg-name="TV2 Play 12" tvg-logo="http://fomo.re/images/NO_tv2_play12.png" group-title="Norvégia",TV2 Play 12
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85HqNNXDKLLH5lsFgCsn4nQ/ts
+#EXTINF:-1 xui-id="66799" tvg-id="" tvg-name="TV2 Play 13" tvg-logo="http://fomo.re/images/NO_tv2_play13.png" group-title="Norvégia",TV2 Play 13
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xAHGWcXuMqxBvZg9mDEabI/ts
+#EXTINF:-1 xui-id="66799" tvg-id="" tvg-name="TV2 Play 13" tvg-logo="http://fomo.re/images/NO_tv2_play13.png" group-title="Norvégia",TV2 Play 13
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xAHGWcXuMqxBvZg9mDEabI/ts
+#EXTINF:-1 xui-id="66800" tvg-id="" tvg-name="TV2 Play 14" tvg-logo="http://fomo.re/images/NO_tv2_play14.png" group-title="Norvégia",TV2 Play 14
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87BiyOhEUgh9DHMCAghK0e0/ts
+#EXTINF:-1 xui-id="66800" tvg-id="" tvg-name="TV2 Play 14" tvg-logo="http://fomo.re/images/NO_tv2_play14.png" group-title="Norvégia",TV2 Play 14
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87BiyOhEUgh9DHMCAghK0e0/ts
+#EXTINF:-1 xui-id="66801" tvg-id="" tvg-name="TV2 Play 15" tvg-logo="http://fomo.re/images/NO_tv2_play15.png" group-title="Norvégia",TV2 Play 15
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zshqE2T0avWIBl9geyWbuI/ts
+#EXTINF:-1 xui-id="66801" tvg-id="" tvg-name="TV2 Play 15" tvg-logo="http://fomo.re/images/NO_tv2_play15.png" group-title="Norvégia",TV2 Play 15
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zshqE2T0avWIBl9geyWbuI/ts
+#EXTINF:-1 xui-id="66802" tvg-id="" tvg-name="TV2 Play 16" tvg-logo="http://fomo.re/images/NO_tv2_play16.png" group-title="Norvégia",TV2 Play 16
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84YY1bRCyZwVZ_dPVgdLMsg/ts
+#EXTINF:-1 xui-id="66802" tvg-id="" tvg-name="TV2 Play 16" tvg-logo="http://fomo.re/images/NO_tv2_play16.png" group-title="Norvégia",TV2 Play 16
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84YY1bRCyZwVZ_dPVgdLMsg/ts
+#EXTINF:-1 xui-id="66803" tvg-id="" tvg-name="TV2 Play 17" tvg-logo="http://fomo.re/images/NO_tv2_play17.png" group-title="Norvégia",TV2 Play 17
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x76IrZgqPtkHGvJhEkB6Zw/ts
+#EXTINF:-1 xui-id="66803" tvg-id="" tvg-name="TV2 Play 17" tvg-logo="http://fomo.re/images/NO_tv2_play17.png" group-title="Norvégia",TV2 Play 17
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x76IrZgqPtkHGvJhEkB6Zw/ts
+#EXTINF:-1 xui-id="66804" tvg-id="" tvg-name="TV2 Play 18" tvg-logo="http://fomo.re/images/NO_tv2_play18.png" group-title="Norvégia",TV2 Play 18
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xvARB4IumjuMvx0L7x11UA/ts
+#EXTINF:-1 xui-id="66804" tvg-id="" tvg-name="TV2 Play 18" tvg-logo="http://fomo.re/images/NO_tv2_play18.png" group-title="Norvégia",TV2 Play 18
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xvARB4IumjuMvx0L7x11UA/ts
+#EXTINF:-1 xui-id="66805" tvg-id="" tvg-name="TV2 Play 19" tvg-logo="http://fomo.re/images/NO_tv2_play19.png" group-title="Norvégia",TV2 Play 19
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zw0ws89BSVo2mVS0cx6Js4/ts
+#EXTINF:-1 xui-id="66805" tvg-id="" tvg-name="TV2 Play 19" tvg-logo="http://fomo.re/images/NO_tv2_play19.png" group-title="Norvégia",TV2 Play 19
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zw0ws89BSVo2mVS0cx6Js4/ts
+#EXTINF:-1 xui-id="66806" tvg-id="" tvg-name="TV2 Play 20" tvg-logo="http://fomo.re/images/NO_tv2_play20.png" group-title="Norvégia",TV2 Play 20
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-5rBFUD9rDA5T-GyG_OBXw/ts
+#EXTINF:-1 xui-id="66806" tvg-id="" tvg-name="TV2 Play 20" tvg-logo="http://fomo.re/images/NO_tv2_play20.png" group-title="Norvégia",TV2 Play 20
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-5rBFUD9rDA5T-GyG_OBXw/ts
+#EXTINF:-1 xui-id="66807" tvg-id="" tvg-name="Discovery+ Extra 1 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_1.png" group-title="Norvégia",Discovery+ Extra 1 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_eDuSZ9mthRb0HGH60IoDI/ts
+#EXTINF:-1 xui-id="66807" tvg-id="" tvg-name="Discovery+ Extra 1 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_1.png" group-title="Norvégia",Discovery+ Extra 1 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_eDuSZ9mthRb0HGH60IoDI/ts
+#EXTINF:-1 xui-id="66808" tvg-id="" tvg-name="Discovery+ Extra 2 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_2.png" group-title="Norvégia",Discovery+ Extra 2 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8w3m7OLUjaNgJ6xusU9A2UQ/ts
+#EXTINF:-1 xui-id="66808" tvg-id="" tvg-name="Discovery+ Extra 2 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_2.png" group-title="Norvégia",Discovery+ Extra 2 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8w3m7OLUjaNgJ6xusU9A2UQ/ts
+#EXTINF:-1 xui-id="66809" tvg-id="" tvg-name="Discovery+ Extra 3 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_3.png" group-title="Norvégia",Discovery+ Extra 3 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88kn4H2BlJt1w2H7CR_ut80/ts
+#EXTINF:-1 xui-id="66809" tvg-id="" tvg-name="Discovery+ Extra 3 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_3.png" group-title="Norvégia",Discovery+ Extra 3 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88kn4H2BlJt1w2H7CR_ut80/ts
+#EXTINF:-1 xui-id="66810" tvg-id="" tvg-name="Discovery+ Extra 4 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_4.png" group-title="Norvégia",Discovery+ Extra 4 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89mMGuBoZiMU67W_4uQSBtc/ts
+#EXTINF:-1 xui-id="66810" tvg-id="" tvg-name="Discovery+ Extra 4 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_4.png" group-title="Norvégia",Discovery+ Extra 4 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89mMGuBoZiMU67W_4uQSBtc/ts
+#EXTINF:-1 xui-id="66904" tvg-id="" tvg-name="Discovery+ Extra 5 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_5.png" group-title="Norvégia",Discovery+ Extra 5 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-KXaEZZQikum2xrmc5PYP0/ts
+#EXTINF:-1 xui-id="66904" tvg-id="" tvg-name="Discovery+ Extra 5 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_5.png" group-title="Norvégia",Discovery+ Extra 5 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-KXaEZZQikum2xrmc5PYP0/ts
+#EXTINF:-1 xui-id="66905" tvg-id="" tvg-name="Discovery+ Extra 6 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_6.png" group-title="Norvégia",Discovery+ Extra 6 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp869tdG3ORPtY3F6qmo5DioU/ts
+#EXTINF:-1 xui-id="66905" tvg-id="" tvg-name="Discovery+ Extra 6 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_6.png" group-title="Norvégia",Discovery+ Extra 6 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp869tdG3ORPtY3F6qmo5DioU/ts
+#EXTINF:-1 xui-id="66906" tvg-id="" tvg-name="Discovery+ Extra 7 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_7.png" group-title="Norvégia",Discovery+ Extra 7 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xCnRHkyOaiJQzEra2H_3mY/ts
+#EXTINF:-1 xui-id="66906" tvg-id="" tvg-name="Discovery+ Extra 7 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_7.png" group-title="Norvégia",Discovery+ Extra 7 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xCnRHkyOaiJQzEra2H_3mY/ts
+#EXTINF:-1 xui-id="66907" tvg-id="" tvg-name="Discovery+ Extra 8 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_8.png" group-title="Norvégia",Discovery+ Extra 8 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z_s5vUzrMlXnoLAFkDa2SU/ts
+#EXTINF:-1 xui-id="66907" tvg-id="" tvg-name="Discovery+ Extra 8 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_8.png" group-title="Norvégia",Discovery+ Extra 8 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z_s5vUzrMlXnoLAFkDa2SU/ts
+#EXTINF:-1 xui-id="66908" tvg-id="" tvg-name="Discovery+ Extra 9 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_9.png" group-title="Norvégia",Discovery+ Extra 9 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp852wT0Ornyz1L82qGClybMs/ts
+#EXTINF:-1 xui-id="66908" tvg-id="" tvg-name="Discovery+ Extra 9 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_9.png" group-title="Norvégia",Discovery+ Extra 9 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp852wT0Ornyz1L82qGClybMs/ts
+#EXTINF:-1 xui-id="66909" tvg-id="" tvg-name="Discovery+ Extra 10 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_10.png" group-title="Norvégia",Discovery+ Extra 10 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82MFdGNmxDlLnxWp30K9fyw/ts
+#EXTINF:-1 xui-id="66909" tvg-id="" tvg-name="Discovery+ Extra 10 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_10.png" group-title="Norvégia",Discovery+ Extra 10 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82MFdGNmxDlLnxWp30K9fyw/ts
+#EXTINF:-1 xui-id="66910" tvg-id="" tvg-name="Discovery+ Extra 11 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_11.png" group-title="Norvégia",Discovery+ Extra 11 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89kSjju0qDCR7eWS4QSAMZU/ts
+#EXTINF:-1 xui-id="66910" tvg-id="" tvg-name="Discovery+ Extra 11 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_11.png" group-title="Norvégia",Discovery+ Extra 11 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89kSjju0qDCR7eWS4QSAMZU/ts
+#EXTINF:-1 xui-id="66911" tvg-id="" tvg-name="Discovery+ Extra 12 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_12.png" group-title="Norvégia",Discovery+ Extra 12 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82GXf3RvqjGK5CFQ9PE2CkI/ts
+#EXTINF:-1 xui-id="66911" tvg-id="" tvg-name="Discovery+ Extra 12 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_12.png" group-title="Norvégia",Discovery+ Extra 12 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82GXf3RvqjGK5CFQ9PE2CkI/ts
+#EXTINF:-1 xui-id="66912" tvg-id="" tvg-name="Discovery+ Extra 13 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_13.png" group-title="Norvégia",Discovery+ Extra 13 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84ZWaZqnCPELw_pPA4ILiqs/ts
+#EXTINF:-1 xui-id="66912" tvg-id="" tvg-name="Discovery+ Extra 13 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_13.png" group-title="Norvégia",Discovery+ Extra 13 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84ZWaZqnCPELw_pPA4ILiqs/ts
+#EXTINF:-1 xui-id="66913" tvg-id="" tvg-name="Discovery+ Extra 14 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_14.png" group-title="Norvégia",Discovery+ Extra 14 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88u7oN2hcuJzH3vUjr6u0hU/ts
+#EXTINF:-1 xui-id="66913" tvg-id="" tvg-name="Discovery+ Extra 14 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_14.png" group-title="Norvégia",Discovery+ Extra 14 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88u7oN2hcuJzH3vUjr6u0hU/ts
+#EXTINF:-1 xui-id="66914" tvg-id="" tvg-name="Discovery+ Extra 15 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_15.png" group-title="Norvégia",Discovery+ Extra 15 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xNMk5U9FRQggB1Y38dk-QI/ts
+#EXTINF:-1 xui-id="66914" tvg-id="" tvg-name="Discovery+ Extra 15 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_15.png" group-title="Norvégia",Discovery+ Extra 15 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xNMk5U9FRQggB1Y38dk-QI/ts
+#EXTINF:-1 xui-id="66915" tvg-id="" tvg-name="Discovery+ Extra 16 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_16.png" group-title="Norvégia",Discovery+ Extra 16 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85GYgGG1DGh-Jq0tYyQ8KH0/ts
+#EXTINF:-1 xui-id="66915" tvg-id="" tvg-name="Discovery+ Extra 16 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_16.png" group-title="Norvégia",Discovery+ Extra 16 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85GYgGG1DGh-Jq0tYyQ8KH0/ts
+#EXTINF:-1 xui-id="66916" tvg-id="" tvg-name="Discovery+ Extra 17 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_17.png" group-title="Norvégia",Discovery+ Extra 17 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zMEnFhDiB7gY-yIUvRjfpE/ts
+#EXTINF:-1 xui-id="66916" tvg-id="" tvg-name="Discovery+ Extra 17 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_17.png" group-title="Norvégia",Discovery+ Extra 17 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zMEnFhDiB7gY-yIUvRjfpE/ts
+#EXTINF:-1 xui-id="66917" tvg-id="" tvg-name="Discovery+ Extra 18 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_18.png" group-title="Norvégia",Discovery+ Extra 18 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wFnVpMdtl8S1r8Wy7ugYwI/ts
+#EXTINF:-1 xui-id="66917" tvg-id="" tvg-name="Discovery+ Extra 18 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_18.png" group-title="Norvégia",Discovery+ Extra 18 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wFnVpMdtl8S1r8Wy7ugYwI/ts
+#EXTINF:-1 xui-id="66918" tvg-id="" tvg-name="Discovery+ Extra 19 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_19.png" group-title="Norvégia",Discovery+ Extra 19 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84I7dQBeI70K6qm36jfHC84/ts
+#EXTINF:-1 xui-id="66918" tvg-id="" tvg-name="Discovery+ Extra 19 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_19.png" group-title="Norvégia",Discovery+ Extra 19 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84I7dQBeI70K6qm36jfHC84/ts
+#EXTINF:-1 xui-id="66919" tvg-id="" tvg-name="Discovery+ Extra 20 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_20.png" group-title="Norvégia",Discovery+ Extra 20 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_86JOjXa_W3rJlYGVzO4SE/ts
+#EXTINF:-1 xui-id="66919" tvg-id="" tvg-name="Discovery+ Extra 20 FHD (N)" tvg-logo="http://fomo.re/images/UK_discovery_extra_20.png" group-title="Norvégia",Discovery+ Extra 20 FHD (N)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_86JOjXa_W3rJlYGVzO4SE/ts
+#EXTINF:-1 xui-id="36665" tvg-id="" tvg-name="VG+ 1" tvg-logo="http://fomo.re/images/NO_vg_1.png" group-title="Norvégia",VG+ 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85OSyjSid_zia08p4Sy6GW8/ts
+#EXTINF:-1 xui-id="36665" tvg-id="" tvg-name="VG+ 1" tvg-logo="http://fomo.re/images/NO_vg_1.png" group-title="Norvégia",VG+ 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85OSyjSid_zia08p4Sy6GW8/ts
+#EXTINF:-1 xui-id="36666" tvg-id="" tvg-name="VG+ 2" tvg-logo="http://fomo.re/images/NO_vg_2.png" group-title="Norvégia",VG+ 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-5OER8JmER_OOfzqaptHqg/ts
+#EXTINF:-1 xui-id="36666" tvg-id="" tvg-name="VG+ 2" tvg-logo="http://fomo.re/images/NO_vg_2.png" group-title="Norvégia",VG+ 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-5OER8JmER_OOfzqaptHqg/ts
+#EXTINF:-1 xui-id="36667" tvg-id="" tvg-name="VG+ 3" tvg-logo="http://fomo.re/images/NO_vg_3.png" group-title="Norvégia",VG+ 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ydLt8CA2NKyDKawzsGreic/ts
+#EXTINF:-1 xui-id="36667" tvg-id="" tvg-name="VG+ 3" tvg-logo="http://fomo.re/images/NO_vg_3.png" group-title="Norvégia",VG+ 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ydLt8CA2NKyDKawzsGreic/ts
+#EXTINF:-1 xui-id="36668" tvg-id="" tvg-name="VG+ 4" tvg-logo="http://fomo.re/images/NO_vg_4.png" group-title="Norvégia",VG+ 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xSpD-zl6wxI5w9TUpkgvNM/ts
+#EXTINF:-1 xui-id="36668" tvg-id="" tvg-name="VG+ 4" tvg-logo="http://fomo.re/images/NO_vg_4.png" group-title="Norvégia",VG+ 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xSpD-zl6wxI5w9TUpkgvNM/ts
+#EXTINF:-1 xui-id="36669" tvg-id="" tvg-name="VG+ 5" tvg-logo="http://fomo.re/images/NO_vg_5.png" group-title="Norvégia",VG+ 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp802CAN-5FT2h4lJIWZT3jbs/ts
+#EXTINF:-1 xui-id="36669" tvg-id="" tvg-name="VG+ 5" tvg-logo="http://fomo.re/images/NO_vg_5.png" group-title="Norvégia",VG+ 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp802CAN-5FT2h4lJIWZT3jbs/ts
+#EXTINF:-1 xui-id="39428" tvg-id="" tvg-name="Direkte Sport 1 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_1.png" group-title="Norvégia",Direkte Sport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81XawEyyI6OdLJMFTpY4al4/ts
+#EXTINF:-1 xui-id="39428" tvg-id="" tvg-name="Direkte Sport 1 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_1.png" group-title="Norvégia",Direkte Sport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81XawEyyI6OdLJMFTpY4al4/ts
+#EXTINF:-1 xui-id="39429" tvg-id="" tvg-name="Direkte Sport 2 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_2.png" group-title="Norvégia",Direkte Sport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83uV4VTb0yyJCn10Sp_33og/ts
+#EXTINF:-1 xui-id="39429" tvg-id="" tvg-name="Direkte Sport 2 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_2.png" group-title="Norvégia",Direkte Sport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83uV4VTb0yyJCn10Sp_33og/ts
+#EXTINF:-1 xui-id="39430" tvg-id="" tvg-name="DirekteSport 3 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_3.png" group-title="Norvégia",DirekteSport 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yew26bvzUHo14ez1auZT9E/ts
+#EXTINF:-1 xui-id="39430" tvg-id="" tvg-name="DirekteSport 3 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_3.png" group-title="Norvégia",DirekteSport 3 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yew26bvzUHo14ez1auZT9E/ts
+#EXTINF:-1 xui-id="39431" tvg-id="" tvg-name="DirekteSport 4 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_4.png" group-title="Norvégia",DirekteSport 4 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85znFx70-J7xJwKy9QmoZsE/ts
+#EXTINF:-1 xui-id="39431" tvg-id="" tvg-name="DirekteSport 4 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_4.png" group-title="Norvégia",DirekteSport 4 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85znFx70-J7xJwKy9QmoZsE/ts
+#EXTINF:-1 xui-id="39432" tvg-id="" tvg-name="DirekteSport 5 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_5.png" group-title="Norvégia",DirekteSport 5 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zQmvp7PMB9Pn0ibeZAFvBI/ts
+#EXTINF:-1 xui-id="39432" tvg-id="" tvg-name="DirekteSport 5 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_5.png" group-title="Norvégia",DirekteSport 5 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zQmvp7PMB9Pn0ibeZAFvBI/ts
+#EXTINF:-1 xui-id="39433" tvg-id="" tvg-name="DirekteSport 6 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_6.png" group-title="Norvégia",DirekteSport 6 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86i966oABZeJmwBR6BmLJpc/ts
+#EXTINF:-1 xui-id="39433" tvg-id="" tvg-name="DirekteSport 6 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_6.png" group-title="Norvégia",DirekteSport 6 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86i966oABZeJmwBR6BmLJpc/ts
+#EXTINF:-1 xui-id="39434" tvg-id="" tvg-name="DirekteSport 7 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_7.png" group-title="Norvégia",DirekteSport 7 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88J6o4ffDSIu-tGMcQmYiAI/ts
+#EXTINF:-1 xui-id="39434" tvg-id="" tvg-name="DirekteSport 7 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_7.png" group-title="Norvégia",DirekteSport 7 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88J6o4ffDSIu-tGMcQmYiAI/ts
+#EXTINF:-1 xui-id="39435" tvg-id="" tvg-name="DirekteSport 8 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_8.png" group-title="Norvégia",DirekteSport 8 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85qhK6IU3ilf36ncrW8lkz8/ts
+#EXTINF:-1 xui-id="39435" tvg-id="" tvg-name="DirekteSport 8 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_8.png" group-title="Norvégia",DirekteSport 8 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85qhK6IU3ilf36ncrW8lkz8/ts
+#EXTINF:-1 xui-id="39436" tvg-id="" tvg-name="DirekteSport 9 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_9.png" group-title="Norvégia",DirekteSport 9 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zQaAVnnTLXm0bCUNCcuMMc/ts
+#EXTINF:-1 xui-id="39436" tvg-id="" tvg-name="DirekteSport 9 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_9.png" group-title="Norvégia",DirekteSport 9 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zQaAVnnTLXm0bCUNCcuMMc/ts
+#EXTINF:-1 xui-id="39437" tvg-id="" tvg-name="DirekteSport 10 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_10.png" group-title="Norvégia",DirekteSport 10 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80w0g6TVXxW27aTddRv6svo/ts
+#EXTINF:-1 xui-id="39437" tvg-id="" tvg-name="DirekteSport 10 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_10.png" group-title="Norvégia",DirekteSport 10 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80w0g6TVXxW27aTddRv6svo/ts
+#EXTINF:-1 xui-id="39438" tvg-id="" tvg-name="DirekteSport 11 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_11.png" group-title="Norvégia",DirekteSport 11 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zCKbmAXbyg4OnYwTTeDoCs/ts
+#EXTINF:-1 xui-id="39438" tvg-id="" tvg-name="DirekteSport 11 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_11.png" group-title="Norvégia",DirekteSport 11 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zCKbmAXbyg4OnYwTTeDoCs/ts
+#EXTINF:-1 xui-id="39439" tvg-id="" tvg-name="DirekteSport 12 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_12.png" group-title="Norvégia",DirekteSport 12 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp817xMfA3dCeerU9O-hdDUB8/ts
+#EXTINF:-1 xui-id="39439" tvg-id="" tvg-name="DirekteSport 12 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_12.png" group-title="Norvégia",DirekteSport 12 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp817xMfA3dCeerU9O-hdDUB8/ts
+#EXTINF:-1 xui-id="39440" tvg-id="" tvg-name="DirekteSport 13 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_13.png" group-title="Norvégia",DirekteSport 13 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81IsGdfjIBESzXJUl2H1D08/ts
+#EXTINF:-1 xui-id="39440" tvg-id="" tvg-name="DirekteSport 13 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_13.png" group-title="Norvégia",DirekteSport 13 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81IsGdfjIBESzXJUl2H1D08/ts
+#EXTINF:-1 xui-id="39441" tvg-id="" tvg-name="DirekteSport 14 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_14.png" group-title="Norvégia",DirekteSport 14 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_AfJ2wZ2uDNznW1ktFVxTw/ts
+#EXTINF:-1 xui-id="39441" tvg-id="" tvg-name="DirekteSport 14 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_14.png" group-title="Norvégia",DirekteSport 14 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_AfJ2wZ2uDNznW1ktFVxTw/ts
+#EXTINF:-1 xui-id="39442" tvg-id="" tvg-name="DirekteSport 15 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_15.png" group-title="Norvégia",DirekteSport 15 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86MIGAyJlUknAzQNa88F7Y0/ts
+#EXTINF:-1 xui-id="39442" tvg-id="" tvg-name="DirekteSport 15 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_15.png" group-title="Norvégia",DirekteSport 15 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86MIGAyJlUknAzQNa88F7Y0/ts
+#EXTINF:-1 xui-id="39443" tvg-id="" tvg-name="DirekteSport 16 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_16.png" group-title="Norvégia",DirekteSport 16 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp841gpE8exhoSYjdY6KDpiUM/ts
+#EXTINF:-1 xui-id="39443" tvg-id="" tvg-name="DirekteSport 16 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_16.png" group-title="Norvégia",DirekteSport 16 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp841gpE8exhoSYjdY6KDpiUM/ts
+#EXTINF:-1 xui-id="39444" tvg-id="" tvg-name="DirekteSport 17 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_17.png" group-title="Norvégia",DirekteSport 17 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86t-d1W2DN503SOlPuBx2EA/ts
+#EXTINF:-1 xui-id="39444" tvg-id="" tvg-name="DirekteSport 17 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_17.png" group-title="Norvégia",DirekteSport 17 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86t-d1W2DN503SOlPuBx2EA/ts
+#EXTINF:-1 xui-id="39445" tvg-id="" tvg-name="DirekteSport 18 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_18.png" group-title="Norvégia",DirekteSport 18 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp848XQ-E3pmEQlsnkskpi4J0/ts
+#EXTINF:-1 xui-id="39445" tvg-id="" tvg-name="DirekteSport 18 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_18.png" group-title="Norvégia",DirekteSport 18 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp848XQ-E3pmEQlsnkskpi4J0/ts
+#EXTINF:-1 xui-id="39446" tvg-id="" tvg-name="DirekteSport 19 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_19.png" group-title="Norvégia",DirekteSport 19 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85_dh4GO2HxysfQpvNl1-z8/ts
+#EXTINF:-1 xui-id="39446" tvg-id="" tvg-name="DirekteSport 19 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_19.png" group-title="Norvégia",DirekteSport 19 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85_dh4GO2HxysfQpvNl1-z8/ts
+#EXTINF:-1 xui-id="39447" tvg-id="" tvg-name="DirekteSport 20 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_20.png" group-title="Norvégia",DirekteSport 20 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yeEK4zltRHgX0oxrGDx-gU/ts
+#EXTINF:-1 xui-id="39447" tvg-id="" tvg-name="DirekteSport 20 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_20.png" group-title="Norvégia",DirekteSport 20 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yeEK4zltRHgX0oxrGDx-gU/ts
+#EXTINF:-1 xui-id="39448" tvg-id="" tvg-name="DirekteSport 21 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_21.png" group-title="Norvégia",DirekteSport 21 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_0BMz3mGnCgVV4FAfa02v4/ts
+#EXTINF:-1 xui-id="39448" tvg-id="" tvg-name="DirekteSport 21 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_21.png" group-title="Norvégia",DirekteSport 21 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_0BMz3mGnCgVV4FAfa02v4/ts
+#EXTINF:-1 xui-id="39449" tvg-id="" tvg-name="DirekteSport 22 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_22.png" group-title="Norvégia",DirekteSport 22 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_WvbNLpcXGACuHtdx_-8qU/ts
+#EXTINF:-1 xui-id="39449" tvg-id="" tvg-name="DirekteSport 22 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_22.png" group-title="Norvégia",DirekteSport 22 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_WvbNLpcXGACuHtdx_-8qU/ts
+#EXTINF:-1 xui-id="39450" tvg-id="" tvg-name="DirekteSport 23 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_23.png" group-title="Norvégia",DirekteSport 23 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-hxGbvJcrqyty0n2jXFwoQ/ts
+#EXTINF:-1 xui-id="39450" tvg-id="" tvg-name="DirekteSport 23 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_23.png" group-title="Norvégia",DirekteSport 23 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-hxGbvJcrqyty0n2jXFwoQ/ts
+#EXTINF:-1 xui-id="39452" tvg-id="" tvg-name="DirekteSport 24 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_24.png" group-title="Norvégia",DirekteSport 24 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80g0Pt0hWCQ2IHGPhyFwOwU/ts
+#EXTINF:-1 xui-id="39452" tvg-id="" tvg-name="DirekteSport 24 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_24.png" group-title="Norvégia",DirekteSport 24 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80g0Pt0hWCQ2IHGPhyFwOwU/ts
+#EXTINF:-1 xui-id="39453" tvg-id="" tvg-name="DirekteSport 25 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_25.png" group-title="Norvégia",DirekteSport 25 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89xAbZGzIFtNVtTolJLQS4Y/ts
+#EXTINF:-1 xui-id="39453" tvg-id="" tvg-name="DirekteSport 25 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_25.png" group-title="Norvégia",DirekteSport 25 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89xAbZGzIFtNVtTolJLQS4Y/ts
+#EXTINF:-1 xui-id="39454" tvg-id="" tvg-name="DirekteSport 26 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_26.png" group-title="Norvégia",DirekteSport 26 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81v9uhOO_GepFXUGeTzM90s/ts
+#EXTINF:-1 xui-id="39454" tvg-id="" tvg-name="DirekteSport 26 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_26.png" group-title="Norvégia",DirekteSport 26 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81v9uhOO_GepFXUGeTzM90s/ts
+#EXTINF:-1 xui-id="39455" tvg-id="" tvg-name="DirekteSport 27 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_27.png" group-title="Norvégia",DirekteSport 27 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80vLXYmcLkQqS1-kQ8qZnZo/ts
+#EXTINF:-1 xui-id="39455" tvg-id="" tvg-name="DirekteSport 27 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_27.png" group-title="Norvégia",DirekteSport 27 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80vLXYmcLkQqS1-kQ8qZnZo/ts
+#EXTINF:-1 xui-id="39456" tvg-id="" tvg-name="DirekteSport 28 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_28.png" group-title="Norvégia",DirekteSport 28 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89jr1NtFiKk-nVsPIdVjWdw/ts
+#EXTINF:-1 xui-id="39456" tvg-id="" tvg-name="DirekteSport 28 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_28.png" group-title="Norvégia",DirekteSport 28 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89jr1NtFiKk-nVsPIdVjWdw/ts
+#EXTINF:-1 xui-id="39457" tvg-id="" tvg-name="DirekteSport 29 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_29.png" group-title="Norvégia",DirekteSport 29 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ygixNH3JU6GsvmeLvyx0jA/ts
+#EXTINF:-1 xui-id="39457" tvg-id="" tvg-name="DirekteSport 29 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_29.png" group-title="Norvégia",DirekteSport 29 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ygixNH3JU6GsvmeLvyx0jA/ts
+#EXTINF:-1 xui-id="39458" tvg-id="" tvg-name="DirekteSport 30 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_30.png" group-title="Norvégia",DirekteSport 30 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp867YjjSd2LoPJEEILtyFFvw/ts
+#EXTINF:-1 xui-id="39458" tvg-id="" tvg-name="DirekteSport 30 HD" tvg-logo="http://fomo.re/images/NO_Direkte_Sport_30.png" group-title="Norvégia",DirekteSport 30 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp867YjjSd2LoPJEEILtyFFvw/ts
+#EXTINF:-1 xui-id="41895" tvg-id="156636" tvg-name="NRK Tegnsprak" tvg-logo="http://fomo.re/images/NrkTegnsprak_square.svg.png" group-title="Norvégia",NRK Tegnsprak
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_b1YV7L0UtIbmk9rMdptNY/ts
+#EXTINF:-1 xui-id="41896" tvg-id="156635" tvg-name="NRK1 Innlandet HD" tvg-logo="http://fomo.re/images/Nrk1Innlandet_v2_square.svg.png" group-title="Norvégia",NRK1 Innlandet HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wokbJMO9yLY8fyAOqMUrH8/ts
+#EXTINF:-1 xui-id="41897" tvg-id="156629" tvg-name="NRK1 Midtnytt HD" tvg-logo="http://fomo.re/images/Nrk1Midtnytt_v2_square.svg.png" group-title="Norvégia",NRK1 Midtnytt HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87YvwtPAnqso7aQXNxzUTnk/ts
+#EXTINF:-1 xui-id="41898" tvg-id="156630" tvg-name="NRK1 More og Romsdal HD" tvg-logo="http://fomo.re/images/Nrk1MoereogRomsdal_v2_square.svg.png" group-title="Norvégia",NRK1 More og Romsdal HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88_vWIlYBO1RK27OcgZjmQE/ts
+#EXTINF:-1 xui-id="41899" tvg-id="156628" tvg-name="NRK1 Nordland HD" tvg-logo="http://fomo.re/images/Nrk1Nordland_v2_square.svg.png" group-title="Norvégia",NRK1 Nordland HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wLqJH1mS72SmEUiGMth3k8/ts
+#EXTINF:-1 xui-id="41900" tvg-id="156627" tvg-name="NRK1 Nordnytt HD" tvg-logo="http://fomo.re/images/Nrk1Nordnytt_v2_square.svg.png" group-title="Norvégia",NRK1 Nordnytt HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-KjMaLzAs0HE2CMp4unniI/ts
+#EXTINF:-1 xui-id="41901" tvg-id="156632" tvg-name="NRK1 Rogaland HD" tvg-logo="http://fomo.re/images/Nrk1Rogaland_v2_square.svg.png" group-title="Norvégia",NRK1 Rogaland HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_yuWb1d8AhsBuFZRy6uRqA/ts
+#EXTINF:-1 xui-id="41902" tvg-id="156633" tvg-name="NRK1 Sorlandet HD" tvg-logo="http://fomo.re/images/Nrk1Sorlandet_v2_square.svg.png" group-title="Norvégia",NRK1 Sorlandet HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8y_rjELIDS0oma_VsTFTRA0/ts
+#EXTINF:-1 xui-id="41903" tvg-id="156634" tvg-name="NRK1 Vestfold og Telemark HD" tvg-logo="http://fomo.re/images/Nrk1VestfoldogTelemark_v2_square.svg.png" group-title="Norvégia",NRK1 Vestfold og Telemark HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x-AI5AVsrOLp9iQiPdP21A/ts
+#EXTINF:-1 xui-id="41904" tvg-id="156631" tvg-name="NRK1 Vestlandsrevyen HD" tvg-logo="http://fomo.re/images/Nrk1Vestlandsrevyen_v2_square.svg.png" group-title="Norvégia",NRK1 Vestlandsrevyen HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp824pHpFNfxvZu0w1CsVZq8Y/ts
+#EXTINF:-1 xui-id="112441" tvg-id="" tvg-name="V sport golf HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_golf_hd.png" group-title="Norvégia",V sport golf HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85Y1r3v-0roW_61htcqQRdQ/ts
+#EXTINF:-1 xui-id="112441" tvg-id="" tvg-name="V sport golf HD | raw" tvg-logo="http://fomo.re/images/ALL_vsport_golf_hd.png" group-title="Norvégia",V sport golf HD | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85Y1r3v-0roW_61htcqQRdQ/ts
+#EXTINF:-1 xui-id="312" tvg-id="" tvg-name="CNBC Europe" tvg-logo="http://fomo.re/images/Cnbc_square.svg.png" group-title="Norvégia",CNBC Europe
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_WZ7TgDd-7_GZITnbNj9nk/ts
+#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="BBC News HD" tvg-logo="http://fomo.re/images/UK_bbc_news_hd.png" group-title="Norvégia",BBC News HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86gScH33J44Ad79Fp59LMEY/ts
+#EXTINF:-1 xui-id="311" tvg-id="SKYNWMC" tvg-name="Sky News" tvg-logo="http://fomo.re/images/UK_sky_news.png" group-title="Norvégia",Sky News
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83jGNYjhjfXw07T3FNxLPWU/ts
+#EXTINF:-1 xui-id="60725" tvg-id="SFE4KUS" tvg-name="Stingray Festival 4K" tvg-logo="http://fomo.re/images/UK_stingray_festival_4k_v2.png" group-title="Norvégia",Stingray Festival 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88NFFWKAOctXFU9vtFr-MaY/ts
+#EXTINF:-1 xui-id="38712" tvg-id="" tvg-name="Disney JR OTT" tvg-logo="http://fomo.re/images/DisneyJunior_square.svg.png" group-title="Norvégia",Disney JR OTT
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-66x4fm2QER_Ep5f1_v1PI/ts
+#EXTINF:-1 xui-id="38713" tvg-id="" tvg-name="Nickelodeon OTT" tvg-logo="http://fomo.re/images/UK_nickelodeon.png" group-title="Norvégia",Nickelodeon OTT
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wPoCrwkmFtBm7Lp8BRJD68/ts
+#EXTINF:-1 xui-id="87751" tvg-id="" tvg-name="Heim HD" tvg-logo="http://fomo.re/images/GER_heim.png" group-title="Norvégia",Heim HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82zRki-JS5jVLXr6Fv9JOpo/ts
+#EXTINF:-1 xui-id="109629" tvg-id="" tvg-name="WrexHam (only Events)" tvg-logo="http://fomo.re/images/UK_west_ham_tv.png" group-title="Norvégia",WrexHam (only Events)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zCQm1uGfKkn-jNZBVusb9o/ts
+#EXTINF:-1 xui-id="109629" tvg-id="" tvg-name="WrexHam (only Events)" tvg-logo="http://fomo.re/images/UK_west_ham_tv.png" group-title="Norvégia",WrexHam (only Events)
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zCQm1uGfKkn-jNZBVusb9o/ts
+#EXTINF:-1 xui-id="111670" tvg-id="" tvg-name="TV Vest Rogaland" tvg-logo="http://fomo.re/images/GER_tv_vest_rogaland.png" group-title="Norvégia",TV Vest Rogaland
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81FNGvzm0I4Gyc6bzgYjV6s/ts
+#EXTINF:-1 xui-id="111671" tvg-id="" tvg-name="TV Vest Vestland" tvg-logo="http://fomo.re/images/GER_tv_vest_vestland.png" group-title="Norvégia",TV Vest Vestland
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8062ZWxqp3wlxkQsX1MpBtE/ts
+#EXTINF:-1 xui-id="112144" tvg-id="" tvg-name="EveryPlay" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84-XYOBKaGzElUYOC2EI8X8/ts
+#EXTINF:-1 xui-id="112144" tvg-id="" tvg-name="EveryPlay" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84-XYOBKaGzElUYOC2EI8X8/ts
+#EXTINF:-1 xui-id="112145" tvg-id="" tvg-name="EveryPlay 2" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88PPuKZvdnDpEaaKCNwpLMk/ts
+#EXTINF:-1 xui-id="112145" tvg-id="" tvg-name="EveryPlay 2" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88PPuKZvdnDpEaaKCNwpLMk/ts
+#EXTINF:-1 xui-id="112146" tvg-id="" tvg-name="EveryPlay 3" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89dXG6MTpN4-AuG0phGJfKo/ts
+#EXTINF:-1 xui-id="112146" tvg-id="" tvg-name="EveryPlay 3" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89dXG6MTpN4-AuG0phGJfKo/ts
+#EXTINF:-1 xui-id="112320" tvg-id="" tvg-name="EveryPlay 4" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_MvLmAxvMexMPf3HFISHBQ/ts
+#EXTINF:-1 xui-id="112320" tvg-id="" tvg-name="EveryPlay 4" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_MvLmAxvMexMPf3HFISHBQ/ts
+#EXTINF:-1 xui-id="112321" tvg-id="" tvg-name="EveryPlay 5" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87vMPrO-tp-LhxeQQmzZ1vo/ts
+#EXTINF:-1 xui-id="112321" tvg-id="" tvg-name="EveryPlay 5" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",EveryPlay 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87vMPrO-tp-LhxeQQmzZ1vo/ts
+#EXTINF:-1 xui-id="112445" tvg-id="" tvg-name="Fashion TV Paris L'Original" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Norvégia",Fashion TV Paris L'Original
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82KfAcDY_wPfgCWIGce0744/ts
+#EXTINF:-1 xui-id="112446" tvg-id="" tvg-name="Fashion TV HD" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Norvégia",Fashion TV HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-SL9nWU1SMlGfSv9zxHECw/ts
+#EXTINF:-1 xui-id="112447" tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Norvégia",Fashion TV 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yCzkvFrtDSm2XyayheO-p0/ts
+#EXTINF:-1 xui-id="112508" tvg-id="" tvg-name="Siberia! 4K" tvg-logo="http://fomo.re/images/all_siberia.png" group-title="Norvégia",Siberia! 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83lIjJ3g82g9Nin259QfP7E/ts
+#EXTINF:-1 xui-id="112509" tvg-id="" tvg-name="Home 4K" tvg-logo="http://fomo.re/images/all_home.png" group-title="Norvégia",Home 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yXdeSRsVAx1ZKG3wBFfpGA/ts
+#EXTINF:-1 xui-id="112510" tvg-id="" tvg-name="Fashion & Style 4K" tvg-logo="http://fomo.re/images/all_fashion_and_style.png" group-title="Norvégia",Fashion & Style 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86b2wz8BrDRIUTAm_ekvLP8/ts
+#EXTINF:-1 xui-id="112511" tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://fomo.re/images/all_love_nature.png" group-title="Norvégia",Love Nature 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80zhgQnkgdRJuqPHpeY11a8/ts
+#EXTINF:-1 xui-id="112512" tvg-id="" tvg-name="travelxp 4K | HDR" tvg-logo="http://fomo.re/images/all_travelxp.png" group-title="Norvégia",travelxp 4K | HDR
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_kTxi5ojJqCpWeSGBSpviM/ts
+#EXTINF:-1 xui-id="112513" tvg-id="" tvg-name="Museum TV 4K" tvg-logo="http://fomo.re/images/all_museum.png" group-title="Norvégia",Museum TV 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86ErWTZXLSdIB4UZLmwfobI/ts
+#EXTINF:-1 xui-id="112514" tvg-id="" tvg-name="Insight TV UHD | HDR" tvg-logo="http://fomo.re/images/all_insight_tv.png" group-title="Norvégia",Insight TV UHD | HDR
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wMD5wIYwIk5EClQM2QRuwg/ts
+#EXTINF:-1 xui-id="112520" tvg-id="" tvg-name="Quadro 4K" tvg-logo="http://fomo.re/images/all_quadro.png" group-title="Norvégia",Quadro 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z752jDqetp1Z4tZRiJQVKs/ts
+#EXTINF:-1 xui-id="112593" tvg-id="" tvg-name="V sport live 1 | raw" tvg-logo="http://fomo.re/images/all_vsport_live13.png" group-title="Norvégia",V sport live 1 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81-eQOQPB09Mo219EbroLBk/ts
+#EXTINF:-1 xui-id="112593" tvg-id="" tvg-name="V sport live 1 | raw" tvg-logo="http://fomo.re/images/all_vsport_live13.png" group-title="Norvégia",V sport live 1 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81-eQOQPB09Mo219EbroLBk/ts
+#EXTINF:-1 xui-id="112594" tvg-id="" tvg-name="V sport live 2 | raw" tvg-logo="http://fomo.re/images/all_vsport_live2.png" group-title="Norvégia",V sport live 2 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85BvTEYkuqesUv01XV-69jE/ts
+#EXTINF:-1 xui-id="112594" tvg-id="" tvg-name="V sport live 2 | raw" tvg-logo="http://fomo.re/images/all_vsport_live2.png" group-title="Norvégia",V sport live 2 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85BvTEYkuqesUv01XV-69jE/ts
+#EXTINF:-1 xui-id="112595" tvg-id="" tvg-name="V sport live 3 | raw" tvg-logo="http://fomo.re/images/all_vsport_live3.png" group-title="Norvégia",V sport live 3 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83T-nsFq4ZCVOujRrJgPsI0/ts
+#EXTINF:-1 xui-id="112595" tvg-id="" tvg-name="V sport live 3 | raw" tvg-logo="http://fomo.re/images/all_vsport_live3.png" group-title="Norvégia",V sport live 3 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83T-nsFq4ZCVOujRrJgPsI0/ts
+#EXTINF:-1 xui-id="112596" tvg-id="" tvg-name="V sport live 4 | raw" tvg-logo="http://fomo.re/images/all_vsport_live4.png" group-title="Norvégia",V sport live 4 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zFoSE2hDqP1qQe4UPwT-50/ts
+#EXTINF:-1 xui-id="112596" tvg-id="" tvg-name="V sport live 4 | raw" tvg-logo="http://fomo.re/images/all_vsport_live4.png" group-title="Norvégia",V sport live 4 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zFoSE2hDqP1qQe4UPwT-50/ts
+#EXTINF:-1 xui-id="112597" tvg-id="" tvg-name="V sport live 5 | raw" tvg-logo="http://fomo.re/images/all_vsport_live5.png" group-title="Norvégia",V sport live 5 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-TUfsh_33yxyjOXDYv9Gks/ts
+#EXTINF:-1 xui-id="112597" tvg-id="" tvg-name="V sport live 5 | raw" tvg-logo="http://fomo.re/images/all_vsport_live5.png" group-title="Norvégia",V sport live 5 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-TUfsh_33yxyjOXDYv9Gks/ts
+#EXTINF:-1 xui-id="113332" tvg-id="" tvg-name="V Sport Golf HD Norwegian" tvg-logo="http://fomo.re/images/ALL_vsport_golf.png" group-title="Norvégia",V Sport Golf HD Norwegian
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_u9KRMnsC3O4055TvjTvdc/ts
+#EXTINF:-1 xui-id="113332" tvg-id="" tvg-name="V Sport Golf HD Norwegian" tvg-logo="http://fomo.re/images/ALL_vsport_golf.png" group-title="Norvégia",V Sport Golf HD Norwegian
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_u9KRMnsC3O4055TvjTvdc/ts
+#EXTINF:-1 xui-id="113347" tvg-id="" tvg-name="nick Jr" tvg-logo="http://fomo.re/images/SWE_nick_jr.png" group-title="Norvégia",nick Jr
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-92RkNcsbyIUSMvqh_mJfM/ts
+#EXTINF:-1 xui-id="116829" tvg-id="" tvg-name="Handball Kanalen 6" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84FD3sR0YgPN60Ev4AdlSr8/ts
+#EXTINF:-1 xui-id="116829" tvg-id="" tvg-name="Handball Kanalen 6" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84FD3sR0YgPN60Ev4AdlSr8/ts
+#EXTINF:-1 xui-id="116830" tvg-id="" tvg-name="Handball Kanalen 7" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-YXI3t7gA-kvkgVJUcd7Z8/ts
+#EXTINF:-1 xui-id="116830" tvg-id="" tvg-name="Handball Kanalen 7" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-YXI3t7gA-kvkgVJUcd7Z8/ts
+#EXTINF:-1 xui-id="116831" tvg-id="" tvg-name="Handball Kanalen 8" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xK9RcSCrDqvdF9c3rnCmw4/ts
+#EXTINF:-1 xui-id="116831" tvg-id="" tvg-name="Handball Kanalen 8" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xK9RcSCrDqvdF9c3rnCmw4/ts
+#EXTINF:-1 xui-id="116832" tvg-id="" tvg-name="Handball Kanalen 9" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86JI7qFKVc-aZXkdI7AJ4vg/ts
+#EXTINF:-1 xui-id="116832" tvg-id="" tvg-name="Handball Kanalen 9" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86JI7qFKVc-aZXkdI7AJ4vg/ts
+#EXTINF:-1 xui-id="116845" tvg-id="" tvg-name="Handball Kanalen 10" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp811oek5POCHERkq2Jg2bxR8/ts
+#EXTINF:-1 xui-id="116845" tvg-id="" tvg-name="Handball Kanalen 10" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Norvégia",Handball Kanalen 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp811oek5POCHERkq2Jg2bxR8/ts
+#EXTINF:-1 xui-id="135741" tvg-id="" tvg-name="MAX 1" tvg-logo="" group-title="Norvégia",MAX 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84JXmGTUG02u0baFxwm8Y9Y/ts
+#EXTINF:-1 xui-id="135741" tvg-id="" tvg-name="MAX 1" tvg-logo="" group-title="Norvégia",MAX 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84JXmGTUG02u0baFxwm8Y9Y/ts
+#EXTINF:-1 xui-id="135742" tvg-id="" tvg-name="MAX 2" tvg-logo="" group-title="Norvégia",MAX 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84r1bSAhlYA_428HN6Gh4RI/ts
+#EXTINF:-1 xui-id="135742" tvg-id="" tvg-name="MAX 2" tvg-logo="" group-title="Norvégia",MAX 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84r1bSAhlYA_428HN6Gh4RI/ts
+#EXTINF:-1 xui-id="135743" tvg-id="" tvg-name="MAX 3" tvg-logo="" group-title="Norvégia",MAX 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83xvkQK39S8m2UaDd-49wgw/ts
+#EXTINF:-1 xui-id="135743" tvg-id="" tvg-name="MAX 3" tvg-logo="" group-title="Norvégia",MAX 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83xvkQK39S8m2UaDd-49wgw/ts
+#EXTINF:-1 xui-id="135744" tvg-id="" tvg-name="MAX 4" tvg-logo="" group-title="Norvégia",MAX 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_EsJ95ZXyTqF4xAe9oJLvo/ts
+#EXTINF:-1 xui-id="135744" tvg-id="" tvg-name="MAX 4" tvg-logo="" group-title="Norvégia",MAX 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_EsJ95ZXyTqF4xAe9oJLvo/ts
+#EXTINF:-1 xui-id="135745" tvg-id="" tvg-name="MAX 5" tvg-logo="" group-title="Norvégia",MAX 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83lVEPtWPj54Ic_UkGfKpLo/ts
+#EXTINF:-1 xui-id="135745" tvg-id="" tvg-name="MAX 5" tvg-logo="" group-title="Norvégia",MAX 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83lVEPtWPj54Ic_UkGfKpLo/ts
+#EXTINF:-1 xui-id="135746" tvg-id="" tvg-name="MAX 6" tvg-logo="" group-title="Norvégia",MAX 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ytRJgLNOAoxQwUnT9tRfWY/ts
+#EXTINF:-1 xui-id="135746" tvg-id="" tvg-name="MAX 6" tvg-logo="" group-title="Norvégia",MAX 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ytRJgLNOAoxQwUnT9tRfWY/ts
+#EXTINF:-1 xui-id="135747" tvg-id="" tvg-name="MAX 7" tvg-logo="" group-title="Norvégia",MAX 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-pyKtm2nkwCU0VJsQ_ZddM/ts
+#EXTINF:-1 xui-id="135747" tvg-id="" tvg-name="MAX 7" tvg-logo="" group-title="Norvégia",MAX 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-pyKtm2nkwCU0VJsQ_ZddM/ts
+#EXTINF:-1 xui-id="135960" tvg-id="" tvg-name="VG+ 6" tvg-logo="" group-title="Norvégia",VG+ 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86cdQhFIt_R1zHznEICBN60/ts
+#EXTINF:-1 xui-id="135960" tvg-id="" tvg-name="VG+ 6" tvg-logo="" group-title="Norvégia",VG+ 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86cdQhFIt_R1zHznEICBN60/ts
+#EXTINF:-1 xui-id="135961" tvg-id="" tvg-name="VG+ 7" tvg-logo="" group-title="Norvégia",VG+ 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85Ht1XOmJ8sdDBHD5dI7Ve8/ts
+#EXTINF:-1 xui-id="135961" tvg-id="" tvg-name="VG+ 7" tvg-logo="" group-title="Norvégia",VG+ 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85Ht1XOmJ8sdDBHD5dI7Ve8/ts
+#EXTINF:-1 xui-id="135962" tvg-id="" tvg-name="VG+ 8" tvg-logo="" group-title="Norvégia",VG+ 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80OHqA87sjN0AKH6vszsY5Q/ts
+#EXTINF:-1 xui-id="135962" tvg-id="" tvg-name="VG+ 8" tvg-logo="" group-title="Norvégia",VG+ 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80OHqA87sjN0AKH6vszsY5Q/ts
+#EXTINF:-1 xui-id="135963" tvg-id="" tvg-name="VG+ 9" tvg-logo="" group-title="Norvégia",VG+ 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80hUL5C7f0Spi-ptY_Ws4dQ/ts
+#EXTINF:-1 xui-id="135963" tvg-id="" tvg-name="VG+ 9" tvg-logo="" group-title="Norvégia",VG+ 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80hUL5C7f0Spi-ptY_Ws4dQ/ts
+#EXTINF:-1 xui-id="135964" tvg-id="" tvg-name="VG+ 10" tvg-logo="" group-title="Norvégia",VG+ 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8877PxFPTM5PMByJh5vfo2I/ts
+#EXTINF:-1 xui-id="135964" tvg-id="" tvg-name="VG+ 10" tvg-logo="" group-title="Norvégia",VG+ 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8877PxFPTM5PMByJh5vfo2I/ts
+#EXTINF:-1 xui-id="155816" tvg-id="" tvg-name="EHF 6 NO" tvg-logo="" group-title="Norvégia",EHF 6 NO
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84HNbKDjVVEuCHHA3b3t3Aw/ts
+#EXTINF:-1 xui-id="155816" tvg-id="" tvg-name="EHF 6 NO" tvg-logo="" group-title="Norvégia",EHF 6 NO
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84HNbKDjVVEuCHHA3b3t3Aw/ts
+#EXTINF:-1 xui-id="155817" tvg-id="" tvg-name="EHF 7 NO" tvg-logo="" group-title="Norvégia",EHF 7 NO
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89FRFaKCZQbcCxLejofX1v4/ts
+#EXTINF:-1 xui-id="155817" tvg-id="" tvg-name="EHF 7 NO" tvg-logo="" group-title="Norvégia",EHF 7 NO
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89FRFaKCZQbcCxLejofX1v4/ts
+#EXTINF:-1 xui-id="155818" tvg-id="" tvg-name="EHF 8 NO" tvg-logo="" group-title="Norvégia",EHF 8 NO
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83NrtJfc9Ot-q1q1IKbrsdE/ts
+#EXTINF:-1 xui-id="155818" tvg-id="" tvg-name="EHF 8 NO" tvg-logo="" group-title="Norvégia",EHF 8 NO
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83NrtJfc9Ot-q1q1IKbrsdE/ts
+#EXTINF:-1 xui-id="230072" tvg-id="" tvg-name="Supersport Golf HD ZA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShAA7ZSjbWDtRvucdHm8Ee70JOcXjWinrwkQmciNcRNcKv1FApLqDBhfKHpTQ2whfKiyo&usqp=CAU" group-title="Norvégia",Supersport Golf HD ZA
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87oadxOSDltIfaAI_-w3AuY/ts
+#EXTINF:-1 xui-id="242089" tvg-id="" tvg-name="Viaplay sport" tvg-logo="" group-title="Norvégia",Viaplay sport
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82zMa8jv6apLrgmcHY6h3wU/ts
+#EXTINF:-1 xui-id="242089" tvg-id="" tvg-name="Viaplay sport" tvg-logo="" group-title="Norvégia",Viaplay sport
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82zMa8jv6apLrgmcHY6h3wU/ts
+#EXTINF:-1 xui-id="242090" tvg-id="" tvg-name="Viaplay Sport HD" tvg-logo="" group-title="Norvégia",Viaplay Sport HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80hVYY9qM9Mtmj1fJJ2F2hU/ts
+#EXTINF:-1 xui-id="242090" tvg-id="" tvg-name="Viaplay Sport HD" tvg-logo="" group-title="Norvégia",Viaplay Sport HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80hVYY9qM9Mtmj1fJJ2F2hU/ts
+#EXTINF:-1 xui-id="317923" tvg-id="156472" tvg-name="Rikstoto" tvg-logo="" group-title="Norvégia",Rikstoto
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81Vm-MKPq2PHKUdlUhyNfRY/ts
+#EXTINF:-1 xui-id="317923" tvg-id="156472" tvg-name="Rikstoto" tvg-logo="" group-title="Norvégia",Rikstoto
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81Vm-MKPq2PHKUdlUhyNfRY/ts
 
 
 
@@ -10721,6 +11650,12 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Mexikó",Tele Elx HD
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+
+
+
+
+
+
 
 
 
@@ -27203,6 +28138,67 @@ https://192radio.stream-server.nl/stream?1788494868517
 https://strw3.openstream.co/981
 #EXTINF:-1 group-title="Radio",Still Waters Music- DEEP RELAXATION
 https://hugh.cdn.rumble.cloud/live/tv3qa28c/slot-27/y5xm-h28d_1080p/chunklist_DVR.m3u8
+#EXTM3U
+#EXTINF:-1 xui-id="135" tvg-id="" tvg-name="NRK Alltid Nyheter" tvg-logo="" group-title="Radio",NRK Alltid Nyheter
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88GnE_d3zxCmFu6MPOg9iTQ/ts
+#EXTINF:-1 xui-id="523" tvg-id="" tvg-name="NRK P1" tvg-logo="" group-title="Radio",NRK P1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yjfWPYNfqciL_-ZgZ9ZyVk/ts
+#EXTINF:-1 xui-id="531" tvg-id="" tvg-name="NRK P2" tvg-logo="" group-title="Radio",NRK P2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85nNo4PO9Rv6819F0VzO53Y/ts
+#EXTINF:-1 xui-id="532" tvg-id="" tvg-name="NRK P3" tvg-logo="" group-title="Radio",NRK P3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wKqYhRNiKzP2XjHeBa4YEY/ts
+#EXTINF:-1 xui-id="522" tvg-id="" tvg-name="NRK mp3" tvg-logo="" group-title="Radio",NRK mp3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_FzCZ4ae6mkClAzaxIUuJA/ts
+#EXTINF:-1 xui-id="530" tvg-id="" tvg-name="The Times Radio" tvg-logo="" group-title="Radio",The Times Radio
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yXm1KZ84oDoSa8EjBxBsfM/ts
+#EXTINF:-1 xui-id="529" tvg-id="" tvg-name="Talk Sport" tvg-logo="http://fomo.re/images/4Bu2ngDIPmQ8yccyehfZw1jICoFKQzNdgNLkd5DcA5MJgYAgRHGiJ6fIJwdtDAEBrfse9nZ7uwWTsIGgc9eh7BkhUcSPaUvmVPLQ9Eli7qCVYmVPEcC_TVnJ3vo-6Gxtf8ocEmDdxyNa9ErN4vgMZJn3Sg3FdDegTWFHmZGybzUuGmioUEdTGBaIsPJmEqxk.png" group-title="Radio",Talk Sport
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84MvrAT0_qtaeElDjXJAB7A/ts
+#EXTINF:-1 xui-id="528" tvg-id="" tvg-name="Talk Sport 2" tvg-logo="http://fomo.re/images/3qKKX6GyQ6rUrQ_1ZU-xUoce0PJhOcSbAySfoIRXt4dGww0-FrIXbyLAK0iF7ESHmIyPjKWPyS-S_wBjoUIJ-NgMXXNffkNsk8QVml3vZ1-2SB1b0S_8O8iVF4BUY7KT.jpg" group-title="Radio",Talk Sport 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88x9CBYqughOkp8OMntL-SM/ts
+#EXTINF:-1 xui-id="4377" tvg-id="" tvg-name="Sveriges Radio P1" tvg-logo="" group-title="Radio",Sveriges Radio P1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_cbOzFRwbbE0jPbAUU4U8k/ts
+#EXTINF:-1 xui-id="4378" tvg-id="" tvg-name="Sveriges Radio P2 Musik" tvg-logo="" group-title="Radio",Sveriges Radio P2 Musik
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82y8zUnaQ4o0d-PUDeqoxgU/ts
+#EXTINF:-1 xui-id="4379" tvg-id="" tvg-name="Sveriges Radio P3" tvg-logo="" group-title="Radio",Sveriges Radio P3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yhZuZhf4UXmdZZFBoxxVrM/ts
+#EXTINF:-1 xui-id="4380" tvg-id="" tvg-name="MRJ Sweden" tvg-logo="" group-title="Radio",MRJ Sweden
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yHzmuMj4zerguM7hbXI7hw/ts
+#EXTINF:-1 xui-id="105387" tvg-id="" tvg-name="NRK Folkemusikk" tvg-logo="" group-title="Radio",NRK Folkemusikk
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xNqt0w-zfKC7fq4aBylpOw/ts
+#EXTINF:-1 xui-id="105388" tvg-id="" tvg-name="NRK Sport" tvg-logo="" group-title="Radio",NRK Sport
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81Cm6wTnIrpYmM2clMhDx7o/ts
+#EXTINF:-1 xui-id="105389" tvg-id="" tvg-name="NRJ Norge" tvg-logo="http://fomo.re/images/OgpiDCZFnLDlfbp_TnezqcXPXDkxABgzEumhjPSzN-IQPPdolPWoXpjmC72XVJJpeRmR7ncd5vWMRnbaFslqUQ.png" group-title="Radio",NRJ Norge
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wn2j0IqNs1dQOi3n3RHpYo/ts
+#EXTINF:-1 xui-id="105390" tvg-id="" tvg-name="Capital FM" tvg-logo="http://fomo.re/images/OgpiDCZFnLDlfbp_TnezqcXPXDkxABgzEumhjPSzN-Js2-5VLF-FMcZ2_5Bs1zfZ2fTTea4fKZupv2EPnu2KOg.png" group-title="Radio",Capital FM
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86oLFYIur59k-GSRnhlqouk/ts
+#EXTINF:-1 xui-id="105391" tvg-id="" tvg-name="Topp 40" tvg-logo="http://fomo.re/images/eo1tTjLLRiC1UgKQIDpHfuMGlvP1oYmTSiNDDyy2cQUob7pbRmj4poX5iIjD1AddP5AJ7J1qA4im1QZ5YY3J63eO_gE9aNMILkrc-ebJOst1L3PJazXp_4xETFwDXkzq.png" group-title="Radio",Topp 40
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83X6zcXfTR0YyBbqPR6FHTA/ts
+#EXTINF:-1 xui-id="109330" tvg-id="" tvg-name="Radio Caroline" tvg-logo="" group-title="Radio",Radio Caroline
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87e_iYu5qyvtTVtLi-ksiLI/ts
+#EXTINF:-1 xui-id="109953" tvg-id="" tvg-name="Radio Rock" tvg-logo="http://fomo.re/images/neysRY8QMm4H7zJ_DbLHy2ugWbi0vXSkAwmdEa__Ic79Sa4tC46OWwE_UTfEoh5RDYAZSQ1QTNm70pcIlsEBeA.png" group-title="Radio",Radio Rock
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86_kD5IR_Wd0asoo4AWeMGA/ts
+#EXTINF:-1 xui-id="114683" tvg-id="" tvg-name="P10 Country" tvg-logo="https://ddjh0q34m0xak.cloudfront.net/mmo/channelimages/c06f3b40-0521-4332-bc5e-2098e246c90f.png?h=200" group-title="Radio",P10 Country
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_JGphsBkeEfXRDe44IJyxM/ts
+#EXTINF:-1 xui-id="114684" tvg-id="" tvg-name="Dixie Country" tvg-logo="http://fomo.re/images/qjVXJ4GwK9aaBiR_z-gzljdz3JbmMz4NFKDgJaDQXN4qYkCaIAOjwu_ZvUg8QRZv7z62Obo-6iALjXTJZ7kZ8A.png" group-title="Radio",Dixie Country
+http://fomo.re/play/aKsn33HOenVDJxsA9swp831wu6WAPhInicj4N4WO3XE/ts
+#EXTINF:-1 xui-id="133613" tvg-id="" tvg-name="BBC 1" tvg-logo="http://fomo.re/images/neysRY8QMm4H7zJ_DbLHy2ugWbi0vXSkAwmdEa__Ic4J6lVHBAfwLvOxlOobg1Rhy81OaWStuEzH4bAMTD7erw.png" group-title="Radio",BBC 1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84srEBmv-g66_qIhF_7Fx3U/ts
+#EXTINF:-1 xui-id="133614" tvg-id="" tvg-name="BBC 2" tvg-logo="http://fomo.re/images/neysRY8QMm4H7zJ_DbLHy2ugWbi0vXSkAwmdEa__Ic7S_NKrxvQ4F8kpB8eukc4-NPixSCC_V1CmbhwbDzc6Gg.png" group-title="Radio",BBC 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87bjUfi5BmLpahtZnwmTQco/ts
+#EXTINF:-1 xui-id="133615" tvg-id="" tvg-name="BBC 3" tvg-logo="http://fomo.re/images/DzzAat_2AXV2cr4KUJnplCqxxURbRLl1GM3AU9VJQzdTCXsgDcplI2LzhLx9juj4TpRNzHaevCNSIa2-nzDelwi07N6yW8L5_YcPvAL_RhUCm-CN19w1lKDWvRj8QngR.png" group-title="Radio",BBC 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86h3fFUr18YOKpI_sjCginQ/ts
+#EXTINF:-1 xui-id="133616" tvg-id="" tvg-name="BBC 4" tvg-logo="http://fomo.re/images/3BdEXI2cXLEtzAOSMtjjocO8nClKjqOoqdWVTny95GIeT3Rlhk-P9kknBnUPcSdIXD-EU1gnENARRazVwZCMtA.jpg" group-title="Radio",BBC 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86Km4NEn-SNf-XRcxQwvEkM/ts
+#EXTINF:-1 xui-id="133617" tvg-id="" tvg-name="BBC 5" tvg-logo="http://fomo.re/images/DzzAat_2AXV2cr4KUJnplCqxxURbRLl1GM3AU9VJQzdTCXsgDcplI2LzhLx9juj4OCeLYvIe6Br3HT2G5FqM_XCkm8YXC2gcEW4uXK9Sy7aOyhH5HouQ-eknwirqXaGU.png" group-title="Radio",BBC 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wLdZkrmZ7vnirXwIjuYTcI/ts
+#EXTINF:-1 xui-id="133618" tvg-id="" tvg-name="BBC 1Xtra" tvg-logo="http://fomo.re/images/3BdEXI2cXLEtzAOSMtjjocEo7JAS4IIwxu9rCS0khsAEs4MHkJkRG64KboE8uT2ANfDcjnHHmZeJ4mXetYiE9g.jpg" group-title="Radio",BBC 1Xtra
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82UyxE4zYLp4Org9OBhLhSo/ts
+#EXTINF:-1 xui-id="133619" tvg-id="" tvg-name="BBX Radio One Dance" tvg-logo="http://fomo.re/images/4Bu2ngDIPmQ8yccyehfZw1jICoFKQzNdgNLkd5DcA5MJgYAgRHGiJ6fIJwdtDAEBmdt7LnidvshYjzBwitNhrP3z4KVr_3WXAqdBFYJCi5YsADSauvgFGMuja2E6Zc9T.jpeg" group-title="Radio",BBX Radio One Dance
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89K31Lj-V2FGeRqj8g6cFKE/ts
+#EXTINF:-1 xui-id="198769" tvg-id="" tvg-name="BBC Radio Merseyside" tvg-logo="http://fomo.re/images/T2_e4FjSSTLf-7Lydlpa-BoCpm-EzGZ59knIh8dCXkTVKiGshw37GHCWR9d4wHoCK7EuE-EIeDujEavBPVS00A.jpg" group-title="Radio",BBC Radio Merseyside
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84E_gFBwT8H6cxGdyxmd8EA/ts
+
+
 
 
 #EXTM3U
