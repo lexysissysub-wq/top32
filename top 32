@@ -12241,6 +12241,169 @@ http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 http://hls127.freeott.top:8080/STS_Kids/video.m3u8
 
 
+#EXTM3U
+#EXTINF:-1 xui-id="312" tvg-id="" tvg-name="CNBC Europe" tvg-logo="http://fomo.re/images/Cnbc_square.svg.png" group-title="Dánia",CNBC Europe
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_WZ7TgDd-7_GZITnbNj9nk/ts
+#EXTINF:-1 xui-id="326" tvg-id="156212" tvg-name="DR1" tvg-logo="http://fomo.re/images/DK_dr1.png" group-title="Dánia",DR1
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83Sdc5A2udes6xFprfa-azA/ts
+#EXTINF:-1 xui-id="10025" tvg-id="156212" tvg-name="DR1 HD" tvg-logo="http://fomo.re/images/DK_dr1.png" group-title="Dánia",DR1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8w3zNpw2_zeNLDDQANpawb0/ts
+#EXTINF:-1 xui-id="327" tvg-id="156210" tvg-name="DR2" tvg-logo="http://fomo.re/images/DK_dr2.png" group-title="Dánia",DR2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wdzEA6RSGvG62uEZp2IwFY/ts
+#EXTINF:-1 xui-id="10026" tvg-id="156210" tvg-name="DR2 HD" tvg-logo="http://fomo.re/images/DK_dr2.png" group-title="Dánia",DR2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-4rJlzC6GzQ1u56CyLc4cI/ts
+#EXTINF:-1 xui-id="328" tvg-id="156563" tvg-name="TV 2" tvg-logo="http://fomo.re/images/DK_tv2.png" group-title="Dánia",TV 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp839Wt0sbAkd1CBTTkGumXiI/ts
+#EXTINF:-1 xui-id="10097" tvg-id="156563" tvg-name="TV 2 HD" tvg-logo="http://fomo.re/images/Tv2Denmark_square.svg.png" group-title="Dánia",TV 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp864dsjII4ZplCHAhXK86PJ0/ts
+#EXTINF:-1 xui-id="329" tvg-id="156622" tvg-name="TV3" tvg-logo="http://fomo.re/images/DK_tv3.png" group-title="Dánia",TV3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87P5bLNyI6y287S5p3Lrpf4/ts
+#EXTINF:-1 xui-id="330" tvg-id="156189" tvg-name="Kanal 4" tvg-logo="http://fomo.re/images/e818b7dc7e92afbee84f2cc94fbbf624.png" group-title="Dánia",Kanal 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87R8ayPL5JtVV__3wvkySDA/ts
+#EXTINF:-1 xui-id="10094" tvg-id="156189" tvg-name="Kanal 4 HD" tvg-logo="http://fomo.re/images/DK_kanal4.png" group-title="Dánia",Kanal 4 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zJy9ZmBp-gQvON_CRdb55g/ts
+#EXTINF:-1 xui-id="331" tvg-id="156543" tvg-name="Kanal 5" tvg-logo="http://fomo.re/images/DK_kanal5.png" group-title="Dánia",Kanal 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zQExcuP6ELUklov0yNw4ts/ts
+#EXTINF:-1 xui-id="10095" tvg-id="156543" tvg-name="Kanal 5 HD" tvg-logo="http://fomo.re/images/DK_kanal5.png" group-title="Dánia",Kanal 5 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82ciNuH_b0agttvGM778s9w/ts
+#EXTINF:-1 xui-id="332" tvg-id="156545" tvg-name="6'eren" tvg-logo="http://fomo.re/images/DK_6eren.png" group-title="Dánia",6'eren
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86UM3DR1e2L9beQooA6xn0s/ts
+#EXTINF:-1 xui-id="10001" tvg-id="156545" tvg-name="6'eren HD" tvg-logo="http://fomo.re/images/DK_6eren.png" group-title="Dánia",6'eren HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83gRRHGrdOprB8EHIRq7ajc/ts
+#EXTINF:-1 xui-id="333" tvg-id="156191" tvg-name="Canal 9" tvg-logo="http://fomo.re/images/DK_kanal9.png" group-title="Dánia",Canal 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z0UctZaRYGEtzzUb-WLrWU/ts
+#EXTINF:-1 xui-id="10002" tvg-id="156191" tvg-name="Canal 9 HD" tvg-logo="http://fomo.re/images/DK_kanal9.png" group-title="Dánia",Canal 9 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85PEQdqAsk4A2Ejb5bu-ATQ/ts
+#EXTINF:-1 xui-id="334" tvg-id="156196" tvg-name="dk4" tvg-logo="http://fomo.re/images/DK_kanal4.png" group-title="Dánia",dk4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83rH61GD_bios_t5-dO3cyY/ts
+#EXTINF:-1 xui-id="10122" tvg-id="156621" tvg-name="TV3+ HD" tvg-logo="http://fomo.re/images/DK_tv3_plus.png" group-title="Dánia",TV3+ HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ycKEt2jN4dd8WGPabUNA4A/ts
+#EXTINF:-1 xui-id="336" tvg-id="156621" tvg-name="TV3+" tvg-logo="http://fomo.re/images/DK_tv3_plus.png" group-title="Dánia",TV3+
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86FN6o6Kh7q-mt_ggEszFI0/ts
+#EXTINF:-1 xui-id="337" tvg-id="156566" tvg-name="TV 2 Charlie" tvg-logo="http://fomo.re/images/DK_tv2_charlie.png" group-title="Dánia",TV 2 Charlie
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80RhCyDDhJ9cSB4GEjx95gk/ts
+#EXTINF:-1 xui-id="10096" tvg-id="156566" tvg-name="TV2 Charlie HD" tvg-logo="http://fomo.re/images/DK_tv2_charlie.png" group-title="Dánia",TV2 Charlie HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xKUw18oUcSxake1jXPNGqs/ts
+#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="TV 2 ZULU" tvg-logo="http://fomo.re/images/DK_tv2_zulu.png" group-title="Dánia",TV 2 ZULU
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8x6-1pGT2YhfatAZFfuLMkc/ts
+#EXTINF:-1 xui-id="10120" tvg-id="" tvg-name="TV2 Zulu HD" tvg-logo="http://fomo.re/images/DK_tv2_zulu_hd.png" group-title="Dánia",TV2 Zulu HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83AQP6XxztOS5domKxs7cBw/ts
+#EXTINF:-1 xui-id="339" tvg-id="156567" tvg-name="TV 2 News" tvg-logo="http://fomo.re/images/all_tv2_news.png" group-title="Dánia",TV 2 News
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_Em2vULKW0U8w3WTqSGnsM/ts
+#EXTINF:-1 xui-id="340" tvg-id="156565" tvg-name="TV 2 SPORT X HD" tvg-logo="http://fomo.re/images/DK_tv2_sportx.png" group-title="Dánia",TV 2 SPORT X HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87I5KeGTwHG4GvfA7Oww8l8/ts
+#EXTINF:-1 xui-id="340" tvg-id="156565" tvg-name="TV 2 SPORT X HD" tvg-logo="http://fomo.re/images/DK_tv2_sportx.png" group-title="Dánia",TV 2 SPORT X HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87I5KeGTwHG4GvfA7Oww8l8/ts
+#EXTINF:-1 xui-id="341" tvg-id="156498" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re/images/UK_eurosport_1_hd.png" group-title="Dánia",Eurosport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp899BciT349OG7g8iOV4iYD8/ts
+#EXTINF:-1 xui-id="341" tvg-id="156498" tvg-name="Eurosport 1 HD" tvg-logo="http://fomo.re/images/UK_eurosport_1_hd.png" group-title="Dánia",Eurosport 1 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp899BciT349OG7g8iOV4iYD8/ts
+#EXTINF:-1 xui-id="342" tvg-id="156500" tvg-name="Eurosport 2 HD" tvg-logo="http://fomo.re/images/UK_eurosport_2_hd.png" group-title="Dánia",Eurosport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80Mr6PAUhwxQ1uSOMFNQpx4/ts
+#EXTINF:-1 xui-id="342" tvg-id="156500" tvg-name="Eurosport 2 HD" tvg-logo="http://fomo.re/images/UK_eurosport_2_hd.png" group-title="Dánia",Eurosport 2 HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80Mr6PAUhwxQ1uSOMFNQpx4/ts
+#EXTINF:-1 xui-id="343" tvg-id="156623" tvg-name="TV3 Sport HD" tvg-logo="http://fomo.re/images/DK_tv3_sport_hd.png" group-title="Dánia",TV3 Sport HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85-aXXGkMhca2UPcHJsMSgg/ts
+#EXTINF:-1 xui-id="343" tvg-id="156623" tvg-name="TV3 Sport HD" tvg-logo="http://fomo.re/images/DK_tv3_sport_hd.png" group-title="Dánia",TV3 Sport HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85-aXXGkMhca2UPcHJsMSgg/ts
+#EXTINF:-1 xui-id="344" tvg-id="156878" tvg-name="TV 2 SPORT" tvg-logo="http://fomo.re/images/DK_tv2_sport.png" group-title="Dánia",TV 2 SPORT
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84t9PZToe0fOfqu-ZgqQQgk/ts
+#EXTINF:-1 xui-id="344" tvg-id="156878" tvg-name="TV 2 SPORT" tvg-logo="http://fomo.re/images/DK_tv2_sport.png" group-title="Dánia",TV 2 SPORT
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84t9PZToe0fOfqu-ZgqQQgk/ts
+#EXTINF:-1 xui-id="345" tvg-id="156209" tvg-name="Sport Live" tvg-logo="http://fomo.re/images/all_sport_live.png" group-title="Dánia",Sport Live
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z7v9yhBjBieYWz0HkVfs80/ts
+#EXTINF:-1 xui-id="345" tvg-id="156209" tvg-name="Sport Live" tvg-logo="http://fomo.re/images/all_sport_live.png" group-title="Dánia",Sport Live
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z7v9yhBjBieYWz0HkVfs80/ts
+#EXTINF:-1 xui-id="365" tvg-id="156195" tvg-name="Nat Geo HD" tvg-logo="http://fomo.re/images/SWE_national_geographic.png" group-title="Dánia",Nat Geo HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-SEZw_gI6ccwr71BOEEUQA/ts
+#EXTINF:-1 xui-id="311" tvg-id="SKYNWMC" tvg-name="Sky News" tvg-logo="http://fomo.re/images/UK_sky_news.png" group-title="Dánia",Sky News
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83jGNYjhjfXw07T3FNxLPWU/ts
+#EXTINF:-1 xui-id="60725" tvg-id="SFE4KUS" tvg-name="Stingray Festival 4K" tvg-logo="http://fomo.re/images/UK_stingray_festival_4k_v2.png" group-title="Dánia",Stingray Festival 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88NFFWKAOctXFU9vtFr-MaY/ts
+#EXTINF:-1 xui-id="112144" tvg-id="" tvg-name="EveryPlay" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84-XYOBKaGzElUYOC2EI8X8/ts
+#EXTINF:-1 xui-id="112144" tvg-id="" tvg-name="EveryPlay" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84-XYOBKaGzElUYOC2EI8X8/ts
+#EXTINF:-1 xui-id="112145" tvg-id="" tvg-name="EveryPlay 2" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88PPuKZvdnDpEaaKCNwpLMk/ts
+#EXTINF:-1 xui-id="112145" tvg-id="" tvg-name="EveryPlay 2" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 2
+http://fomo.re/play/aKsn33HOenVDJxsA9swp88PPuKZvdnDpEaaKCNwpLMk/ts
+#EXTINF:-1 xui-id="112146" tvg-id="" tvg-name="EveryPlay 3" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89dXG6MTpN4-AuG0phGJfKo/ts
+#EXTINF:-1 xui-id="112146" tvg-id="" tvg-name="EveryPlay 3" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 3
+http://fomo.re/play/aKsn33HOenVDJxsA9swp89dXG6MTpN4-AuG0phGJfKo/ts
+#EXTINF:-1 xui-id="112320" tvg-id="" tvg-name="EveryPlay 4" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_MvLmAxvMexMPf3HFISHBQ/ts
+#EXTINF:-1 xui-id="112320" tvg-id="" tvg-name="EveryPlay 4" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 4
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_MvLmAxvMexMPf3HFISHBQ/ts
+#EXTINF:-1 xui-id="112321" tvg-id="" tvg-name="EveryPlay 5" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87vMPrO-tp-LhxeQQmzZ1vo/ts
+#EXTINF:-1 xui-id="112321" tvg-id="" tvg-name="EveryPlay 5" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",EveryPlay 5
+http://fomo.re/play/aKsn33HOenVDJxsA9swp87vMPrO-tp-LhxeQQmzZ1vo/ts
+#EXTINF:-1 xui-id="112445" tvg-id="" tvg-name="Fashion TV Paris L'Original" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Dánia",Fashion TV Paris L'Original
+http://fomo.re/play/aKsn33HOenVDJxsA9swp82KfAcDY_wPfgCWIGce0744/ts
+#EXTINF:-1 xui-id="112446" tvg-id="" tvg-name="Fashion TV HD" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Dánia",Fashion TV HD
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-SL9nWU1SMlGfSv9zxHECw/ts
+#EXTINF:-1 xui-id="112447" tvg-id="FASO4K" tvg-name="Fashion TV 4K" tvg-logo="http://fomo.re/images/all_fashion_tv.png" group-title="Dánia",Fashion TV 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yCzkvFrtDSm2XyayheO-p0/ts
+#EXTINF:-1 xui-id="112508" tvg-id="" tvg-name="Siberia! 4K" tvg-logo="http://fomo.re/images/all_siberia.png" group-title="Dánia",Siberia! 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83lIjJ3g82g9Nin259QfP7E/ts
+#EXTINF:-1 xui-id="112509" tvg-id="" tvg-name="Home 4K" tvg-logo="http://fomo.re/images/all_home.png" group-title="Dánia",Home 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8yXdeSRsVAx1ZKG3wBFfpGA/ts
+#EXTINF:-1 xui-id="112510" tvg-id="" tvg-name="Fashion & Style 4K" tvg-logo="http://fomo.re/images/all_fashion_and_style.png" group-title="Dánia",Fashion & Style 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86b2wz8BrDRIUTAm_ekvLP8/ts
+#EXTINF:-1 xui-id="112511" tvg-id="" tvg-name="Love Nature 4K" tvg-logo="http://fomo.re/images/all_love_nature.png" group-title="Dánia",Love Nature 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp80zhgQnkgdRJuqPHpeY11a8/ts
+#EXTINF:-1 xui-id="112512" tvg-id="" tvg-name="travelxp 4K | HDR" tvg-logo="http://fomo.re/images/all_travelxp.png" group-title="Dánia",travelxp 4K | HDR
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8_kTxi5ojJqCpWeSGBSpviM/ts
+#EXTINF:-1 xui-id="112513" tvg-id="" tvg-name="Museum TV 4K" tvg-logo="http://fomo.re/images/all_museum.png" group-title="Dánia",Museum TV 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86ErWTZXLSdIB4UZLmwfobI/ts
+#EXTINF:-1 xui-id="112514" tvg-id="" tvg-name="Insight TV UHD | HDR" tvg-logo="http://fomo.re/images/all_insight_tv.png" group-title="Dánia",Insight TV UHD | HDR
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8wMD5wIYwIk5EClQM2QRuwg/ts
+#EXTINF:-1 xui-id="112520" tvg-id="" tvg-name="Quadro 4K" tvg-logo="http://fomo.re/images/all_quadro.png" group-title="Dánia",Quadro 4K
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8z752jDqetp1Z4tZRiJQVKs/ts
+#EXTINF:-1 xui-id="112593" tvg-id="" tvg-name="V sport live 1 | raw" tvg-logo="http://fomo.re/images/all_vsport_live13.png" group-title="Dánia",V sport live 1 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81-eQOQPB09Mo219EbroLBk/ts
+#EXTINF:-1 xui-id="112593" tvg-id="" tvg-name="V sport live 1 | raw" tvg-logo="http://fomo.re/images/all_vsport_live13.png" group-title="Dánia",V sport live 1 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp81-eQOQPB09Mo219EbroLBk/ts
+#EXTINF:-1 xui-id="112594" tvg-id="" tvg-name="V sport live 2 | raw" tvg-logo="http://fomo.re/images/all_vsport_live2.png" group-title="Dánia",V sport live 2 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85BvTEYkuqesUv01XV-69jE/ts
+#EXTINF:-1 xui-id="112594" tvg-id="" tvg-name="V sport live 2 | raw" tvg-logo="http://fomo.re/images/all_vsport_live2.png" group-title="Dánia",V sport live 2 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp85BvTEYkuqesUv01XV-69jE/ts
+#EXTINF:-1 xui-id="112595" tvg-id="" tvg-name="V sport live 3 | raw" tvg-logo="http://fomo.re/images/all_vsport_live3.png" group-title="Dánia",V sport live 3 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83T-nsFq4ZCVOujRrJgPsI0/ts
+#EXTINF:-1 xui-id="112595" tvg-id="" tvg-name="V sport live 3 | raw" tvg-logo="http://fomo.re/images/all_vsport_live3.png" group-title="Dánia",V sport live 3 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp83T-nsFq4ZCVOujRrJgPsI0/ts
+#EXTINF:-1 xui-id="112596" tvg-id="" tvg-name="V sport live 4 | raw" tvg-logo="http://fomo.re/images/all_vsport_live4.png" group-title="Dánia",V sport live 4 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zFoSE2hDqP1qQe4UPwT-50/ts
+#EXTINF:-1 xui-id="112596" tvg-id="" tvg-name="V sport live 4 | raw" tvg-logo="http://fomo.re/images/all_vsport_live4.png" group-title="Dánia",V sport live 4 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8zFoSE2hDqP1qQe4UPwT-50/ts
+#EXTINF:-1 xui-id="112597" tvg-id="" tvg-name="V sport live 5 | raw" tvg-logo="http://fomo.re/images/all_vsport_live5.png" group-title="Dánia",V sport live 5 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-TUfsh_33yxyjOXDYv9Gks/ts
+#EXTINF:-1 xui-id="112597" tvg-id="" tvg-name="V sport live 5 | raw" tvg-logo="http://fomo.re/images/all_vsport_live5.png" group-title="Dánia",V sport live 5 | raw
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-TUfsh_33yxyjOXDYv9Gks/ts
+#EXTINF:-1 xui-id="116829" tvg-id="" tvg-name="Handball Kanalen 6" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84FD3sR0YgPN60Ev4AdlSr8/ts
+#EXTINF:-1 xui-id="116829" tvg-id="" tvg-name="Handball Kanalen 6" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 6
+http://fomo.re/play/aKsn33HOenVDJxsA9swp84FD3sR0YgPN60Ev4AdlSr8/ts
+#EXTINF:-1 xui-id="116830" tvg-id="" tvg-name="Handball Kanalen 7" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-YXI3t7gA-kvkgVJUcd7Z8/ts
+#EXTINF:-1 xui-id="116830" tvg-id="" tvg-name="Handball Kanalen 7" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 7
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8-YXI3t7gA-kvkgVJUcd7Z8/ts
+#EXTINF:-1 xui-id="116831" tvg-id="" tvg-name="Handball Kanalen 8" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xK9RcSCrDqvdF9c3rnCmw4/ts
+#EXTINF:-1 xui-id="116831" tvg-id="" tvg-name="Handball Kanalen 8" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 8
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8xK9RcSCrDqvdF9c3rnCmw4/ts
+#EXTINF:-1 xui-id="116832" tvg-id="" tvg-name="Handball Kanalen 9" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86JI7qFKVc-aZXkdI7AJ4vg/ts
+#EXTINF:-1 xui-id="116832" tvg-id="" tvg-name="Handball Kanalen 9" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 9
+http://fomo.re/play/aKsn33HOenVDJxsA9swp86JI7qFKVc-aZXkdI7AJ4vg/ts
+#EXTINF:-1 xui-id="116845" tvg-id="" tvg-name="Handball Kanalen 10" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp811oek5POCHERkq2Jg2bxR8/ts
+#EXTINF:-1 xui-id="116845" tvg-id="" tvg-name="Handball Kanalen 10" tvg-logo="http://fomo.re/images/1yO_mSzyxTFKGN1YRTDjZEhGGwPjfW-MvTynoIqT8Ck.png" group-title="Dánia",Handball Kanalen 10
+http://fomo.re/play/aKsn33HOenVDJxsA9swp811oek5POCHERkq2Jg2bxR8/ts
+#EXTINF:-1 xui-id="117641" tvg-id="" tvg-name="nick Jr" tvg-logo="http://fomo.re/images/EQNWp_xkQZrWBiOF8YhzXeLL4pV-bcx_OGfl5UR8quyHJqA2480t_QkRKfuBHfBNq2gOOfbWYLmtwlpQCKbHdQ.png" group-title="Dánia",nick Jr
+http://fomo.re/play/aKsn33HOenVDJxsA9swp8ySJlhXrzzMwpToJk2BcMRY/ts
 
 
 
