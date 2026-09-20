@@ -26252,25 +26252,17 @@ http://p1.tomtv.eu:80/series/7m8B8A4HgUEn/9IrsFaIrNR/269746.mkv
 
 
 
-#EXTINF:-1 group-title="Radio",Deep House Club Radio
-https://hugh.cdn.rumble.cloud/live/k5e12sb4/live-hls/p079-gcko/chunklist_i1_DVR.m3u8
-#EXTINF:-1 group-title="Radio",Sounding Sleepy Radio
-https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-42/zk3z-12kz_1080p/chunklist_DVR.m3u8
+
 #EXTINF:-1 group-title="Radio",Classic Rock
 https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-50/roho-g15e_1080p/chunklist_DVR.m3u8
 
-#EXTINF:-1 group-title="Radio",Timeless Classics
-https://hugh.cdn.rumble.cloud/live/d0t27del/live-hls/6ykn-pcmb/chunklist_i1_DVR.m3u8
-#EXTINF:-1 group-title="Radio",Relaxing Smooth Jazz & R&B Music 
-https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-140/k4p5-fw5i_1080p/chunklist_DVR.m3u8
+
 
 #EXTINF:-1 group-title="Radio",192 Radio 
 https://192radio.stream-server.nl/stream?1788494868517
 #EXTINF:-1 group-title="Radio",Beatles 24/7 Radio
 https://strw3.openstream.co/981
-#EXTINF:-1 group-title="Radio",Still Waters Music- DEEP RELAXATION
-https://hugh.cdn.rumble.cloud/live/tv3qa28c/slot-27/y5xm-h28d_1080p/chunklist_DVR.m3u8
-#EXTM3U
+
 #EXTINF:-1 xui-id="135" tvg-id="" tvg-name="NRK Alltid Nyheter" tvg-logo="" group-title="Radio",NRK Alltid Nyheter
 http://fomo.re/play/aKsn33HOenVDJxsA9swp88GnE_d3zxCmFu6MPOg9iTQ/ts
 #EXTINF:-1 xui-id="523" tvg-id="" tvg-name="NRK P1" tvg-logo="" group-title="Radio",NRK P1
