@@ -3020,8 +3020,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68472.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900916.m3u8
 #EXTINF:-1 tvg-id="rai5.it" tvg-name="IT - RAI 5 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai5.png" group-title="Olaszország",IT - RAI 5 UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68473.m3u8
-#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT - RAI 5 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rai5.png" group-title="Olaszország",IT - RAI 5 HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893166.m3u8
+
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT - RAI SCUOLA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiscuola.png" group-title="Olaszország",IT - RAI SCUOLA UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68558.m3u8
 #EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT - RAI SCUOLA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiscuola.png" group-title="Olaszország",IT - RAI SCUOLA HD
@@ -3036,32 +3035,16 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68612.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68583.m3u8
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT - RAI GULP UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raigulp.png" group-title="Olaszország",IT - RAI GULP UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68584.m3u8
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="IT - RAI ITALIA HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiitalia.png" group-title="Olaszország",IT - RAI ITALIA HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1151348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT - RAI WORLD PREMIUM SD" tvg-logo="https://go4.pw/EUROPE/ITALY/raiworld.png" group-title="Olaszország",IT - RAI WORLD PREMIUM SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/677126.m3u8
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT - SKY TG24 UHD" tvg-logo="https://go4.pw/ITALY/skytg24.png" group-title="Olaszország",IT - SKY TG24 UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900939.m3u8
-#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT - SKY TG 24 HD" tvg-logo="https://go4.pw/ITALY/skytg24.png" group-title="Olaszország",IT - SKY TG 24 HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247075.m3u8
-#EXTINF:-1 tvg-id="skynature.it" tvg-name="IT - SKY NATURE UHD" tvg-logo="https://go4.pw/ITALY/skynature.png" group-title="Olaszország",IT - SKY NATURE UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900933.m3u8
-#EXTINF:-1 tvg-id="skynature.it" tvg-name="IT - SKY NATURE HD" tvg-logo="https://go4.pw/ITALY/skynature.png" group-title="Olaszország",IT - SKY NATURE HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/448579.m3u8
+m:80/live/400794643566540/234AC8A2F44F678/677126.m3u8
+
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT - SKY UNO UHD" tvg-logo="https://go4.pw/ITALY/skyuno.png" group-title="Olaszország",IT - SKY UNO UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68490.m3u8
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT - SKY UNO HD" tvg-logo="https://go4.pw/ITALY/skyuno.png" group-title="Olaszország",IT - SKY UNO HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68639.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT - SKY MTV UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/MTV.png" group-title="Olaszország",IT - SKY MTV UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68507.m3u8
-#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="IT - SKY INVESTIGATION UHD" tvg-logo="https://go4.pw/ITALY/skyinv.png" group-title="Olaszország",IT - SKY INVESTIGATION UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT - SKY CACCIA HD" tvg-logo="https://go4.pw/EUROPE/Cacciatv.png" group-title="Olaszország",IT - SKY CACCIA HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893169.m3u8
-#EXTINF:-1 tvg-id="skyarte.it" tvg-name="IT - SKY ARTE HD" tvg-logo="https://go4.pw/ITALY/Skyarte.png" group-title="Olaszország",IT - SKY ARTE HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900930.m3u8
-#EXTINF:-1 tvg-id="skyinvestigation.it" tvg-name="IT - SKY INVESTIGATION HD" tvg-logo="https://go4.pw/ITALY/skyinv.png" group-title="Olaszország",IT - SKY INVESTIGATION HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900932.m3u8
+
+
 #EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT - RETE 4 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/rete4.png" group-title="Olaszország",IT - RETE 4 UHD ?
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68444.m3u8
 #EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT - RETE 4 HD" tvg-logo="https://go4.pw/EUROPE/ITALY/rete4.png" group-title="Olaszország",IT - RETE 4 HD
@@ -3080,12 +3063,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68447.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68484.m3u8
 #EXTINF:-1 tvg-id="tv8.it" tvg-name="IT - TV 8 UHD ?" tvg-logo="https://go4.pw/EUROPE/ITALY/tv8.png" group-title="Olaszország",IT - TV 8 UHD ?
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE 8 SD" tvg-logo="https://go4.pw/EUROPE/ITALY/tv8.png" group-title="Olaszország",IT - CANALE 8 SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE 10 HD" tvg-logo="https://go4.pw/ITALY/c10.png" group-title="Olaszország",IT - CANALE 10 HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT - CANALE ITALIA HD" tvg-logo="https://go4.pw/ITALY/canaleitalia.png" group-title="Olaszország",IT - CANALE ITALIA HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779196.m3u8
+
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="IT - CIELO UHD" tvg-logo="https://go4.pw/ITALY/cielo0.png" group-title="Olaszország",IT - CIELO UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68450.m3u8
 #EXTINF:-1 tvg-id="iris.it" tvg-name="IT - IRIS UHD" tvg-logo="https://go4.pw/ITALY/iris0.png" group-title="Olaszország",IT - IRIS UHD
@@ -3095,20 +3073,14 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68485.m3u8
 #EXTINF:-1 tvg-id="gamberorosso.it" tvg-name="IT - GAMBERO ROSSO UHD" tvg-logo="https://go4.pw/ITALY/gamberorosso.png" group-title="Olaszország",IT - GAMBERO ROSSO UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68572.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="IT - VH1 UHD" tvg-logo="https://go4.pw/EUROPE/SWEDEN/vh1_.png" group-title="Olaszország",IT - VH1 UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68582.m3u8
-#EXTINF:-1 tvg-id="tgnorba24.it" tvg-name="IT - TG NORBA 24 UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/tgcom.png" group-title="Olaszország",IT - TG NORBA 24 UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68613.m3u8
 
-#EXTINF:-1 tvg-id="mydeejay.it" tvg-name="IT - DEEJAY TV UHD" tvg-logo="https://go4.pw/ITALY/deejay.png" group-title="Olaszország",IT - DEEJAY TV UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893164.m3u8
+
 
 #EXTINF:-1 tvg-id="radioitalia.it" tvg-name="IT - RADIO ITALIA TV UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="Olaszország",IT - RADIO ITALIA TV UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT - RADIO ZETA UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="Olaszország",IT - RADIO ZETA UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT - RADIO TICINO CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ITALY/RADIOITALIATV.png" group-title="Olaszország",IT - RADIO TICINO CHANNEL HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779197.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - RADIO KISS KISS HD" tvg-logo="https://go4.pw/ITALY/RADIOKISSKISS.png" group-title="Olaszország",IT - RADIO KISS KISS HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893168.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT - RADIO 51 HD" tvg-logo="https://go4.pw/EUROPE/radio51.png" group-title="Olaszország",IT - RADIO 51 HD
@@ -3141,8 +3113,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68611.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IT - VIDEO ITALIA HD" tvg-logo="https://go4.pw/ITALY/VIDEOITALIAHD.png" group-title="Olaszország",IT - VIDEO ITALIA HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779198.m3u8
-#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="IT - ITALIAN FISHING HD" tvg-logo="https://go4.pw/ITALY/italianfish.png" group-title="Olaszország",IT - ITALIAN FISHING HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/893162.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="IT - RADIO MONTE CARLO FHD" tvg-logo="https://go4.pw/EUROPE/RADIOMONTECARLO.png" group-title="Olaszország",IT - RADIO MONTE CARLO FHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1414002.m3u8
@@ -3200,16 +3171,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68477.m3u8
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT - RAI MOVIE UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/raimovie.png" group-title="Olaszország",IT - RAI MOVIE UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68453.m3u8
-#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT - RAI MOVIE HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raimovie.png" group-title="Olaszország",IT - RAI MOVIE HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68628.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 8 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 8 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 9 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 9 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IT -  SKY PRIMAFILA 10 FHD" tvg-logo="https://go4.pw/ITALY/SKYPRIMAF.png" group-title="Olaszország",IT -  SKY PRIMAFILA 10 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/184502.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="##### IT - DOCUMENTARIO #####" tvg-logo="https://go4.pw/MAGFLAGS/ITALY.png" group-title="Olaszország",##### IT - DOCUMENTARIO #####
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76567.m3u8
 #EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="IT - SKY ATLANTIC UHD" tvg-logo="https://go4.pw/UK/skyatl.png" group-title="Olaszország",IT - SKY ATLANTIC UHD
@@ -3264,8 +3226,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68599.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68607.m3u8
 #EXTINF:-1 tvg-id="deakids.it" tvg-name="IT - DEA KIDS SD" tvg-logo="https://go4.pw/ITALY/deakids.png" group-title="Olaszország",IT - DEA KIDS SD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68608.m3u8
-#EXTINF:-1 tvg-id="boing.it" tvg-name="IT - BOING PLUS HD" tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="Olaszország",IT - BOING PLUS HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779195.m3u8
+
 #EXTINF:-1 tvg-id="boing.it" tvg-name="IT - BOING HD" tvg-logo="https://go4.pw/EUROPE/ITALY/boing.png" group-title="Olaszország",IT - BOING HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/68585.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IT - BABY TV SD" tvg-logo="https://go4.pw/EUROPE/ITALY/BABYTV-1.png" group-title="Olaszország",IT - BABY TV SD
@@ -3280,11 +3241,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76646.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900915.m3u8
 #EXTINF:-1 tvg-id="raisport.it" tvg-name="IT - RAI SPORT HD" tvg-logo="https://go4.pw/EUROPE/ITALY/raisport.png" group-title="Olaszország",IT - RAI SPORT HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76631.m3u8
-#EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT - INTER CHANNEL UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/intertv.png" group-title="Olaszország",IT - INTER CHANNEL UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/247062.m3u8
 
-#EXTINF:-1 tvg-id="milantv.it" tvg-name="IT - MILAN CHANNEL HD" tvg-logo="https://go4.pw/EUROPE/ITALY/milantv.png" group-title="Olaszország",IT - MILAN CHANNEL HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/183883.m3u8
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="IT - SUPER TENNIS UHD" tvg-logo="https://go4.pw/EUROPE/ITALY/SUPERTENNIS.png" group-title="Olaszország",IT - SUPER TENNIS UHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76634.m3u8
@@ -3317,14 +3274,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76678.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76641.m3u8
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="IT - SKY SPORT MOTOGP HD" tvg-logo="https://go4.pw/ITALY/skysportmotogp.png" group-title="Olaszország",IT - SKY SPORT MOTOGP HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/76680.m3u8
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="IT - SKY SPORT CALCIO UHD" tvg-logo="https://go4.pw/ITALY/skysportcalcio.png" group-title="Olaszország",IT - SKY SPORT CALCIO UHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/366309.m3u8
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="IT - SKY SPORT CALCIO HD" tvg-logo="https://go4.pw/ITALY/skysportcalcio.png" group-title="Olaszország",IT - SKY SPORT CALCIO HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900937.m3u8
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="IT - SKY SPORT GOLF FHD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="Olaszország",IT - SKY SPORT GOLF FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498731.m3u8
-#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="IT - SKY SPORT GOLF HD" tvg-logo="https://go4.pw/ITALY/skysportgolf.png" group-title="Olaszország",IT - SKY SPORT GOLF HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900936.m3u8
+
 
 
 
@@ -4165,354 +4115,8 @@ http://103.240.150.229:80/live/elviraluca/201222/63356.ts
 http://103.240.150.229:80/live/elviraluca/201222/87.ts
 #EXTINF:-1 group-title="Olaszország",Milan Tv
 http://103.240.150.229:80/live/elviraluca/201222/84.ts
-#EXTINF:-1 group-title="Olaszország",Cavese TV
-http://103.240.150.229:80/live/elviraluca/201222/223704.ts
-#EXTINF:-1 group-title="Olaszország",Mola TV Calcio 1 FHD
-http://103.240.150.229:80/live/elviraluca/201222/214040.ts
-#EXTINF:-1 group-title="Olaszország",Mola TV Calcio 2 FHD
-http://103.240.150.229:80/live/elviraluca/201222/214041.ts
-#EXTINF:-1 group-title="Olaszország",Mola TV Calcio 3 FHD
-http://103.240.150.229:80/live/elviraluca/201222/214042.ts
-#EXTINF:-1 group-title="Olaszország",Como TV Vetrina
-http://103.240.150.229:80/live/elviraluca/201222/237917.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 1
-http://103.240.150.229:80/live/elviraluca/201222/237918.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 2
-http://103.240.150.229:80/live/elviraluca/201222/237919.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 3
-http://103.240.150.229:80/live/elviraluca/201222/237920.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 4
-http://103.240.150.229:80/live/elviraluca/201222/237921.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 5
-http://103.240.150.229:80/live/elviraluca/201222/237922.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 6
-http://103.240.150.229:80/live/elviraluca/201222/237923.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 7
-http://103.240.150.229:80/live/elviraluca/201222/237924.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 8
-http://103.240.150.229:80/live/elviraluca/201222/237925.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 9
-http://103.240.150.229:80/live/elviraluca/201222/237926.ts
-#EXTINF:-1 group-title="Olaszország",Como TV 10
-http://103.240.150.229:80/live/elviraluca/201222/237927.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 1 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185670.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 1 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185847.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 2 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185671.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 2 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185848.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 3 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185672.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 3 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185849.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 4 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185673.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 4 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185850.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 5 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185674.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 5 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185851.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 6 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185675.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 6 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185852.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 7 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185676.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 7 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185853.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 8 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185677.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 8 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185854.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 9 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185678.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 9 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185855.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 10 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185679.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 10 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185856.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 11 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185680.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 11 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185857.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 12 FHD
-http://103.240.150.229:80/live/elviraluca/201222/185681.ts
-#EXTINF:-1 group-title="Olaszország",Champions League Infinity 12 FHD (Buffering)
-http://103.240.150.229:80/live/elviraluca/201222/185858.ts
-#EXTINF:-1 group-title="Olaszország",----- BASKET SERIE A -----
-http://103.240.150.229:80/live/elviraluca/201222/228686.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - PALLACANESTRO TRIESTE
-http://103.240.150.229:80/live/elviraluca/201222/228698.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - TRAPANI SHARK
-http://103.240.150.229:80/live/elviraluca/201222/228699.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - VIRTUS SEGAFREDO BOLOGNA
-http://103.240.150.229:80/live/elviraluca/201222/228741.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - BERTRAM DERTHONA TORTONA
-http://103.240.150.229:80/live/elviraluca/201222/228608.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - OPENJOBMETIS VARESE
-http://103.240.150.229:80/live/elviraluca/201222/228609.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - ACQUA S.BERNARDO CANTU'
-http://103.240.150.229:80/live/elviraluca/201222/228610.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - UNAHOTELS REGGIO EMILIA
-http://103.240.150.229:80/live/elviraluca/201222/228611.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - OLD WILD WEST UDINE
-http://103.240.150.229:80/live/elviraluca/201222/228612.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - GERMANI BRESCIA
-http://103.240.150.229:80/live/elviraluca/201222/228613.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - A|X ARMANI EXCHANGE MILANO
-http://103.240.150.229:80/live/elviraluca/201222/228614.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - BANCO DI SARDEGNA SASSARI
-http://103.240.150.229:80/live/elviraluca/201222/228615.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - VANOLI BASKET CREMONA
-http://103.240.150.229:80/live/elviraluca/201222/228617.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - NUTRIBULLET TREVISO BASKET
-http://103.240.150.229:80/live/elviraluca/201222/228618.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - DOLOMITI ENERGIA TRENTINO
-http://103.240.150.229:80/live/elviraluca/201222/228619.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - UMANA REYER VENEZIA
-http://103.240.150.229:80/live/elviraluca/201222/228620.ts
-#EXTINF:-1 group-title="Olaszország",Basket A - GEVI NAPOLI
-http://103.240.150.229:80/live/elviraluca/201222/228742.ts
-#EXTINF:-1 group-title="Olaszország",----- BASKET SERIE A2 -----
-http://103.240.150.229:80/live/elviraluca/201222/228704.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - LIBERTAS LIVORNO 1947
-http://103.240.150.229:80/live/elviraluca/201222/228687.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - GRUPPO MASCIO BERGAMO
-http://103.240.150.229:80/live/elviraluca/201222/228688.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - REAL SEBASTIANI RIETI
-http://103.240.150.229:80/live/elviraluca/201222/228689.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - GEMINI MESTRE
-http://103.240.150.229:80/live/elviraluca/201222/228679.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - HAPPY CASA BRINDISI
-http://103.240.150.229:80/live/elviraluca/201222/228616.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - GIVOVA SCAFATI
-http://103.240.150.229:80/live/elviraluca/201222/228680.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - LIOFILCHEM ROSETO
-http://103.240.150.229:80/live/elviraluca/201222/228681.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - AVELLINO BASKET
-http://103.240.150.229:80/live/elviraluca/201222/228682.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - ESTRA PISTOIA
-http://103.240.150.229:80/live/elviraluca/201222/228683.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - FERRARRONI JUVI CREMONA
-http://103.240.150.229:80/live/elviraluca/201222/228684.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - FORTITUDO FLATS SERVICE BOLOGNA
-http://103.240.150.229:80/live/elviraluca/201222/228685.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - REALE MUTUA TORINO
-http://103.240.150.229:80/live/elviraluca/201222/228690.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - RIVIERABANCA BASKET RIMINI
-http://103.240.150.229:80/live/elviraluca/201222/228691.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - SELLA CENTO
-http://103.240.150.229:80/live/elviraluca/201222/228692.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - TEZENIS VERONA
-http://103.240.150.229:80/live/elviraluca/201222/228693.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - CRIFO WINES RUVO DI PUGLIA
-http://103.240.150.229:80/live/elviraluca/201222/228694.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - UEB GESTECO CIVIDALE
-http://103.240.150.229:80/live/elviraluca/201222/228695.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - UNIEURO FORLI'
-http://103.240.150.229:80/live/elviraluca/201222/228696.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 - URANIA MILANO
-http://103.240.150.229:80/live/elviraluca/201222/228697.ts
-#EXTINF:-1 group-title="Olaszország",Basket A2 -  CARPEGNA PROSCIUTTO BASKET PESARO
-http://103.240.150.229:80/live/elviraluca/201222/228740.ts
-#EXTINF:-1 group-title="Olaszország",----- BASKET SERIE B -----
-http://103.240.150.229:80/live/elviraluca/201222/228733.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - ALLIANZ PAZIENZA SAN SEVERO
-http://103.240.150.229:80/live/elviraluca/201222/228700.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - ANDREA COSTA IMOLA
-http://103.240.150.229:80/live/elviraluca/201222/228701.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - BAKERY BASKET PIACENZA
-http://103.240.150.229:80/live/elviraluca/201222/228702.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - BENACQUISTA ASSICURAZIONI LATINA
-http://103.240.150.229:80/live/elviraluca/201222/228703.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - RUCKER SAN VENDEMIANO
-http://103.240.150.229:80/live/elviraluca/201222/228734.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - SAE SCIENTIFICA LEGNANO
-http://103.240.150.229:80/live/elviraluca/201222/228735.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - SOLBAT GOLFO PIOMBINO
-http://103.240.150.229:80/live/elviraluca/201222/228736.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - TREVIGLIO BRIANZA BASKET
-http://103.240.150.229:80/live/elviraluca/201222/228737.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - UMANA SAN GIOBBE CHIUSI
-http://103.240.150.229:80/live/elviraluca/201222/228738.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - VIRTUS GVM ROMA 1960
-http://103.240.150.229:80/live/elviraluca/201222/228739.ts
-#EXTINF:-1 group-title="Olaszország",Basket B -  RAGGISOLARIS FAENZA
-http://103.240.150.229:80/live/elviraluca/201222/228705.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - UCC ASSIGECO PIACENZA
-http://103.240.150.229:80/live/elviraluca/201222/228706.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - CONSORZIO LEONARDO DANY QUARRATA
-http://103.240.150.229:80/live/elviraluca/201222/228707.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - POWER BASKET NOCERA
-http://103.240.150.229:80/live/elviraluca/201222/228708.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - FABO HERONS MONTECATINI
-http://103.240.150.229:80/live/elviraluca/201222/228709.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - FIORENZUOLA BEES
-http://103.240.150.229:80/live/elviraluca/201222/228710.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - FOPPIANI FULGOR FIDENZA
-http://103.240.150.229:80/live/elviraluca/201222/228711.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - CONSULTINVEST LORETO PESARO
-http://103.240.150.229:80/live/elviraluca/201222/228712.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - GENERAL CONTRACTOR JESI
-http://103.240.150.229:80/live/elviraluca/201222/228713.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - LA T TECNICA GEMA MONTECATINI
-http://103.240.150.229:80/live/elviraluca/201222/228714.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - ADAMANT FERRARA
-http://103.240.150.229:80/live/elviraluca/201222/228715.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - LOGIMAN ORZINUOVI
-http://103.240.150.229:80/live/elviraluca/201222/228716.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - LUISS ROMA
-http://103.240.150.229:80/live/elviraluca/201222/228717.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - LUXARM LUMEZZANE
-http://103.240.150.229:80/live/elviraluca/201222/228718.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - MONCADA ENERGY AGRIGENTO
-http://103.240.150.229:80/live/elviraluca/201222/228719.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - NEUPHARMA VIRTUS IMOLA
-http://103.240.150.229:80/live/elviraluca/201222/228720.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - NOVIPIU MONFERRATO BASKET
-http://103.240.150.229:80/live/elviraluca/201222/228721.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - ELACHEM VIGEVANO 1955
-http://103.240.150.229:80/live/elviraluca/201222/228722.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - ORASI RAVENNA
-http://103.240.150.229:80/live/elviraluca/201222/228723.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - INFODRIVE CAPO D'ORLANDO
-http://103.240.150.229:80/live/elviraluca/201222/228724.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - PAFFONI FULGOR BASKET OMEGNA
-http://103.240.150.229:80/live/elviraluca/201222/228725.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - S4 ENERGIA VICENZA
-http://103.240.150.229:80/live/elviraluca/201222/228726.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - PAPERDI JUVECASERTA
-http://103.240.150.229:80/live/elviraluca/201222/228727.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - PIELLE LIVORNO
-http://103.240.150.229:80/live/elviraluca/201222/228728.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - SIAZ BASKET PIAZZA ARMERINA
-http://103.240.150.229:80/live/elviraluca/201222/228729.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - PSA  BASKET CASORIA
-http://103.240.150.229:80/live/elviraluca/201222/228730.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - RIMADESIO DESIO
-http://103.240.150.229:80/live/elviraluca/201222/228731.ts
-#EXTINF:-1 group-title="Olaszország",Basket B - RISTOPRO FABRIANO
-http://103.240.150.229:80/live/elviraluca/201222/228732.ts
-#EXTINF:-1 group-title="Olaszország",----- VETRINA LBA TV  -----
-http://103.240.150.229:80/live/elviraluca/201222/228678.ts
-#EXTINF:-1 group-title="Olaszország",LBA TV 01 HD
-http://103.240.150.229:80/live/elviraluca/201222/228677.ts
-#EXTINF:-1 group-title="Olaszország",LBA TV 02 HD
-http://103.240.150.229:80/live/elviraluca/201222/228676.ts
-#EXTINF:-1 group-title="Olaszország",LBA TV 03 HD
-http://103.240.150.229:80/live/elviraluca/201222/228675.ts
-#EXTINF:-1 group-title="Olaszország",LBA TV 04 HD
-http://103.240.150.229:80/live/elviraluca/201222/228674.ts
-#EXTINF:-1 group-title="Olaszország",LBA TV 05 HD
-http://103.240.150.229:80/live/elviraluca/201222/228673.ts
-#EXTINF:-1 group-title="Olaszország",LBA TV 06 HD
-http://103.240.150.229:80/live/elviraluca/201222/228672.ts
-#EXTINF:-1 group-title="Olaszország",----- LNP VETRINA -----
-http://103.240.150.229:80/live/elviraluca/201222/228671.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 01 HD
-http://103.240.150.229:80/live/elviraluca/201222/228670.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 02 HD
-http://103.240.150.229:80/live/elviraluca/201222/228669.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 03 HD
-http://103.240.150.229:80/live/elviraluca/201222/228668.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 04 HD
-http://103.240.150.229:80/live/elviraluca/201222/228667.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 05 HD
-http://103.240.150.229:80/live/elviraluca/201222/228666.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 20 HD
-http://103.240.150.229:80/live/elviraluca/201222/228651.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 19 HD
-http://103.240.150.229:80/live/elviraluca/201222/228652.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 18 HD
-http://103.240.150.229:80/live/elviraluca/201222/228653.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 17 HD
-http://103.240.150.229:80/live/elviraluca/201222/228654.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 16 HD
-http://103.240.150.229:80/live/elviraluca/201222/228655.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 15 HD
-http://103.240.150.229:80/live/elviraluca/201222/228656.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 14 HD
-http://103.240.150.229:80/live/elviraluca/201222/228657.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 13 HD
-http://103.240.150.229:80/live/elviraluca/201222/228658.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 12 HD
-http://103.240.150.229:80/live/elviraluca/201222/228659.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 11 HD
-http://103.240.150.229:80/live/elviraluca/201222/228660.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 10 HD
-http://103.240.150.229:80/live/elviraluca/201222/228661.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 09 HD
-http://103.240.150.229:80/live/elviraluca/201222/228662.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 08 HD
-http://103.240.150.229:80/live/elviraluca/201222/228663.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 07 HD
-http://103.240.150.229:80/live/elviraluca/201222/228664.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 06 HD
-http://103.240.150.229:80/live/elviraluca/201222/228665.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 50 HD
-http://103.240.150.229:80/live/elviraluca/201222/228621.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 49 HD
-http://103.240.150.229:80/live/elviraluca/201222/228622.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 48 HD
-http://103.240.150.229:80/live/elviraluca/201222/228623.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 47 HD
-http://103.240.150.229:80/live/elviraluca/201222/228624.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 46 HD
-http://103.240.150.229:80/live/elviraluca/201222/228625.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 45 HD
-http://103.240.150.229:80/live/elviraluca/201222/228626.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 44 HD
-http://103.240.150.229:80/live/elviraluca/201222/228627.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 43 HD
-http://103.240.150.229:80/live/elviraluca/201222/228628.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 42 HD
-http://103.240.150.229:80/live/elviraluca/201222/228629.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 41 HD
-http://103.240.150.229:80/live/elviraluca/201222/228630.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 40 HD
-http://103.240.150.229:80/live/elviraluca/201222/228631.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 39 HD
-http://103.240.150.229:80/live/elviraluca/201222/228632.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 38 HD
-http://103.240.150.229:80/live/elviraluca/201222/228633.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 37 HD
-http://103.240.150.229:80/live/elviraluca/201222/228634.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 36 HD
-http://103.240.150.229:80/live/elviraluca/201222/228635.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 35 HD
-http://103.240.150.229:80/live/elviraluca/201222/228636.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 34 HD
-http://103.240.150.229:80/live/elviraluca/201222/228637.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 33 HD
-http://103.240.150.229:80/live/elviraluca/201222/228638.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 32 HD
-http://103.240.150.229:80/live/elviraluca/201222/228639.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 31 HD
-http://103.240.150.229:80/live/elviraluca/201222/228640.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 30 HD
-http://103.240.150.229:80/live/elviraluca/201222/228641.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 29 HD
-http://103.240.150.229:80/live/elviraluca/201222/228642.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 28 HD
-http://103.240.150.229:80/live/elviraluca/201222/228643.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 27 HD
-http://103.240.150.229:80/live/elviraluca/201222/228644.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 26 HD
-http://103.240.150.229:80/live/elviraluca/201222/228645.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 25 HD
-http://103.240.150.229:80/live/elviraluca/201222/228646.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 24 HD
-http://103.240.150.229:80/live/elviraluca/201222/228647.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 23 HD
-http://103.240.150.229:80/live/elviraluca/201222/228648.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 22 HD
-http://103.240.150.229:80/live/elviraluca/201222/228649.ts
-#EXTINF:-1 group-title="Olaszország",LNP PASS 21 HD
-http://103.240.150.229:80/live/elviraluca/201222/228650.ts
+
+
 #EXTINF:-1 group-title="Olaszország",----- DAZN LOCALE -----
 http://103.240.150.229:80/live/elviraluca/201222/192192.ts
 #EXTINF:-1 group-title="Olaszország",Zona Dazn FHD Exclusive
@@ -4739,48 +4343,7 @@ http://103.240.150.229:80/live/elviraluca/201222/222482.ts
 http://103.240.150.229:80/live/elviraluca/201222/222483.ts
 #EXTINF:-1 group-title="Olaszország",Dazn NFL 10 FHD Exclsuive
 http://103.240.150.229:80/live/elviraluca/201222/222484.ts
-#EXTINF:-1 group-title="Olaszország",----- ARENA TV - ELEVEN TV- FIFA+ -----
-http://103.240.150.229:80/live/elviraluca/201222/192244.ts
-#EXTINF:-1 group-title="Olaszország",Arena Sport 1 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48655.ts
-#EXTINF:-1 group-title="Olaszország",Arena Sport 2 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48656.ts
-#EXTINF:-1 group-title="Olaszország",Arena Sport 3 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48657.ts
-#EXTINF:-1 group-title="Olaszország",Arena Sport 4 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48658.ts
-#EXTINF:-1 group-title="Olaszország",Arena Sport 5 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48659.ts
-#EXTINF:-1 group-title="Olaszország",Arena Sport 6 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48660.ts
-#EXTINF:-1 group-title="Olaszország",Eleven Sport 1 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48823.ts
-#EXTINF:-1 group-title="Olaszország",Eleven Sport 2 FHD 
-http://103.240.150.229:80/live/elviraluca/201222/48822.ts
-#EXTINF:-1 group-title="Olaszország",Eleven Sport 3 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48821.ts
-#EXTINF:-1 group-title="Olaszország",Eleven Sport 4 FHD
-http://103.240.150.229:80/live/elviraluca/201222/48820.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 1 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178885.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 2 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178886.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 3 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178888.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 4 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178889.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 5 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178890.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 6 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178891.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 7 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178892.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 8 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178893.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 9 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178894.ts
-#EXTINF:-1 group-title="Olaszország",Fifa+ 10 FHD
-http://103.240.150.229:80/live/elviraluca/201222/178895.ts
+
 #EXTINF:-1 group-title="Olaszország",----- DOCUMENTARI -----
 http://103.240.150.229:80/live/elviraluca/201222/22762.ts
 #EXTINF:-1 group-title="Olaszország",Sky Arte FHD
@@ -4869,20 +4432,7 @@ http://103.240.150.229:80/live/elviraluca/201222/100.ts
 http://103.240.150.229:80/live/elviraluca/201222/24748.ts
 #EXTINF:-1 group-title="Olaszország",HGTV Home e Garden
 http://103.240.150.229:80/live/elviraluca/201222/161376.ts
-#EXTINF:-1 group-title="Olaszország",----- NOTIZIARI -----
-http://103.240.150.229:80/live/elviraluca/201222/104399.ts
-#EXTINF:-1 group-title="Olaszország",Abc News - USA
-http://103.240.150.229:80/live/elviraluca/201222/104388.ts
-#EXTINF:-1 group-title="Olaszország",BBC News
-http://103.240.150.229:80/live/elviraluca/201222/104389.ts
-#EXTINF:-1 group-title="Olaszország",Canale 21
-http://103.240.150.229:80/live/elviraluca/201222/104390.ts
-#EXTINF:-1 group-title="Olaszország",Euronews
-http://103.240.150.229:80/live/elviraluca/201222/104391.ts
-#EXTINF:-1 group-title="Olaszország",France 24
-http://103.240.150.229:80/live/elviraluca/201222/104392.ts
-#EXTINF:-1 group-title="Olaszország",LaC News 24
-http://103.240.150.229:80/live/elviraluca/201222/104393.ts
+
 #EXTINF:-1 group-title="Olaszország",Rai News 24
 http://103.240.150.229:80/live/elviraluca/201222/104394.ts
 #EXTINF:-1 group-title="Olaszország",Sky Tg 24
