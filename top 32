@@ -29693,7 +29693,175 @@ https://192radio.stream-server.nl/stream?1788494868517
 #EXTINF:-1 group-title="Radio",Beatles 24/7 Radio
 https://strw3.openstream.co/981
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SVT 1" tvg-logo="" group-title="Svédország",SWE: SVT 1
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5469
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SVT 2" tvg-logo="" group-title="Svédország",SWE: SVT 2
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5470
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 3" tvg-logo="https://docdog.top/logo/countries/sweden/tv3.png" group-title="Svédország",SWE: TV 3
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5473
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 3 SPORT" tvg-logo="https://docdog.top/logo/countries/sweden/tv3sport.png" group-title="Svédország",SWE: TV 3 SPORT
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5497
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 4" tvg-logo="https://docdog.top/logo/countries/sweden/tv4.png" group-title="Svédország",SWE: TV 4
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5474
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 4 FAKTA" tvg-logo="https://docdog.top/logo/countries/sweden/tv4faktasw.png" group-title="Svédország",SWE: TV 4 FAKTA
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5475
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 4 FILM" tvg-logo="https://docdog.top/logo/countries/sweden/tv4filmsw.png" group-title="Svédország",SWE: TV 4 FILM
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5476
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 4 GOLD" tvg-logo="" group-title="Svédország",SWE: TV 4 GOLD
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5496
+#EXTINF:-1 tvg-id="" tvg-name="SWE: KANAL 5" tvg-logo="https://docdog.top/logo/countries/sweden/kanal5.png" group-title="Svédország",SWE: KANAL 5
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5462
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 6" tvg-logo="https://docdog.top/logo/countries/sweden/tv6.png" group-title="Svédország",SWE: TV 6
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5477
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SJUAN" tvg-logo="https://docdog.top/logo/countries/sweden/sjuansw.png" group-title="Svédország",SWE: SJUAN
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5468
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 8" tvg-logo="https://docdog.top/logo/countries/sweden/tv8.png" group-title="Svédország",SWE: TV 8
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5494
+#EXTINF:-1 tvg-id="" tvg-name="SWE: KANAL 9" tvg-logo="https://docdog.top/logo/countries/sweden/kanal9.png" group-title="Svédország",SWE: KANAL 9
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5463
+#EXTINF:-1 tvg-id="" tvg-name="SWE: KANAL 10" tvg-logo="https://docdog.top/logo/countries/sweden/kanal10.png" group-title="Svédország",SWE: KANAL 10
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5531
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 10" tvg-logo="" group-title="Svédország",SWE: TV 10
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5471
+#EXTINF:-1 tvg-id="" tvg-name="SWE: KANAL 11" tvg-logo="https://docdog.top/logo/countries/sweden/kanal11.png" group-title="Svédország",SWE: KANAL 11
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5461
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV 12" tvg-logo="" group-title="Svédország",SWE: TV 12
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5472
+#EXTINF:-1 tvg-id="" tvg-name="SWE: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/sweden/eurosport1.png" group-title="Svédország",SWE: EUROSPORT 1
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5489
+#EXTINF:-1 tvg-id="" tvg-name="SWE: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/sweden/eurosport2.png" group-title="Svédország",SWE: EUROSPORT 2
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5488
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT SPORT" tvg-logo="https://docdog.top/logo/countries/sweden/viasatsport.png" group-title="Svédország",SWE: VIASAT SPORT
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5481
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT SPORT EXTRA" tvg-logo="https://docdog.top/logo/countries/sweden/viasatsportextra.png" group-title="Svédország",SWE: VIASAT SPORT EXTRA
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5505
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT SPORT PREMIUM" tvg-logo="https://docdog.top/logo/countries/sweden/viasatsportpremium.png" group-title="Svédország",SWE: VIASAT SPORT PREMIUM
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5490
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT FOTBOLL" tvg-logo="https://docdog.top/logo/countries/sweden/viasatfotboll.png" group-title="Svédország",SWE: VIASAT FOTBOLL
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5493
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT GOLF" tvg-logo="https://docdog.top/logo/countries/sweden/viasatgolf.png" group-title="Svédország",SWE: VIASAT GOLF
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5537
+#EXTINF:-1 tvg-id="" tvg-name="SWE: V sport motor" tvg-logo="https://docdog.top/logo/countries/sweden/V_sport_motor.jpg" group-title="Svédország",SWE: V sport motor
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5491
+#EXTINF:-1 tvg-id="" tvg-name="SWE: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/sweden/animalplanet.png" group-title="Svédország",SWE: ANIMAL PLANET
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5544
+#EXTINF:-1 tvg-id="" tvg-name="SWE: BBC BRIT" tvg-logo="https://docdog.top/logo/countries/sweden/bbcbrit.png" group-title="Svédország",SWE: BBC BRIT
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5542
+#EXTINF:-1 tvg-id="" tvg-name="SWE: BBC EARTH" tvg-logo="https://docdog.top/logo/countries/sweden/bbcearth.png" group-title="Svédország",SWE: BBC EARTH
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5541
+#EXTINF:-1 tvg-id="" tvg-name="SWE: BOOMERANG" tvg-logo="https://docdog.top/logo/countries/sweden/boomerang.png" group-title="Svédország",SWE: BOOMERANG
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5504
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C More Sport 1" tvg-logo="" group-title="Svédország",SWE: C More Sport 1
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/56007
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE FIRST" tvg-logo="https://docdog.top/logo/countries/sweden/cmorefirst.png" group-title="Svédország",SWE: C MORE FIRST
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5452
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TV4 Fotboll" tvg-logo="https://docdog.top/logo/countries/sweden/tv4_fotboll.png" group-title="Svédország",SWE: TV4 Fotboll
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5503
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE HITS" tvg-logo="https://docdog.top/logo/countries/sweden/cmorehits.png" group-title="Svédország",SWE: C MORE HITS
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5453
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE HOCKEY" tvg-logo="https://docdog.top/logo/countries/sweden/cmorehockeysw.png" group-title="Svédország",SWE: C MORE HOCKEY
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5533
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE LIVE" tvg-logo="https://docdog.top/logo/countries/sweden/cmorelive.png" group-title="Svédország",SWE: C MORE LIVE
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5502
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE LIVE 2" tvg-logo="https://docdog.top/logo/countries/sweden/cmorelive2.png" group-title="Svédország",SWE: C MORE LIVE 2
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5523
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE LIVE 3" tvg-logo="https://docdog.top/logo/countries/sweden/cmorelive3.png" group-title="Svédország",SWE: C MORE LIVE 3
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5501
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE LIVE 4" tvg-logo="https://docdog.top/logo/countries/sweden/cmorelive4.png" group-title="Svédország",SWE: C MORE LIVE 4
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5500
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE LIVE 5" tvg-logo="https://docdog.top/logo/countries/sweden/cmorelive5.png" group-title="Svédország",SWE: C MORE LIVE 5
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5499
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE SERIES" tvg-logo="https://docdog.top/logo/countries/sweden/cmoreseries.png" group-title="Svédország",SWE: C MORE SERIES
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5454
+#EXTINF:-1 tvg-id="" tvg-name="SWE: C MORE STARS" tvg-logo="https://docdog.top/logo/countries/sweden/cmorestars.png" group-title="Svédország",SWE: C MORE STARS
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5455
+#EXTINF:-1 tvg-id="" tvg-name="SWE: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/sweden/cartoonnetwork.png" group-title="Svédország",SWE: CARTOON NETWORK
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5456
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/sweden/discoverychannel.png" group-title="Svédország",SWE: DISCOVERY CHANNEL
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5457
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/sweden/discoveryinvestigation.png" group-title="Svédország",SWE: DISCOVERY INVESTIGATION
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5520
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/sweden/discoveryscience.png" group-title="Svédország",SWE: DISCOVERY SCIENCE
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5458
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY WORLD" tvg-logo="https://docdog.top/logo/countries/sweden/discoveryworld.png" group-title="Svédország",SWE: DISCOVERY WORLD
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5522
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/sweden/disneychannel.png" group-title="Svédország",SWE: DISNEY CHANNEL
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5459
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISNEY JR" tvg-logo="https://docdog.top/logo/countries/sweden/disneyjr.png" group-title="Svédország",SWE: DISNEY JR
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5532
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISNEY XD" tvg-logo="https://docdog.top/logo/countries/sweden/disneyxd.png" group-title="Svédország",SWE: DISNEY XD
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5516
+#EXTINF:-1 tvg-id="" tvg-name="SWE: H2" tvg-logo="https://docdog.top/logo/countries/sweden/h2.png" group-title="Svédország",SWE: H2
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5519
+#EXTINF:-1 tvg-id="" tvg-name="SWE: HISTORY" tvg-logo="https://docdog.top/logo/countries/sweden/history.png" group-title="Svédország",SWE: HISTORY
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5460
+#EXTINF:-1 tvg-id="" tvg-name="SWE: MTV" tvg-logo="https://docdog.top/logo/countries/sweden/mtv.png" group-title="Svédország",SWE: MTV
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5530
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographic.png" group-title="Svédország",SWE: NATIONAL GEOGRAPHIC
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5464
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/sweden/nationalgeographicwild.png" group-title="Svédország",SWE: NATIONAL GEOGRAPHIC WILD
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5511
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NICK JR" tvg-logo="https://docdog.top/logo/countries/sweden/nickjr.png" group-title="Svédország",SWE: NICK JR
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5465
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/sweden/nickelodeon.png" group-title="Svédország",SWE: NICKELODEON
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5466
+#EXTINF:-1 tvg-id="" tvg-name="SWE: NICKTOONS" tvg-logo="https://docdog.top/logo/countries/sweden/nicktoons.png" group-title="Svédország",SWE: NICKTOONS
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5529
+#EXTINF:-1 tvg-id="" tvg-name="SWE: OPPNA KANALEN STOCKHOLM" tvg-logo="" group-title="Svédország",SWE: OPPNA KANALEN STOCKHOLM
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5510
+#EXTINF:-1 tvg-id="" tvg-name="SWE: PARAMOUNT NETWORK" tvg-logo="https://docdog.top/logo/countries/sweden/paramountnetwork.png" group-title="Svédország",SWE: PARAMOUNT NETWORK
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5528
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SF-KANALEN" tvg-logo="" group-title="Svédország",SWE: SF-KANALEN
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5467
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SPORT KANALEN" tvg-logo="https://docdog.top/logo/countries/sweden/sportkanalensw.png" group-title="Svédország",SWE: SPORT KANALEN
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5509
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SVT 24/B" tvg-logo="" group-title="Svédország",SWE: SVT 24/B
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5515
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SVT BARN" tvg-logo="" group-title="Svédország",SWE: SVT BARN
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5514
+#EXTINF:-1 tvg-id="" tvg-name="SWE: SVT KUNSKAPS KANALEN" tvg-logo="https://docdog.top/logo/countries/sweden/svtkunskapskanalen.png" group-title="Svédország",SWE: SVT KUNSKAPS KANALEN
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5498
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TLC" tvg-logo="https://docdog.top/logo/countries/sweden/tlc.png" group-title="Svédország",SWE: TLC
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5521
+#EXTINF:-1 tvg-id="" tvg-name="SWE: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/sweden/travelchannel.png" group-title="Svédország",SWE: TRAVEL CHANNEL
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5518
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VH1" tvg-logo="https://docdog.top/logo/countries/sweden/vh1.png" group-title="Svédország",SWE: VH1
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5517
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT EXPLORE" tvg-logo="https://docdog.top/logo/countries/sweden/viasatexplore.png" group-title="Svédország",SWE: VIASAT EXPLORE
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5478
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT FILM ACTION" tvg-logo="https://docdog.top/logo/countries/sweden/viasatfilmaction.png" group-title="Svédország",SWE: VIASAT FILM ACTION
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5535
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT FILM FAMILY" tvg-logo="https://docdog.top/logo/countries/sweden/viasatfilmfamily.png" group-title="Svédország",SWE: VIASAT FILM FAMILY
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5479
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT FILM PREMIERE" tvg-logo="https://docdog.top/logo/countries/sweden/viasatfilmpremiere.png" group-title="Svédország",SWE: VIASAT FILM PREMIERE
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5538
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/sweden/viasathistory.png" group-title="Svédország",SWE: VIASAT HISTORY
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5539
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT HOCKEY" tvg-logo="https://docdog.top/logo/countries/sweden/viasathockey.png" group-title="Svédország",SWE: VIASAT HOCKEY
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5492
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT JUL" tvg-logo="" group-title="Svédország",SWE: VIASAT JUL
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5506
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT NATURE" tvg-logo="https://docdog.top/logo/countries/sweden/viasatnature.png" group-title="Svédország",SWE: VIASAT NATURE
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5540
+#EXTINF:-1 tvg-id="" tvg-name="SWE: VIASAT SERIES" tvg-logo="https://docdog.top/logo/countries/sweden/viasatseries.png" group-title="Svédország",SWE: VIASAT SERIES
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/5536
+#EXTINF:-1 tvg-id="" tvg-name="SWE: Strive Sport [Live During Events Only]" tvg-logo="" group-title="Svédország",SWE: Strive Sport [Live During Events Only]
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51379
+#EXTINF:-1 tvg-id="" tvg-name="SWE: Discovery+ Extra 1 [Live During Events Only]" tvg-logo="" group-title="Svédország",SWE: Discovery+ Extra 1 [Live During Events Only]
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51380
+#EXTINF:-1 tvg-id="" tvg-name="SWE: Discovery+ Extra 2 [Live During Events Only]" tvg-logo="" group-title="Svédország",SWE: Discovery+ Extra 2 [Live During Events Only]
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51381
+#EXTINF:-1 tvg-id="" tvg-name="SWE: Discovery+ Extra 3 [Live During Events Only]" tvg-logo="" group-title="Svédország",SWE: Discovery+ Extra 3 [Live During Events Only]
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51382
+#EXTINF:-1 tvg-id="" tvg-name="SWE: Discovery+ Extra 4 [Live During Events Only]" tvg-logo="" group-title="Svédország",SWE: Discovery+ Extra 4 [Live During Events Only]
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51383
+#EXTINF:-1 tvg-id="" tvg-name="SWE: Discovery+ Extra 5 [Live During Events Only]" tvg-logo="" group-title="Svédország",SWE: Discovery+ Extra 5 [Live During Events Only]
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51384
+#EXTINF:-1 tvg-id="" tvg-name="SWE: Discovery+ Extra 6 [Live During Events Only]" tvg-logo="" group-title="Svédország",SWE: Discovery+ Extra 6 [Live During Events Only]
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/51385
+#EXTINF:-1 tvg-id="" tvg-name="SWE: DISCOVERY" tvg-logo="" group-title="Svédország",SWE: DISCOVERY
+http://neosfpoo.top:8080/7871763295901374/9d52c896d53a/57366
 
 
 
