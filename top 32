@@ -103176,7 +103176,613 @@ http://45.139.122.199/movie/375939076812/602438500439/2570068.mkv
 
 
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-= Albania =-" tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/128/Flag_of_Albania.png" group-title="Albánia",-= Albania =-
+http://45.139.122.199/Helmut/Helmut/9356
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albánia",Big Brother 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/465014
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albánia",Big Brother 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/465013
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Kosova 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albánia",Big Brother Kosova 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/472961
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Kosova 2 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Big%20Brother%20Kosova%202%20FHD%20AL%20(Copy).png" group-title="Albánia",Big Brother Kosova 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/472962
+#EXTINF:-1 tvg-id="" tvg-name="20 HD AL" tvg-logo="" group-title="Albánia",20 HD AL
+http://45.139.122.199/Helmut/Helmut/102674
+#EXTINF:-1 tvg-id="" tvg-name="24 Kitchen HD AL" tvg-logo="" group-title="Albánia",24 Kitchen HD AL
+http://45.139.122.199/Helmut/Helmut/2164539
+#EXTINF:-1 tvg-id="" tvg-name="A Mol TV HD AL" tvg-logo="" group-title="Albánia",A Mol TV HD AL
+http://45.139.122.199/Helmut/Helmut/2164541
+#EXTINF:-1 tvg-id="abcnews.au" tvg-name="ABC News HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/ABC%20News%20AL%20(Copy).png" group-title="Albánia",ABC News HD AL
+http://45.139.122.199/Helmut/Helmut/19576
+#EXTINF:-1 tvg-id="" tvg-name="Action FHD AL" tvg-logo="" group-title="Albánia",Action FHD AL
+http://45.139.122.199/Helmut/Helmut/2164516
+#EXTINF:-1 tvg-id="" tvg-name="Alb Action HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/action1%20(Copy).png" group-title="Albánia",Alb Action HD AL
+http://45.139.122.199/Helmut/Helmut/19569
+#EXTINF:-1 tvg-id="" tvg-name="Alb Dreams HD AL" tvg-logo="" group-title="Albánia",Alb Dreams HD AL
+http://45.139.122.199/Helmut/Helmut/1226809
+#EXTINF:-1 tvg-id="" tvg-name="Alb Folk AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alb%20Folk%20AL%20(Copy).png" group-title="Albánia",Alb Folk AL
+http://45.139.122.199/Helmut/Helmut/9082
+#EXTINF:-1 tvg-id="" tvg-name="Alb Hits AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/hitsa%20(Copy).png" group-title="Albánia",Alb Hits AL
+http://45.139.122.199/Helmut/Helmut/9111
+#EXTINF:-1 tvg-id="" tvg-name="Alb Kanale Music TV HD AL" tvg-logo="https://logo.m3uassets.com/albkanalemusictv.png" group-title="Albánia",Alb Kanale Music TV HD AL
+http://45.139.122.199/Helmut/Helmut/1226810
+#EXTINF:-1 tvg-id="" tvg-name="Alb Thriller HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alb%20Thriller%20HD%20AL%20(Copy).png" group-title="Albánia",Alb Thriller HD AL
+http://45.139.122.199/Helmut/Helmut/19570
+#EXTINF:-1 tvg-id="" tvg-name="AlbKanale Music TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Music%20AL%20(Copy).png" group-title="Albánia",AlbKanale Music TV HD AL
+http://45.139.122.199/Helmut/Helmut/9072
+#EXTINF:-1 tvg-id="" tvg-name="Albuk FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Albuk%20FHD%20AL%20(Copy).png" group-title="Albánia",Albuk FHD AL
+http://45.139.122.199/Helmut/Helmut/35977
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="Alsat M AL" tvg-logo="https://i.postimg.cc/zBgJxkTW/Alsat-M.png" group-title="Albánia",Alsat M AL
+http://45.139.122.199/Helmut/Helmut/103446
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="Alsat M AL [EST]" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alsat%20M%20AL%20%5bEST%5d%20(Copy).png" group-title="Albánia",Alsat M AL [EST]
+http://45.139.122.199/Helmut/Helmut/34431
+#EXTINF:-1 tvg-id="alsatm.al" tvg-name="Alsat M FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Alsat%20M%20FHD%20AL%20(Copy).png" group-title="Albánia",Alsat M FHD AL
+http://45.139.122.199/Helmut/Helmut/35837
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD AL" tvg-logo="" group-title="Albánia",Animal Planet HD AL
+http://45.139.122.199/Helmut/Helmut/2164545
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 1 HD AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/ARTANEWS.png" group-title="Albánia",Art Doku 1 HD AL
+http://45.139.122.199/Helmut/Helmut/29999
+#EXTINF:-1 tvg-id="" tvg-name="Art Doku 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Doku%202%20HD%20AL%20(Copy).png" group-title="Albánia",Art Doku 2 HD AL
+http://45.139.122.199/Helmut/Helmut/29998
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Kino%201%20HD%20AL%20(Copy).png" group-title="Albánia",Art Kino 1 HD AL
+http://45.139.122.199/Helmut/Helmut/29997
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/art%20kino%202%20(Copy).png" group-title="Albánia",Art Kino 2 HD AL
+http://45.139.122.199/Helmut/Helmut/29996
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/art%20kino%203%20(Copy).png" group-title="Albánia",Art Kino 3 HD AL
+http://45.139.122.199/Helmut/Helmut/29995
+#EXTINF:-1 tvg-id="" tvg-name="Arta News FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Arta%20News%20FHD%20AL%20(Copy).png" group-title="Albánia",Arta News FHD AL
+http://45.139.122.199/Helmut/Helmut/29991
+#EXTINF:-1 tvg-id="atv.al" tvg-name="ATV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/ATV%20HD%20AL%20(Copy).png" group-title="Albánia",ATV HD AL
+http://45.139.122.199/Helmut/Helmut/102617
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Baby%20TV%20AL%20(Copy).png" group-title="Albánia",Baby TV HD AL
+http://45.139.122.199/Helmut/Helmut/9326
+#EXTINF:-1 tvg-id="bangbang.al" tvg-name="Bang Bang AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Bang%20Bang%20AL%20(Copy).png" group-title="Albánia",Bang Bang AL
+http://45.139.122.199/Helmut/Helmut/9351
+#EXTINF:-1 tvg-id="" tvg-name="BBC World HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/BBC%20World%20HD%20AL%20(Copy).png" group-title="Albánia",BBC World HD AL
+http://45.139.122.199/Helmut/Helmut/102619
+#EXTINF:-1 tvg-id="" tvg-name="BBF Music AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/BBF%20Music%20AL%20(Copy).png" group-title="Albánia",BBF Music AL
+http://45.139.122.199/Helmut/Helmut/102620
+#EXTINF:-1 tvg-id="" tvg-name="BBF Music HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/BBF%20Music%20AL%20(Copy).png" group-title="Albánia",BBF Music HD AL
+http://45.139.122.199/Helmut/Helmut/9064
+#EXTINF:-1 tvg-id="" tvg-name="Besa TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Besa%20TV%20AL%20(Copy).png" group-title="Albánia",Besa TV AL
+http://45.139.122.199/Helmut/Helmut/9069
+#EXTINF:-1 tvg-id="" tvg-name="Channel One FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Channel%20One%20FHD%20AL%20(Copy).png" group-title="Albánia",Channel One FHD AL
+http://45.139.122.199/Helmut/Helmut/29990
+#EXTINF:-1 tvg-id="" tvg-name="CNA FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Dukagjini%20AL%20(Copy).png" group-title="Albánia",CNA FHD AL
+http://45.139.122.199/Helmut/Helmut/35830
+#EXTINF:-1 tvg-id="" tvg-name="Cnn A2 HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/a2-al.png" group-title="Albánia",Cnn A2 HD AL
+http://45.139.122.199/Helmut/Helmut/102624
+#EXTINF:-1 tvg-id="" tvg-name="Comedy FHD AL" tvg-logo="" group-title="Albánia",Comedy FHD AL
+http://45.139.122.199/Helmut/Helmut/2164517
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/dasma%20(Copy).png" group-title="Albánia",Dasma TV AL
+http://45.139.122.199/Helmut/Helmut/51301
+#EXTINF:-1 tvg-id="" tvg-name="Dielli TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Dielli%20TV%20AL%20(Copy).png" group-title="Albánia",Dielli TV AL
+http://45.139.122.199/Helmut/Helmut/19764
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 1 FHD AL" tvg-logo="" group-title="Albánia",Digi Gold 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164511
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 2 FHD AL" tvg-logo="" group-title="Albánia",Digi Gold 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164512
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 3 FHD AL" tvg-logo="" group-title="Albánia",Digi Gold 3 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164513
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold 4 FHD AL" tvg-logo="" group-title="Albánia",Digi Gold 4 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164514
+#EXTINF:-1 tvg-id="" tvg-name="Digi Gold FHD AL" tvg-logo="" group-title="Albánia",Digi Gold FHD AL
+http://45.139.122.199/Helmut/Helmut/2164510
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Discovery%20Channel%20AL%20(2)%20(Copy).png" group-title="Albánia",Discovery Channel HD AL
+http://45.139.122.199/Helmut/Helmut/9320
+#EXTINF:-1 tvg-id="" tvg-name="Dizi HD AL" tvg-logo="" group-title="Albánia",Dizi HD AL
+http://45.139.122.199/Helmut/Helmut/2164537
+#EXTINF:-1 tvg-id="" tvg-name="Doc 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Doc%202%20HD%20AL%20(Copy).png" group-title="Albánia",Doc 1 HD AL
+http://45.139.122.199/Helmut/Helmut/102627
+#EXTINF:-1 tvg-id="" tvg-name="Doc 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Doc%202%20HD%20AL%20(Copy).png" group-title="Albánia",Doc 2 HD AL
+http://45.139.122.199/Helmut/Helmut/102628
+#EXTINF:-1 tvg-id="" tvg-name="Drama FHD AL" tvg-logo="" group-title="Albánia",Drama FHD AL
+http://45.139.122.199/Helmut/Helmut/2164518
+#EXTINF:-1 tvg-id="" tvg-name="Drita TV HD AL" tvg-logo="https://logo.m3uassets.com/dritatv.png" group-title="Albánia",Drita TV HD AL
+http://45.139.122.199/Helmut/Helmut/35812
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV HD AL" tvg-logo="" group-title="Albánia",Duck TV HD AL
+http://45.139.122.199/Helmut/Helmut/2164540
+#EXTINF:-1 tvg-id="tvdukagjini.al" tvg-name="Dukagjini FHD AL" tvg-logo="https://s2.gifyu.com/images/DUKAGJINI.png" group-title="Albánia",Dukagjini FHD AL
+http://45.139.122.199/Helmut/Helmut/19577
+#EXTINF:-1 tvg-id="" tvg-name="Elrodi TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Elrodi%20TV%20AL%20(Copy).png" group-title="Albánia",Elrodi TV AL
+http://45.139.122.199/Helmut/Helmut/9083
+#EXTINF:-1 tvg-id="" tvg-name="Elvis Naçi FHD AL" tvg-logo="" group-title="Albánia",Elvis Naçi FHD AL
+http://45.139.122.199/Helmut/Helmut/2164533
+#EXTINF:-1 tvg-id="eurofilm.al" tvg-name="Euro Film HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Euro%20Film%20HD%20AL%20(Copy).png" group-title="Albánia",Euro Film HD AL
+http://45.139.122.199/Helmut/Helmut/40684
+#EXTINF:-1 tvg-id="" tvg-name="Euro Film 4 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Euro%20Film%20HD%20AL%20(Copy).png" group-title="Albánia",Euro Film 4 HD AL
+http://45.139.122.199/Helmut/Helmut/40680
+#EXTINF:-1 tvg-id="euronews.al" tvg-name="Euronews Albania HD AL" tvg-logo="https://logo.m3uassets.com/euronewsalbania.png" group-title="Albánia",Euronews Albania HD AL
+http://45.139.122.199/Helmut/Helmut/19561
+#EXTINF:-1 tvg-id="exphistori.al" tvg-name="Exp Histori AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Histori%20HD%20AL%20(Copy).png" group-title="Albánia",Exp Histori AL
+http://45.139.122.199/Helmut/Helmut/19564
+#EXTINF:-1 tvg-id="exphistori.al" tvg-name="Exp Histori HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/digit_alb_explorer_histori.png" group-title="Albánia",Exp Histori HD AL
+http://45.139.122.199/Helmut/Helmut/102633
+#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="Exp Natyra AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Natyra%20HD%20AL%20(Copy).png" group-title="Albánia",Exp Natyra AL
+http://45.139.122.199/Helmut/Helmut/19568
+#EXTINF:-1 tvg-id="expnatyra.al" tvg-name="Exp Natyra HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Exp%20Natyra%20HD%20AL%20(Copy).jpg" group-title="Albánia",Exp Natyra HD AL
+http://45.139.122.199/Helmut/Helmut/102634
+#EXTINF:-1 tvg-id="expshkence.al" tvg-name="Exp Shkence AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Exp%20Shkence%20AL%20(Copy).png" group-title="Albánia",Exp Shkence AL
+http://45.139.122.199/Helmut/Helmut/102635
+#EXTINF:-1 tvg-id="family.al" tvg-name="Family FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/family-tv-logo%20(Copy).png" group-title="Albánia",Family FHD AL
+http://45.139.122.199/Helmut/Helmut/35823
+#EXTINF:-1 tvg-id="faxnews.al" tvg-name="Fax News AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fax%20News%20AL%20(Copy).png" group-title="Albánia",Fax News AL
+http://45.139.122.199/Helmut/Helmut/33646
+#EXTINF:-1 tvg-id="" tvg-name="Festa FHD AL" tvg-logo="" group-title="Albánia",Festa FHD AL
+http://45.139.122.199/Helmut/Helmut/2164529
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="Film Aksion AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/film-aksion-al%20(Copy).png" group-title="Albánia",Film Aksion AL
+http://45.139.122.199/Helmut/Helmut/102638
+#EXTINF:-1 tvg-id="filmaksion.al" tvg-name="Film Aksion FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/film-aksion-al%20(Copy).png" group-title="Albánia",Film Aksion FHD AL
+http://45.139.122.199/Helmut/Helmut/9300
+#EXTINF:-1 tvg-id="filmautor.al" tvg-name="Film Autor HD AL" tvg-logo="https://logo.m3uassets.com/filmautor.png" group-title="Albánia",Film Autor HD AL
+http://45.139.122.199/Helmut/Helmut/9298
+#EXTINF:-1 tvg-id="filmdrame.al" tvg-name="Film Dramë HD AL" tvg-logo="https://logo.m3uassets.com/filmdram.png" group-title="Albánia",Film Dramë HD AL
+http://45.139.122.199/Helmut/Helmut/9297
+#EXTINF:-1 tvg-id="filmdy.al" tvg-name="Film Dy FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Dy%20FHD%20AL%20(Copy).png" group-title="Albánia",Film Dy FHD AL
+http://45.139.122.199/Helmut/Helmut/35821
+#EXTINF:-1 tvg-id="filmhits.al" tvg-name="Film Hits AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Hits%20AL%20(Copy).png" group-title="Albánia",Film Hits AL
+http://45.139.122.199/Helmut/Helmut/102639
+#EXTINF:-1 tvg-id="filmhits.al" tvg-name="Film Hits FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Hits%20AL%20(Copy).png" group-title="Albánia",Film Hits FHD AL
+http://45.139.122.199/Helmut/Helmut/9303
+#EXTINF:-1 tvg-id="filmkomedi.al" tvg-name="Film Komedi HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/comedy%20(Copy).png" group-title="Albánia",Film Komedi HD AL
+http://45.139.122.199/Helmut/Helmut/102640
+#EXTINF:-1 tvg-id="filmnje.al" tvg-name="Film Nje FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Nje%20FHD%20AL%20(Copy).png" group-title="Albánia",Film Nje FHD AL
+http://45.139.122.199/Helmut/Helmut/35822
+#EXTINF:-1 tvg-id="filmnje.al" tvg-name="Film Nje HD" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Nje%20HD.png" group-title="Albánia",Film Nje HD
+http://45.139.122.199/Helmut/Helmut/102641
+#EXTINF:-1 tvg-id="" tvg-name="Film Stinet HD AL" tvg-logo="" group-title="Albánia",Film Stinet HD AL
+http://45.139.122.199/Helmut/Helmut/2164536
+#EXTINF:-1 tvg-id="filmthriller.al" tvg-name="Film Thriller HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Film%20Thriller%20AL%20(Copy).png" group-title="Albánia",Film Thriller HD AL
+http://45.139.122.199/Helmut/Helmut/9299
+#EXTINF:-1 tvg-id="firstchannel.al" tvg-name="First Channel AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/First%20Channel%20AL%20(Copy).png" group-title="Albánia",First Channel AL
+http://45.139.122.199/Helmut/Helmut/19560
+#EXTINF:-1 tvg-id="" tvg-name="Folk + FHD AL" tvg-logo="https://logo.m3uassets.com/folk.png" group-title="Albánia",Folk + FHD AL
+http://45.139.122.199/Helmut/Helmut/9061
+#EXTINF:-1 tvg-id="" tvg-name="Folk + HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/folk-plus-al.png" group-title="Albánia",Folk + HD AL
+http://45.139.122.199/Helmut/Helmut/102645
+#EXTINF:-1 tvg-id="foxcrime.al" tvg-name="Fox Crime AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20Crime%20AL%20(Copy).png" group-title="Albánia",Fox Crime AL
+http://45.139.122.199/Helmut/Helmut/9284
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="Fox Life AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/fox%20life%20(Copy).png" group-title="Albánia",Fox Life AL
+http://45.139.122.199/Helmut/Helmut/102648
+#EXTINF:-1 tvg-id="foxlife.al" tvg-name="Fox Life HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/fox%20life%20(Copy).png" group-title="Albánia",Fox Life HD AL
+http://45.139.122.199/Helmut/Helmut/9285
+#EXTINF:-1 tvg-id="fox.al" tvg-name="Fox Movies AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20Movies%20AL%20(1)%20(Copy).png" group-title="Albánia",Fox Movies AL
+http://45.139.122.199/Helmut/Helmut/9286
+#EXTINF:-1 tvg-id="fox.al" tvg-name="Fox TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20TV%20HD%20AL%20(Copy).png" group-title="Albánia",Fox TV AL
+http://45.139.122.199/Helmut/Helmut/102647
+#EXTINF:-1 tvg-id="fox.al" tvg-name="Fox TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Fox%20TV%20HD%20AL%20(Copy).png" group-title="Albánia",Fox TV HD AL
+http://45.139.122.199/Helmut/Helmut/102649
+#EXTINF:-1 tvg-id="" tvg-name="GEO HD AL" tvg-logo="" group-title="Albánia",GEO HD AL
+http://45.139.122.199/Helmut/Helmut/2164546
+#EXTINF:-1 tvg-id="" tvg-name="Gold HD AL" tvg-logo="" group-title="Albánia",Gold HD AL
+http://45.139.122.199/Helmut/Helmut/2164534
+#EXTINF:-1 tvg-id="" tvg-name="Hindi 1 FHD AL" tvg-logo="" group-title="Albánia",Hindi 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164522
+#EXTINF:-1 tvg-id="" tvg-name="Hindi 2 FHD AL" tvg-logo="" group-title="Albánia",Hindi 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164523
+#EXTINF:-1 tvg-id="" tvg-name="Humor FHD AL" tvg-logo="" group-title="Albánia",Humor FHD AL
+http://45.139.122.199/Helmut/Helmut/2164519
+#EXTINF:-1 tvg-id="" tvg-name="Islam FHD AL" tvg-logo="" group-title="Albánia",Islam FHD AL
+http://45.139.122.199/Helmut/Helmut/2164532
+#EXTINF:-1 tvg-id="jolly.al" tvg-name="Jolly AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/jolly%20(Copy).png" group-title="Albánia",Jolly AL
+http://45.139.122.199/Helmut/Helmut/102655
+#EXTINF:-1 tvg-id="jolly.al" tvg-name="Jolly FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/jolly%20(Copy).png" group-title="Albánia",Jolly FHD AL
+http://45.139.122.199/Helmut/Helmut/35818
+#EXTINF:-1 tvg-id="juniortv.al" tvg-name="Junior TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Junior%20TV%20HD%20AL%20(Copy).png" group-title="Albánia",Junior TV HD AL
+http://45.139.122.199/Helmut/Helmut/19778
+#EXTINF:-1 tvg-id="" tvg-name="Kafeneja Jone FHD AL" tvg-logo="" group-title="Albánia",Kafeneja Jone FHD AL
+http://45.139.122.199/Helmut/Helmut/2164531
+#EXTINF:-1 tvg-id="kanalddrama.al" tvg-name="Kanal D Drama FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Kanal%20D%20Drama%20FHD%20AL%20(Copy).png" group-title="Albánia",Kanal D Drama FHD AL
+http://45.139.122.199/Helmut/Helmut/209685
+#EXTINF:-1 tvg-id="kanal10.al" tvg-name="Kanal 10 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/kanal_10_se%20(Copy).png" group-title="Albánia",Kanal 10 FHD AL
+http://45.139.122.199/Helmut/Helmut/85896
+#EXTINF:-1 tvg-id="klankosova.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klan-kosova-al.png" group-title="Albánia",Klan Kosova FHD AL
+http://45.139.122.199/Helmut/Helmut/11091
+#EXTINF:-1 tvg-id="" tvg-name="Klan Macedonia AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klan-macedonia-al.png" group-title="Albánia",Klan Macedonia AL
+http://45.139.122.199/Helmut/Helmut/40679
+#EXTINF:-1 tvg-id="" tvg-name="Klan Macedonia HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klan-macedonia-al.png" group-title="Albánia",Klan Macedonia HD AL
+http://45.139.122.199/Helmut/Helmut/102659
+#EXTINF:-1 tvg-id="klanplus.al" tvg-name="Klan Plus AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klanplus-al.png" group-title="Albánia",Klan Plus AL
+http://45.139.122.199/Helmut/Helmut/102662
+#EXTINF:-1 tvg-id="klanplus.al" tvg-name="Klan Plus FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/klanplus-al.png" group-title="Albánia",Klan Plus FHD AL
+http://45.139.122.199/Helmut/Helmut/11084
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="Klan TV AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/tv-klan-al.png" group-title="Albánia",Klan TV AL
+http://45.139.122.199/Helmut/Helmut/34433
+#EXTINF:-1 tvg-id="klantv.al" tvg-name="Klan TV FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/tv-klan-al.png" group-title="Albánia",Klan TV FHD AL
+http://45.139.122.199/Helmut/Helmut/11085
+#EXTINF:-1 tvg-id="" tvg-name="Kopliku FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Kopliku%20FHD%20AL%20(Copy).png" group-title="Albánia",Kopliku FHD AL
+http://45.139.122.199/Helmut/Helmut/102663
+#EXTINF:-1 tvg-id="" tvg-name="KS Filma24 Romance AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/KS%20Filma24%20Romance%20AL%20(Copy).png" group-title="Albánia",KS Filma24 Romance AL
+http://45.139.122.199/Helmut/Helmut/141712
+#EXTINF:-1 tvg-id="ktv.al" tvg-name="KTV FHD AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/KTVHD.png" group-title="Albánia",KTV FHD AL
+http://45.139.122.199/Helmut/Helmut/35835
+#EXTINF:-1 tvg-id="living.al" tvg-name="Living FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Living%20FHD%20AL%20(Copy).png" group-title="Albánia",Living FHD AL
+http://45.139.122.199/Helmut/Helmut/19580
+#EXTINF:-1 tvg-id="living.al" tvg-name="Living HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/living-tv-logo%20(1)%20(Copy).png" group-title="Albánia",Living HD AL
+http://45.139.122.199/Helmut/Helmut/102664
+#EXTINF:-1 tvg-id="" tvg-name="Max HD AL" tvg-logo="" group-title="Albánia",Max HD AL
+http://45.139.122.199/Helmut/Helmut/2164535
+#EXTINF:-1 tvg-id="" tvg-name="Meka TV AL" tvg-logo="" group-title="Albánia",Meka TV AL
+http://45.139.122.199/Helmut/Helmut/2164543
+#EXTINF:-1 tvg-id="" tvg-name="Mekke Live HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Mekke%20Live%20HD%20AL.png" group-title="Albánia",Mekke Live HD AL
+http://45.139.122.199/Helmut/Helmut/19581
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova HD AL" tvg-logo="" group-title="Albánia",MTV Kosova HD AL
+http://45.139.122.199/Helmut/Helmut/2164542
+#EXTINF:-1 tvg-id="muse.al" tvg-name="Muse AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Muse%20AL%20(Copy).png" group-title="Albánia",Muse AL
+http://45.139.122.199/Helmut/Helmut/9309
+#EXTINF:-1 tvg-id="mymusic.al" tvg-name="My Music AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Music%20AL%20(Copy).png" group-title="Albánia",My Music AL
+http://45.139.122.199/Helmut/Helmut/9071
+#EXTINF:-1 tvg-id="mymusic.al" tvg-name="My Music HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/My%20Music%20HD%20AL%20(Copy).png" group-title="Albánia",My Music HD AL
+http://45.139.122.199/Helmut/Helmut/102670
+#EXTINF:-1 tvg-id="" tvg-name="National Geo Wild HD AL" tvg-logo="" group-title="Albánia",National Geo Wild HD AL
+http://45.139.122.199/Helmut/Helmut/2164544
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/natgeo%20(Copy).png" group-title="Albánia",National Geographic FHD AL
+http://45.139.122.199/Helmut/Helmut/49005
+#EXTINF:-1 tvg-id="" tvg-name="News 24 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/news24-al.png" group-title="Albánia",News 24 AL
+http://45.139.122.199/Helmut/Helmut/19583
+#EXTINF:-1 tvg-id="" tvg-name="News 24 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/news24-al.png" group-title="Albánia",News 24 FHD AL
+http://45.139.122.199/Helmut/Helmut/35816
+#EXTINF:-1 tvg-id="" tvg-name="Opinioni AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/opinion%20(Copy).png" group-title="Albánia",Opinioni AL
+http://45.139.122.199/Helmut/Helmut/51304
+#EXTINF:-1 tvg-id="" tvg-name="Ora News FHD AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/ORANEWS.png" group-title="Albánia",Ora News FHD AL
+http://45.139.122.199/Helmut/Helmut/35815
+#EXTINF:-1 tvg-id="peacetv.al" tvg-name="Peace TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Peace%20TV%20AL%20(1)%20(Copy).png" group-title="Albánia",Peace TV HD AL
+http://45.139.122.199/Helmut/Helmut/19562
+#EXTINF:-1 tvg-id="" tvg-name="Premium 1 FHD AL" tvg-logo="" group-title="Albánia",Premium 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164524
+#EXTINF:-1 tvg-id="" tvg-name="Premium 2 FHD AL" tvg-logo="" group-title="Albánia",Premium 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164525
+#EXTINF:-1 tvg-id="" tvg-name="Premium 3 FHD AL" tvg-logo="" group-title="Albánia",Premium 3 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164526
+#EXTINF:-1 tvg-id="" tvg-name="Premium 4 FHD AL" tvg-logo="" group-title="Albánia",Premium 4 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164527
+#EXTINF:-1 tvg-id="" tvg-name="Premium 5 FHD AL" tvg-logo="" group-title="Albánia",Premium 5 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164528
+#EXTINF:-1 tvg-id="" tvg-name="Report TV AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/report-tv-hd-al.png" group-title="Albánia",Report TV AL
+http://45.139.122.199/Helmut/Helmut/19589
+#EXTINF:-1 tvg-id="" tvg-name="Report TV HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/report-tv-hd-al.png" group-title="Albánia",Report TV HD AL
+http://45.139.122.199/Helmut/Helmut/102690
+#EXTINF:-1 tvg-id="rtk1.al" tvg-name="RTK 1 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%201%20FHD%20AL%20(Copy).png" group-title="Albánia",RTK 1 AL
+http://45.139.122.199/Helmut/Helmut/11102
+#EXTINF:-1 tvg-id="rtk.al" tvg-name="RTK 1 AL [EST]" tvg-logo="https://i.postimg.cc/FsKy1dvc/RTK-1.jpg" group-title="Albánia",RTK 1 AL [EST]
+http://45.139.122.199/Helmut/Helmut/34438
+#EXTINF:-1 tvg-id="rtk1.al" tvg-name="RTK 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%201%20FHD%20AL%20(Copy).png" group-title="Albánia",RTK 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/35836
+#EXTINF:-1 tvg-id="rtk2.al" tvg-name="RTK 2 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%202%20AL%20(Copy).png" group-title="Albánia",RTK 2 AL
+http://45.139.122.199/Helmut/Helmut/11101
+#EXTINF:-1 tvg-id="rtk3.al" tvg-name="RTK 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTK%203%20HD%20AL%20(Copy).png" group-title="Albánia",RTK 3 HD AL
+http://45.139.122.199/Helmut/Helmut/11100
+#EXTINF:-1 tvg-id="rtk4.al" tvg-name="RTK 4 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rkt%204%20(Copy).png" group-title="Albánia",RTK 4 AL
+http://45.139.122.199/Helmut/Helmut/11099
+#EXTINF:-1 tvg-id="rtsh1.al" tvg-name="RTSH 1 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh1-al.png" group-title="Albánia",RTSH 1 AL
+http://45.139.122.199/Helmut/Helmut/102677
+#EXTINF:-1 tvg-id="rtsh1.al" tvg-name="RTSH 1 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh1-al.png" group-title="Albánia",RTSH 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/35825
+#EXTINF:-1 tvg-id="rtsh2.al" tvg-name="RTSH 2 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh2-al.png" group-title="Albánia",RTSH 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/102679
+#EXTINF:-1 tvg-id="rtsh2.al" tvg-name="RTSH 2 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh2-al.png" group-title="Albánia",RTSH 2 HD AL
+http://45.139.122.199/Helmut/Helmut/19591
+#EXTINF:-1 tvg-id="rtsh24.al" tvg-name="RTSH 24 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-24-al.png" group-title="Albánia",RTSH 24 HD AL
+http://45.139.122.199/Helmut/Helmut/102680
+#EXTINF:-1 tvg-id="rtsh3.al" tvg-name="RTSH 3 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh3-al.png" group-title="Albánia",RTSH 3 HD AL
+http://45.139.122.199/Helmut/Helmut/19590
+#EXTINF:-1 tvg-id="rtshfilm.al" tvg-name="RTSH Film HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-film-al.png" group-title="Albánia",RTSH Film HD AL
+http://45.139.122.199/Helmut/Helmut/102681
+#EXTINF:-1 tvg-id="rtshfemijë.al" tvg-name="RTSH Fëmijë AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-femije-al.png" group-title="Albánia",RTSH Fëmijë AL
+http://45.139.122.199/Helmut/Helmut/102682
+#EXTINF:-1 tvg-id="rtshgjirokastra.al" tvg-name="RTSH Gjirokastra AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTSH%20Gjirokastra%20AL%20(Copy).png" group-title="Albánia",RTSH Gjirokastra AL
+http://45.139.122.199/Helmut/Helmut/102683
+#EXTINF:-1 tvg-id="rtshkorça.al" tvg-name="RTSH Korça AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTSH%20Kor%c3%a7a%20AL%20(Copy).png" group-title="Albánia",RTSH Korça AL
+http://45.139.122.199/Helmut/Helmut/102684
+#EXTINF:-1 tvg-id="rtshmuzikë.al" tvg-name="RTSH Muzike AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-muzike-al.png" group-title="Albánia",RTSH Muzike AL
+http://45.139.122.199/Helmut/Helmut/19592
+#EXTINF:-1 tvg-id="rtshmuzikë.al" tvg-name="RTSH Muzike HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-muzike-al.png" group-title="Albánia",RTSH Muzike HD AL
+http://45.139.122.199/Helmut/Helmut/102686
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Plus AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-plus-al.png" group-title="Albánia",RTSH Plus AL
+http://45.139.122.199/Helmut/Helmut/35981
+#EXTINF:-1 tvg-id="rtshshqip.al" tvg-name="RTSH Shqip AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtsh-shqip-al.png" group-title="Albánia",RTSH Shqip AL
+http://45.139.122.199/Helmut/Helmut/33647
+#EXTINF:-1 tvg-id="rtshshqip.al" tvg-name="RTSH Shqip HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtsh-shqip-al.png" group-title="Albánia",RTSH Shqip HD AL
+http://45.139.122.199/Helmut/Helmut/102687
+#EXTINF:-1 tvg-id="" tvg-name="RTV Fontana HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV%20Fontana%20HD%20AL%20(Copy).png" group-title="Albánia",RTV Fontana HD AL
+http://45.139.122.199/Helmut/Helmut/242535
+#EXTINF:-1 tvg-id="" tvg-name="RTV Islam HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV%20Islam%20AL.png" group-title="Albánia",RTV Islam HD AL
+http://45.139.122.199/Helmut/Helmut/19626
+#EXTINF:-1 tvg-id="" tvg-name="RTV Pendimi HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV%20Pendimi%20HD%20AL.png" group-title="Albánia",RTV Pendimi HD AL
+http://45.139.122.199/Helmut/Helmut/34369
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="RTV21 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV21%20AL%20(Copy).png" group-title="Albánia",RTV21 AL
+http://45.139.122.199/Helmut/Helmut/11097
+#EXTINF:-1 tvg-id="rtv21.al" tvg-name="RTV21 AL [EST]" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albánia",RTV21 AL [EST]
+http://45.139.122.199/Helmut/Helmut/34437
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Junior HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albánia",RTV21 Junior HD AL
+http://45.139.122.199/Helmut/Helmut/19575
+#EXTINF:-1 tvg-id="rtv21m.al" tvg-name="RTV21 M AL [EST]" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tv21-logo-white%20(1)%20(Copy).png" group-title="Albánia",RTV21 M AL [EST]
+http://45.139.122.199/Helmut/Helmut/34429
+#EXTINF:-1 tvg-id="rtv21m.al" tvg-name="RTV21 M FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albánia",RTV21 M FHD AL
+http://45.139.122.199/Helmut/Helmut/35829
+#EXTINF:-1 tvg-id="rtv21m.al" tvg-name="RTV21 Maqedonia AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/RTV21%20AL%20(Copy).png" group-title="Albánia",RTV21 Maqedonia AL
+http://45.139.122.199/Helmut/Helmut/11095
+#EXTINF:-1 tvg-id="rtv21m.al" tvg-name="RTV21 Mix AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/mix%2021%20(Copy).png" group-title="Albánia",RTV21 Mix AL
+http://45.139.122.199/Helmut/Helmut/11096
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Mix FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albánia",RTV21 Mix FHD AL
+http://45.139.122.199/Helmut/Helmut/35828
+#EXTINF:-1 tvg-id="rtshplus.al" tvg-name="RTV21 Plus HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albánia",RTV21 Plus HD AL
+http://45.139.122.199/Helmut/Helmut/35834
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Popullore AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albánia",RTV21 Popullore AL
+http://45.139.122.199/Helmut/Helmut/9073
+#EXTINF:-1 tvg-id="" tvg-name="RTV21 Popullore FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/rtv-21%20(Copy).png" group-title="Albánia",RTV21 Popullore FHD AL
+http://45.139.122.199/Helmut/Helmut/35806
+#EXTINF:-1 tvg-id="" tvg-name="Scan TV FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/scan-tv-al.png" group-title="Albánia",Scan TV FHD AL
+http://45.139.122.199/Helmut/Helmut/102691
+#EXTINF:-1 tvg-id="" tvg-name="Shqip FHD AL" tvg-logo="" group-title="Albánia",Shqip FHD AL
+http://45.139.122.199/Helmut/Helmut/2164530
+#EXTINF:-1 tvg-id="" tvg-name="Sky 7 HD AL" tvg-logo="" group-title="Albánia",Sky 7 HD AL
+http://45.139.122.199/Helmut/Helmut/2164508
+#EXTINF:-1 tvg-id="" tvg-name="Sky Aksion HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sky%20Aksion%20AL%20(Copy).png" group-title="Albánia",Sky Aksion HD AL
+http://45.139.122.199/Helmut/Helmut/9251
+#EXTINF:-1 tvg-id="" tvg-name="Sky Dramë AL" tvg-logo="https://laredocordcutters.com/logos/tiv2/digitalbfilmdrame.png" group-title="Albánia",Sky Dramë AL
+http://45.139.122.199/Helmut/Helmut/9248
+#EXTINF:-1 tvg-id="" tvg-name="Sky Komedi HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sky%20Komedi%20AL%20(Copy).png" group-title="Albánia",Sky Komedi HD AL
+http://45.139.122.199/Helmut/Helmut/9249
+#EXTINF:-1 tvg-id="" tvg-name="Sky Max HD AL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max-hd-al.png" group-title="Albánia",Sky Max HD AL
+http://45.139.122.199/Helmut/Helmut/34367
+#EXTINF:-1 tvg-id="" tvg-name="Sky Novela HD AL" tvg-logo="" group-title="Albánia",Sky Novela HD AL
+http://45.139.122.199/Helmut/Helmut/9247
+#EXTINF:-1 tvg-id="" tvg-name="Sky Planet HD AL" tvg-logo="" group-title="Albánia",Sky Planet HD AL
+http://45.139.122.199/Helmut/Helmut/2164509
+#EXTINF:-1 tvg-id="" tvg-name="Sky Shkence AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sky%20Shkence%20AL%20(Copy).png" group-title="Albánia",Sky Shkence AL
+http://45.139.122.199/Helmut/Helmut/19563
+#EXTINF:-1 tvg-id="" tvg-name="Sky Shqip HD AL" tvg-logo="" group-title="Albánia",Sky Shqip HD AL
+http://45.139.122.199/Helmut/Helmut/2164506
+#EXTINF:-1 tvg-id="" tvg-name="Sky Star HD AL" tvg-logo="" group-title="Albánia",Sky Star HD AL
+http://45.139.122.199/Helmut/Helmut/2164507
+#EXTINF:-1 tvg-id="" tvg-name="Sofia TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Sofia%20TV%20AL%20(Copy).png" group-title="Albánia",Sofia TV HD AL
+http://45.139.122.199/Helmut/Helmut/19752
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD AL" tvg-logo="" group-title="Albánia",Star Channel HD AL
+http://45.139.122.199/Helmut/Helmut/102695
+#EXTINF:-1 tvg-id="" tvg-name="Star Crime HD AL" tvg-logo="" group-title="Albánia",Star Crime HD AL
+http://45.139.122.199/Helmut/Helmut/2164538
+#EXTINF:-1 tvg-id="" tvg-name="Star Life HD AL" tvg-logo="" group-title="Albánia",Star Life HD AL
+http://45.139.122.199/Helmut/Helmut/35804
+#EXTINF:-1 tvg-id="stinet.al" tvg-name="Stinet AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Stinet%20AL%20(Copy).png" group-title="Albánia",Stinet AL
+http://45.139.122.199/Helmut/Helmut/49001
+#EXTINF:-1 tvg-id="" tvg-name="Stupcat 24/7 FHD AL" tvg-logo="" group-title="Albánia",Stupcat 24/7 FHD AL
+http://45.139.122.199/Helmut/Helmut/2164515
+#EXTINF:-1 tvg-id="" tvg-name="STV Folk AL" tvg-logo="https://i.postimg.cc/x15dKzfW/STV-folk.png" group-title="Albánia",STV Folk AL
+http://45.139.122.199/Helmut/Helmut/9062
+#EXTINF:-1 tvg-id="" tvg-name="Supersonic TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Supersonic%20TV%20AL%20(Copy).gif" group-title="Albánia",Supersonic TV AL
+http://45.139.122.199/Helmut/Helmut/9068
+#EXTINF:-1 tvg-id="syritv.al" tvg-name="Syri TV AL" tvg-logo="http://logo.protv.cc/picons/logos/alalam.jpg" group-title="Albánia",Syri TV AL
+http://45.139.122.199/Helmut/Helmut/19761
+#EXTINF:-1 tvg-id="t.al" tvg-name="T AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T%20AL%20(Copy).png" group-title="Albánia",T AL
+http://45.139.122.199/Helmut/Helmut/102698
+#EXTINF:-1 tvg-id="t.al" tvg-name="T FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T%20AL%20(Copy).png" group-title="Albánia",T FHD AL
+http://45.139.122.199/Helmut/Helmut/49002
+#EXTINF:-1 tvg-id="t.al" tvg-name="T HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T%20AL%20(Copy).png" group-title="Albánia",T HD AL
+http://45.139.122.199/Helmut/Helmut/19762
+#EXTINF:-1 tvg-id="t7.al" tvg-name="T7 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T7%20FHD%20AL%20(Copy).png" group-title="Albánia",T7 AL
+http://45.139.122.199/Helmut/Helmut/9175
+#EXTINF:-1 tvg-id="t7.al" tvg-name="T7 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/T7%20FHD%20AL%20(Copy).png" group-title="Albánia",T7 FHD AL
+http://45.139.122.199/Helmut/Helmut/35831
+#EXTINF:-1 tvg-id="" tvg-name="TDC FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TDC%20FHD%20AL%20(Copy).png" group-title="Albánia",TDC FHD AL
+http://45.139.122.199/Helmut/Helmut/46113
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%203%20(Copy).png" group-title="Albánia",Tele One 3 HD AL
+http://45.139.122.199/Helmut/Helmut/48286
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 4 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%204%20(Copy).png" group-title="Albánia",Tele One 4 HD AL
+http://45.139.122.199/Helmut/Helmut/48287
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 5 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%205%20(Copy).png" group-title="Albánia",Tele One 5 HD AL
+http://45.139.122.199/Helmut/Helmut/48288
+#EXTINF:-1 tvg-id="" tvg-name="Tele One 6 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tele%206%20(Copy).png" group-title="Albánia",Tele One 6 HD AL
+http://45.139.122.199/Helmut/Helmut/48289
+#EXTINF:-1 tvg-id="tematv.al" tvg-name="Tema TV AL" tvg-logo="http://138.199.27.237:8080/ALBANIA/TEMATVAL.png" group-title="Albánia",Tema TV AL
+http://45.139.122.199/Helmut/Helmut/49000
+#EXTINF:-1 tvg-id="teve1.al" tvg-name="Teve 1 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Teve%201%20AL%20(Copy).png" group-title="Albánia",Teve 1 AL
+http://45.139.122.199/Helmut/Helmut/793949
+#EXTINF:-1 tvg-id="" tvg-name="Thriller FHD AL" tvg-logo="" group-title="Albánia",Thriller FHD AL
+http://45.139.122.199/Helmut/Helmut/2164521
+#EXTINF:-1 tvg-id="tiptv.al" tvg-name="Tip TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tip%20TV%20AL%20(Copy).png" group-title="Albánia",Tip TV HD AL
+http://45.139.122.199/Helmut/Helmut/9340
+#EXTINF:-1 tvg-id="" tvg-name="Tirana TV AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tirana%20TV%20AL.png" group-title="Albánia",Tirana TV AL
+http://45.139.122.199/Helmut/Helmut/19587
+#EXTINF:-1 tvg-id="" tvg-name="TLC AL" tvg-logo="http://tugapt.com/picons/tlcnl.png" group-title="Albánia",TLC AL
+http://45.139.122.199/Helmut/Helmut/102699
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="Top Channel FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/top-channel-al.png" group-title="Albánia",Top Channel FHD AL
+http://45.139.122.199/Helmut/Helmut/11088
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="Top Channel FHD AL [EST]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/top-channel-al.png" group-title="Albánia",Top Channel FHD AL [EST]
+http://45.139.122.199/Helmut/Helmut/34434
+#EXTINF:-1 tvg-id="topchannel.al" tvg-name="Top Channel HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/top-channel-al.png" group-title="Albánia",Top Channel HD AL
+http://45.139.122.199/Helmut/Helmut/102706
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada TV HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Top%20Estrada%20TV%20HD%20AL%20(Copy).png" group-title="Albánia",Top Estrada TV HD AL
+http://45.139.122.199/Helmut/Helmut/9110
+#EXTINF:-1 tvg-id="topnews.al" tvg-name="Top News AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Top%20News%20AL%20(Copy).png" group-title="Albánia",Top News AL
+http://45.139.122.199/Helmut/Helmut/19629
+#EXTINF:-1 tvg-id="topnews.al" tvg-name="Top News HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Top%20News%20HD%20AL%20(Copy).png" group-title="Albánia",Top News HD AL
+http://45.139.122.199/Helmut/Helmut/102707
+#EXTINF:-1 tvg-id="travelchannel.al" tvg-name="Travel Channel HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Travel%20Channel%20HD%20AL%20(Copy).png" group-title="Albánia",Travel Channel HD AL
+http://45.139.122.199/Helmut/Helmut/30516
+#EXTINF:-1 tvg-id="sport3.al" tvg-name="Tring 3+ HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%203+%20HD%20AL%20(Copy).png" group-title="Albánia",Tring 3+ HD AL
+http://45.139.122.199/Helmut/Helmut/19573
+#EXTINF:-1 tvg-id="tringaction.al" tvg-name="Tring Action FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Action%20FHD%20AL%20(Copy).png" group-title="Albánia",Tring Action FHD AL
+http://45.139.122.199/Helmut/Helmut/40735
+#EXTINF:-1 tvg-id="tringcomedy.al" tvg-name="Tring Comedy AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Comedy%20AL%20(Copy).png" group-title="Albánia",Tring Comedy AL
+http://45.139.122.199/Helmut/Helmut/15477
+#EXTINF:-1 tvg-id="tringfantasy.al" tvg-name="Tring Fantasy AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring_fantasy%20(Copy).png" group-title="Albánia",Tring Fantasy AL
+http://45.139.122.199/Helmut/Helmut/15476
+#EXTINF:-1 tvg-id="tringhistory.al" tvg-name="Tring History HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20history%20(Copy).png" group-title="Albánia",Tring History HD AL
+http://45.139.122.199/Helmut/Helmut/15475
+#EXTINF:-1 tvg-id="tringkids.al" tvg-name="Tring Kids HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tringkids%20(Copy).png" group-title="Albánia",Tring Kids HD AL
+http://45.139.122.199/Helmut/Helmut/19766
+#EXTINF:-1 tvg-id="tringlife.al" tvg-name="Tring Life HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring_life%20(Copy).png" group-title="Albánia",Tring Life HD AL
+http://45.139.122.199/Helmut/Helmut/15473
+#EXTINF:-1 tvg-id="tringplanet.al" tvg-name="Tring Planet HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Planet%20AL%20(Copy).png" group-title="Albánia",Tring Planet HD AL
+http://45.139.122.199/Helmut/Helmut/9312
+#EXTINF:-1 tvg-id="" tvg-name="Tring Series HD AL" tvg-logo="https://i.imgur.com/8sP1PVx.png" group-title="Albánia",Tring Series HD AL
+http://45.139.122.199/Helmut/Helmut/102708
+#EXTINF:-1 tvg-id="tringshqip.al" tvg-name="Tring Shqip HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Shqip%20AL%20(Copy).png" group-title="Albánia",Tring Shqip HD AL
+http://45.139.122.199/Helmut/Helmut/15470
+#EXTINF:-1 tvg-id="" tvg-name="Tring Smile HD AL" tvg-logo="" group-title="Albánia",Tring Smile HD AL
+http://45.139.122.199/Helmut/Helmut/2164505
+#EXTINF:-1 tvg-id="tringsuper.al" tvg-name="Tring Super FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Super%20FHD%20AL%20(Copy).png" group-title="Albánia",Tring Super FHD AL
+http://45.139.122.199/Helmut/Helmut/19572
+#EXTINF:-1 tvg-id="tringtring.al" tvg-name="Tring Tring HD AL" tvg-logo="https://i.postimg.cc/J761F2jv/Tring-tring.png" group-title="Albánia",Tring Tring HD AL
+http://45.139.122.199/Helmut/Helmut/102709
+#EXTINF:-1 tvg-id="tringworld.al" tvg-name="Tring World HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20World%20AL%20(Copy).png" group-title="Albánia",Tring World HD AL
+http://45.139.122.199/Helmut/Helmut/9313
+#EXTINF:-1 tvg-id="" tvg-name="Tropoja TV FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tropoja%20TV%20FHD%20AL.png" group-title="Albánia",Tropoja TV FHD AL
+http://45.139.122.199/Helmut/Helmut/11093
+#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Turbo%20Channel%20AL%20(Copy).png" group-title="Albánia",Turbo Channel HD AL
+http://45.139.122.199/Helmut/Helmut/19765
+#EXTINF:-1 tvg-id="" tvg-name="TV Koha AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Koha%20AL%20(Copy).png" group-title="Albánia",TV Koha AL
+http://45.139.122.199/Helmut/Helmut/19578
+#EXTINF:-1 tvg-id="tvmitrovica.al" tvg-name="TV Mitrovica AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Mitrovica%20AL%20(Copy).png" group-title="Albánia",TV Mitrovica AL
+http://45.139.122.199/Helmut/Helmut/19582
+#EXTINF:-1 tvg-id="" tvg-name="TV Opoja HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Opoja%20HD%20AL%20(Copy).png" group-title="Albánia",TV Opoja HD AL
+http://45.139.122.199/Helmut/Helmut/19574
+#EXTINF:-1 tvg-id="" tvg-name="TV Prizreni HD AL" tvg-logo="https://logo.m3uassets.com/tvprizreni.png" group-title="Albánia",TV Prizreni HD AL
+http://45.139.122.199/Helmut/Helmut/40984
+#EXTINF:-1 tvg-id="" tvg-name="TV Shenja AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TV%20Shenja%20AL%20(Copy).png" group-title="Albánia",TV Shenja AL
+http://45.139.122.199/Helmut/Helmut/34375
+#EXTINF:-1 tvg-id="" tvg-name="TVSH AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/TVSH%20(Copy).png" group-title="Albánia",TVSH AL
+http://45.139.122.199/Helmut/Helmut/51303
+#EXTINF:-1 tvg-id="vizionplus.al" tvg-name="Vizion Plus FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/vizion-plus-al.png" group-title="Albánia",Vizion Plus FHD AL
+http://45.139.122.199/Helmut/Helmut/35832
+#EXTINF:-1 tvg-id="vizionplus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Vizion%20Plus%20FHD%20AL%20(Copy).png" group-title="Albánia",Vizion Plus HD AL
+http://45.139.122.199/Helmut/Helmut/11090
+#EXTINF:-1 tvg-id="" tvg-name="VOXup AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/VOXup%20AL%20(Copy).png" group-title="Albánia",VOXup AL
+http://45.139.122.199/Helmut/Helmut/102712
+#EXTINF:-1 tvg-id="" tvg-name="WebStar Aksion HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/webstar%20aksion%20(Copy).png" group-title="Albánia",WebStar Aksion HD AL
+http://45.139.122.199/Helmut/Helmut/141668
+#EXTINF:-1 tvg-id="" tvg-name="Western FHD AL" tvg-logo="" group-title="Albánia",Western FHD AL
+http://45.139.122.199/Helmut/Helmut/2164520
+#EXTINF:-1 tvg-id="" tvg-name="X Family HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Family%20HD%20AL%20(Copy).png" group-title="Albánia",X Family HD AL
+http://45.139.122.199/Helmut/Helmut/31547
+#EXTINF:-1 tvg-id="" tvg-name="X Humor HD AL" tvg-logo="https://logo.m3uassets.com/xhumor.png" group-title="Albánia",X Humor HD AL
+http://45.139.122.199/Helmut/Helmut/31545
+#EXTINF:-1 tvg-id="" tvg-name="X Natyra HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Natyra%20HD%20AL%20(Copy).png" group-title="Albánia",X Natyra HD AL
+http://45.139.122.199/Helmut/Helmut/31543
+#EXTINF:-1 tvg-id="" tvg-name="X Romance HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Romance%20HD%20AL%20(Copy).png" group-title="Albánia",X Romance HD AL
+http://45.139.122.199/Helmut/Helmut/31537
+#EXTINF:-1 tvg-id="" tvg-name="X Western HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/X%20Western%20HD%20AL%20(Copy).png" group-title="Albánia",X Western HD AL
+http://45.139.122.199/Helmut/Helmut/31533
+#EXTINF:-1 tvg-id="zicotv.al" tvg-name="Zico TV FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Zico%20TV%20FHD%20AL%20(Copy).png" group-title="Albánia",Zico TV FHD AL
+http://45.139.122.199/Helmut/Helmut/9084
+#EXTINF:-1 tvg-id="" tvg-name="Zjarr TV FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Zjarr%20TV%20FHD%20AL%20(Copy).png" group-title="Albánia",Zjarr TV FHD AL
+http://45.139.122.199/Helmut/Helmut/35808
+#EXTINF:-1 tvg-id="cufotv.al" tvg-name="Çufo AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/%c3%87ufo%20HD%20AL%20(Copy).png" group-title="Albánia",Çufo AL
+http://45.139.122.199/Helmut/Helmut/9353
+#EXTINF:-1 tvg-id="cufotv.al" tvg-name="Çufo HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/%c3%87ufo%20HD%20AL%20(Copy).png" group-title="Albánia",Çufo HD AL
+http://45.139.122.199/Helmut/Helmut/102626
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Sport%201%20FHD%20AL%20(Copy).png" group-title="Albánia",Art Sport 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/120381
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://i.pinimg.com/originals/0c/4c/ce/0c4cce090968740942de1de4e0bd0a93.png" group-title="Albánia",Art Sport 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/1417227
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Sport%203%20FHD%20AL%20(Copy).png" group-title="Albánia",Art Sport 3 FHD AL
+http://45.139.122.199/Helmut/Helmut/29992
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Art%20Sport%204%20FHD%20AL%20(Copy).png" group-title="Albánia",Art Sport 4 FHD AL
+http://45.139.122.199/Helmut/Helmut/534988
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD AL" tvg-logo="https://i.postimg.cc/9QGNGpzW/ART_Sport_5.png" group-title="Albánia",Art Sport 5 FHD AL
+http://45.139.122.199/Helmut/Helmut/534989
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/artSport.png" group-title="Albánia",Art Sport 6 FHD AL
+http://45.139.122.199/Helmut/Helmut/1417220
+#EXTINF:-1 tvg-id="eurosport.al" tvg-name="Eurosport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/EUROSPORT-1%20(Copy).png" group-title="Albánia",Eurosport 1 HD AL
+http://45.139.122.199/Helmut/Helmut/35800
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Eurosport%202%20AL%20(Copy).png" group-title="Albánia",EuroSport 2 HD AL
+http://45.139.122.199/Helmut/Helmut/102631
+#EXTINF:-1 tvg-id="ksport1.al" tvg-name="K Sport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/k-sport-1-kosovo%20(Copy).png" group-title="Albánia",K Sport 1 HD AL
+http://45.139.122.199/Helmut/Helmut/534991
+#EXTINF:-1 tvg-id="ksport2.al" tvg-name="K Sport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/k%20sport%202%20(Copy).png" group-title="Albánia",K Sport 2 HD AL
+http://45.139.122.199/Helmut/Helmut/534992
+#EXTINF:-1 tvg-id="ksport3.al" tvg-name="K Sport 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/K%20Sport%203%20HD%20AL%20(Copy).png" group-title="Albánia",K Sport 3 HD AL
+http://45.139.122.199/Helmut/Helmut/534993
+#EXTINF:-1 tvg-id="ksport4.al" tvg-name="K Sport 4 HD AL" tvg-logo="https://i.postimg.cc/hv04w0ZZ/Kujtesa-Sport.jpg" group-title="Albánia",K Sport 4 HD AL
+http://45.139.122.199/Helmut/Helmut/534994
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/kujtesa-1%20(Copy).png" group-title="Albánia",Kujtesa Sport 1 HD AL
+http://45.139.122.199/Helmut/Helmut/19595
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/kutja%20sort%20(Copy).png" group-title="Albánia",Kujtesa Sport 2 HD AL
+http://45.139.122.199/Helmut/Helmut/19596
+#EXTINF:-1 tvg-id="" tvg-name="Kujtesa Sport 3 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Kujtesa%20Sport%203%20HD%20AL%20(Copy).png" group-title="Albánia",Kujtesa Sport 3 HD AL
+http://45.139.122.199/Helmut/Helmut/34368
+#EXTINF:-1 tvg-id="k-sport4.al" tvg-name="Kujtesa Sport 4 HD AL" tvg-logo="https://i.postimg.cc/hv04w0ZZ/Kujtesa-Sport.jpg" group-title="Albánia",Kujtesa Sport 4 HD AL
+http://45.139.122.199/Helmut/Helmut/19598
+#EXTINF:-1 tvg-id="rtshsport.al" tvg-name="RTSH Sport AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-sport-al.png" group-title="Albánia",RTSH Sport AL
+http://45.139.122.199/Helmut/Helmut/102688
+#EXTINF:-1 tvg-id="rtshsport.al" tvg-name="RTSH Sport FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/rtsh-sport-al.png" group-title="Albánia",RTSH Sport FHD AL
+http://45.139.122.199/Helmut/Helmut/19593
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1 HD AL" tvg-logo="" group-title="Albánia",Sport 1 HD AL
+http://45.139.122.199/Helmut/Helmut/2164549
+#EXTINF:-1 tvg-id="" tvg-name="Sport 2 HD AL" tvg-logo="" group-title="Albánia",Sport 2 HD AL
+http://45.139.122.199/Helmut/Helmut/2164548
+#EXTINF:-1 tvg-id="" tvg-name="Sport 3 HD AL" tvg-logo="" group-title="Albánia",Sport 3 HD AL
+http://45.139.122.199/Helmut/Helmut/2164547
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="Super Sport 2 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albánia",Super Sport 2 AL
+http://45.139.122.199/Helmut/Helmut/102737
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="Super Sport 2 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albánia",Super Sport 2 FHD AL [Multi-Audio]
+http://45.139.122.199/Helmut/Helmut/29422
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="Super Sport 2 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-2-al.png" group-title="Albánia",Super Sport 2 HD AL
+http://45.139.122.199/Helmut/Helmut/15463
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="Super Sport 3 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-3-al.png" group-title="Albánia",Super Sport 3 AL
+http://45.139.122.199/Helmut/Helmut/102738
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="Super Sport 3 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-3-al.png" group-title="Albánia",Super Sport 3 FHD AL [Multi-Audio]
+http://45.139.122.199/Helmut/Helmut/29421
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="Super Sport 3 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-3-al.png" group-title="Albánia",Super Sport 3 HD AL
+http://45.139.122.199/Helmut/Helmut/15462
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="Super Sport 4 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-4-al.png" group-title="Albánia",Super Sport 4 AL
+http://45.139.122.199/Helmut/Helmut/102739
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="Super Sport 4 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-4-al.png" group-title="Albánia",Super Sport 4 FHD AL [Multi-Audio]
+http://45.139.122.199/Helmut/Helmut/29420
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="Super Sport 4 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-4-al.png" group-title="Albánia",Super Sport 4 HD AL
+http://45.139.122.199/Helmut/Helmut/15461
+#EXTINF:-1 tvg-id="sport5.al" tvg-name="Super Sport 5 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-5-al.png" group-title="Albánia",Super Sport 5 AL
+http://45.139.122.199/Helmut/Helmut/102740
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="Super Sport 5 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-5-al.png" group-title="Albánia",Super Sport 5 FHD AL [Multi-Audio]
+http://45.139.122.199/Helmut/Helmut/29419
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="Super Sport 5 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-5-al.png" group-title="Albánia",Super Sport 5 HD AL
+http://45.139.122.199/Helmut/Helmut/15460
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="Super Sport 6 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-6-al.png" group-title="Albánia",Super Sport 6 AL
+http://45.139.122.199/Helmut/Helmut/102741
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="Super Sport 6 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-6-al.png" group-title="Albánia",Super Sport 6 FHD AL [Multi-Audio]
+http://45.139.122.199/Helmut/Helmut/29418
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="Super Sport 6 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-6-al.png" group-title="Albánia",Super Sport 6 HD AL
+http://45.139.122.199/Helmut/Helmut/102611
+#EXTINF:-1 tvg-id="supersport7.al" tvg-name="Super Sport 7 AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-7-al.png" group-title="Albánia",Super Sport 7 AL
+http://45.139.122.199/Helmut/Helmut/102742
+#EXTINF:-1 tvg-id="supersport7.al" tvg-name="Super Sport 7 FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-7-al.png" group-title="Albánia",Super Sport 7 FHD AL [Multi-Audio]
+http://45.139.122.199/Helmut/Helmut/49033
+#EXTINF:-1 tvg-id="supersportkosova1.al" tvg-name="Super Sport Kosova 1 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-1-al.png" group-title="Albánia",Super Sport Kosova 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/29416
+#EXTINF:-1 tvg-id="supersportkosova1.al" tvg-name="Super Sport Kosova 1 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-1-al.png" group-title="Albánia",Super Sport Kosova 1 HD AL
+http://45.139.122.199/Helmut/Helmut/15459
+#EXTINF:-1 tvg-id="supersportkosova2.al" tvg-name="Super Sport Kosova 2 FHD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-2-al.png" group-title="Albánia",Super Sport Kosova 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/29415
+#EXTINF:-1 tvg-id="supersportkosova2.al" tvg-name="Super Sport Kosova 2 HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-kosova-2-al.png" group-title="Albánia",Super Sport Kosova 2 HD AL
+http://45.139.122.199/Helmut/Helmut/15458
+#EXTINF:-1 tvg-id="supersportnews.al" tvg-name="Super Sport News AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-1-al.png" group-title="Albánia",Super Sport News AL
+http://45.139.122.199/Helmut/Helmut/102736
+#EXTINF:-1 tvg-id="supersport1.al" tvg-name="Super Sport News FHD AL [Multi-Audio]" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-1-al.png" group-title="Albánia",Super Sport News FHD AL [Multi-Audio]
+http://45.139.122.199/Helmut/Helmut/29423
+#EXTINF:-1 tvg-id="supersportnews.al" tvg-name="Super Sport News HD AL" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/albania/supersport-1-al.png" group-title="Albánia",Super Sport News HD AL
+http://45.139.122.199/Helmut/Helmut/15464
+#EXTINF:-1 tvg-id="arenasport2.al" tvg-name="Tring Sport 1 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%201%20FHD%20AL%20(Copy).png" group-title="Albánia",Tring Sport 1 HD AL
+http://45.139.122.199/Helmut/Helmut/15469
+#EXTINF:-1 tvg-id="tringsport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%201%20FHD%20AL%20(Copy).png" group-title="Albánia",Tring Sport 1 FHD AL
+http://45.139.122.199/Helmut/Helmut/29413
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="Tring Sport 2 AL" tvg-logo="https://i.postimg.cc/P5jz1f1t/Tring-al-sport-2.png" group-title="Albánia",Tring Sport 2 AL
+http://45.139.122.199/Helmut/Helmut/102701
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="Tring Sport 2 HD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%202%20FHD%20AL%20(Copy).png" group-title="Albánia",Tring Sport 2 HD AL
+http://45.139.122.199/Helmut/Helmut/15468
+#EXTINF:-1 tvg-id="tringsport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%202%20FHD%20AL%20(Copy).png" group-title="Albánia",Tring Sport 2 FHD AL
+http://45.139.122.199/Helmut/Helmut/29412
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="Tring Sport 3 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20sport%203%20(Copy).png" group-title="Albánia",Tring Sport 3 AL
+http://45.139.122.199/Helmut/Helmut/102702
+#EXTINF:-1 tvg-id="tringsport3.al" tvg-name="Tring Sport 3 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20sport%203%20(Copy).png" group-title="Albánia",Tring Sport 3 FHD AL
+http://45.139.122.199/Helmut/Helmut/15467
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="Tring Sport 4 AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/tring%20sport%204%20(Copy).png" group-title="Albánia",Tring Sport 4 AL
+http://45.139.122.199/Helmut/Helmut/102703
+#EXTINF:-1 tvg-id="tringsport4.al" tvg-name="Tring Sport 4 FHD AL" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/countries/albania/Tring%20Sport%204%20AL%20(Copy).png" group-title="Albánia",Tring Sport 4 FHD AL
+http://45.139.122.199/Helmut/Helmut/15466
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport News HD AL" tvg-logo="http://sltv-icon.cms-s.com/logo/ALBANIA/TRINGSPORTNEWS.png" group-title="Albánia",Tring Sport News HD AL
+http://45.139.122.199/Helmut/Helmut/102700
 
 
 
