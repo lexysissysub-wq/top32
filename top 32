@@ -298,13 +298,206 @@ http://213.163.13.122:1559/udp/239.1.10.51:2000
 #EXTINF:-1 group-title="Magyar",HETI TV
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
+#EXTM3U
+#EXTINF:-1 group-title="Magyarország",ATV HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/169954
+#EXTINF:-1 group-title="Magyarország",Match 4  HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/27779
+#EXTINF:-1 group-title="Magyarország",- Hungary [HU] -
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/16530
+#EXTINF:-1 group-title="Magyarország",Sláger TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/16837
+#EXTINF:-1 group-title="Magyarország",Viasat 3 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13330
+#EXTINF:-1 group-title="Magyarország",Viasat History HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13331
+#EXTINF:-1 group-title="Magyarország",TV Paprika HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13336
+#EXTINF:-1 group-title="Magyarország",Travel Channel HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13342
+#EXTINF:-1 group-title="Magyarország",Story4 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13345
+#EXTINF:-1 group-title="Magyarország",Sport 2 HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13348
+#EXTINF:-1 group-title="Magyarország",Sport 2 CZ
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13347
+#EXTINF:-1 group-title="Magyarország",Sport 1 HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13350
+#EXTINF:-1 group-title="Magyarország",Spektrum HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13352
+#EXTINF:-1 group-title="Magyarország",RTL Ketto HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13357
+#EXTINF:-1 group-title="Magyarország",National Geographic Wild HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13366
+#EXTINF:-1 group-title="Magyarország",National Geographic HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13367
+#EXTINF:-1 group-title="Magyarország",Minimax HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13368
+#EXTINF:-1 group-title="Magyarország",Minimax / C8 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13370
+#EXTINF:-1 group-title="Magyarország",M5 HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13372
+#EXTINF:-1 group-title="Magyarország",m2 / Petőfi TV HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13374
+#EXTINF:-1 group-title="Magyarország",Mozi+ HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13376
+#EXTINF:-1 group-title="Magyarország",JimJam HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13377
+#EXTINF:-1 group-title="Magyarország",History HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13380
+#EXTINF:-1 group-title="Magyarország",HBO FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13384
+#EXTINF:-1 group-title="Magyarország",HBO 2 FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13382
+#EXTINF:-1 group-title="Magyarország",HBO 3 FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72640
+#EXTINF:-1 group-title="Magyarország",The Fishing & Hunting Channel HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13389
+#EXTINF:-1 group-title="Magyarország",FilmBox+ Comedy HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13391
+#EXTINF:-1 group-title="Magyarország",Film+ HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13394
+#EXTINF:-1 group-title="Magyarország",Extreme Sports Channel HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13395
+#EXTINF:-1 group-title="Magyarország",Eurosport 1 FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/142788
+#EXTINF:-1 group-title="Magyarország",Eurosport 1 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23951
+#EXTINF:-1 group-title="Magyarország",Eurosport 2 FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/142791
+#EXTINF:-1 group-title="Magyarország",Duna World HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13399
+#EXTINF:-1 group-title="Magyarország",Disney Channel HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13404
+#EXTINF:-1 group-title="Magyarország",Cool TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13412
+#EXTINF:-1 group-title="Magyarország",Cinemax FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13414
+#EXTINF:-1 group-title="Magyarország",Cartoonito HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13416
+#EXTINF:-1 group-title="Magyarország",AXN White HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13418
+#EXTINF:-1 group-title="Magyarország",AXN HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13420
+#EXTINF:-1 group-title="Magyarország",Auto Motor Sport HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13422
+#EXTINF:-1 group-title="Magyarország",Animal Planet HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13424
+#EXTINF:-1 group-title="Magyarország",AMC HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13425
+#EXTINF:-1 group-title="Magyarország",Da Vinci Learning HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13407
+#EXTINF:-1 group-title="Magyarország",M4 Sport FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/17898
+#EXTINF:-1 group-title="Magyarország",Viasat Film HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/37674
+#EXTINF:-1 group-title="Magyarország",Viasat 2 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/37673
+#EXTINF:-1 group-title="Magyarország",Viasat Explore HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23965
+#EXTINF:-1 group-title="Magyarország",Viasat Nature FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/23966
+#EXTINF:-1 group-title="Magyarország",Super TV 2 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/24915
+#EXTINF:-1 group-title="Magyarország",Cinemax 2 FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/24912
+#EXTINF:-1 group-title="Magyarország",Discovery Channel  HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/24910
+#EXTINF:-1 group-title="Magyarország",Prime HU
+http://tv.raabjoern.xdns.pro:80/d1xe9Pksun918/MzbSZm623/24909
+#EXTINF:-1 group-title="Magyarország",Duna TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/24908
+#EXTINF:-1 group-title="Magyarország",Duna TV FHD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72650
+#EXTINF:-1 group-title="Magyarország",Fem 3 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/24907
+#EXTINF:-1 group-title="Magyarország",Zenebutik HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/25996
+#EXTINF:-1 group-title="Magyarország",Digi Sport 2 HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/27780
+#EXTINF:-1 group-title="Magyarország",M1 HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/27781
+#EXTINF:-1 group-title="Magyarország",TV2 HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/27782
+#EXTINF:-1 group-title="Magyarország",Digi Animal World HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/27783
+#EXTINF:-1 group-title="Magyarország",Film Mania HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/14646
+#EXTINF:-1 group-title="Magyarország",MTV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32813
+#EXTINF:-1 group-title="Magyarország",Nick Jr. HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32814
+#EXTINF:-1 group-title="Magyarország",Jocky TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32819
+#EXTINF:-1 group-title="Magyarország",Hir TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32821
+#EXTINF:-1 group-title="Magyarország",NickToons HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32822
+#EXTINF:-1 group-title="Magyarország",RTL Három HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32824
+#EXTINF:-1 group-title="Magyarország",Spiler TV 2 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32825
+#EXTINF:-1 group-title="Magyarország",Cartoon Network HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32827
+#EXTINF:-1 group-title="Magyarország",TV 2 Comedy HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32828
+#EXTINF:-1 group-title="Magyarország",TV 2 Kids HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32829
+#EXTINF:-1 group-title="Magyarország",TV 2 Séf HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32830
+#EXTINF:-1 group-title="Magyarország",TV 4 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32832
+#EXTINF:-1 group-title="Magyarország",FilmBox Extra HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125861
+#EXTINF:-1 group-title="Magyarország",FilmBox+ Hits HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125862
+#EXTINF:-1 group-title="Magyarország",Spiler TV 1 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/32835
+#EXTINF:-1 group-title="Magyarország",Viasat 6 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/37670
+#EXTINF:-1 group-title="Magyarország",Digi Life HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/37672
+#EXTINF:-1 group-title="Magyarország",HGTV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72190
+#EXTINF:-1 group-title="Magyarország",TLC HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/24906
+#EXTINF:-1 group-title="Magyarország",Izaura TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72679
+#EXTINF:-1 group-title="Magyarország",Muzsika TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72681
+#EXTINF:-1 group-title="Magyarország",Ozone TV HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72682
+#EXTINF:-1 group-title="Magyarország",RTL Gold HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72685
+#EXTINF:-1 group-title="Magyarország",RTL Magyarország HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72686
+#EXTINF:-1 group-title="Magyarország",RTL Ketto HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72687
+#EXTINF:-1 group-title="Magyarország",RTL Három HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125852
+#EXTINF:-1 group-title="Magyarország",RTL HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125860
+#EXTINF:-1 group-title="Magyarország",Sorozat + HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/72688
+#EXTINF:-1 group-title="Magyarország",ID Xtra HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13379
+#EXTINF:-1 group-title="Magyarország",Arena 4 HD HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125851
+#EXTINF:-1 group-title="Magyarország",FilmBox HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125854
+#EXTINF:-1 group-title="Magyarország",BBC Earth HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125867
+#EXTINF:-1 group-title="Magyarország",Film 4 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125881
+#EXTINF:-1 group-title="Magyarország",Galaxy 4 HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/125882
+#EXTINF:-1 group-title="Magyarország",Max 4  HU
+http://tv.raabjoern.xdns.pro/d1xe9Pksun918/MzbSZm623/13371
 
 
 
 
 
-#EXTINF:-1 group-title="Radio",Sunset Sol Radio
-https://hugh.cdn.rumble.cloud/live/k5e12sb4/live-hls/e7o7-cf92/chunklist_i1_DVR.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="Magyar",Izaura
