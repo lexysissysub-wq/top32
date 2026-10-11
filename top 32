@@ -165628,8 +165628,11 @@ http://rtgxnzzw.icelil.com:80/CC4CVLS/51RFWGX/934113
 #EXTINF:-1 group-title="Uruguay",UY - TELE R
 http://rtgxnzzw.icelil.com:80/CC4CVLS/51RFWGX/934114
 
-#EXTINF:-1 group-title="Top retro",Retro sorozatok-Onedin
+#EXTINF:-1 group-title="Top retro",Retro sorozatok-Onedin 1
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_g5uy98wi_0_rl24b2eo_2.mp4/index.m3u8
-
-
-
+#EXTINF:-1 group-title="Top retro",Retro sorozatok-Onedin 2
+https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_so0sqcex_0_kbp9532i_2.mp4/index.m3u8
+#EXTINF:-1 group-title="Top retro",Retro sorozatok-Onedin 3
+https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_9cynytln_0_kd8nxxv0_2.mp4/index.m3u8
+#EXTINF:-1 group-title="Top retro",Retro sorozatok-Onedin 4
+https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_is9zwzzi_0_4ryyrq88_2.mp4/index.m3u8
