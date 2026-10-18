@@ -73132,8 +73132,16 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_r0i1lc
 #EXTINF:-1 group-title="TopMozi 70s",-Osceola
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_ph0sbt64_0_wpd30uyd_2.mp4/index.m3u8
 
+#EXTINF:-1 group-title="TopMozi 70s",Ahová lépek ott fű nem terem
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_ugsk8nul_0_dok82v7b_2.mp4/index.m3u8
+
 #EXTINF:-1 group-title="TopMozi 70s", A rózsaszin párduc visszatér
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_8yelua21_0_rhf7vi39_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi 70s",Buck Rogers és a 25,század
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_94r4ypkj_0_2kc5av48_2.mp4/index.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="TopMozi 90s", Visszavágó
@@ -73225,7 +73233,9 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_7hfhzm
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_2e9gkbpv_0_trnlc9lh_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi Filmek 2026",A Vadon szíve
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_7pfletoj_0_wz6pfsq0_2.mp4/index.m3u8
-#EXTINF:-1 group-title="TopMozi Filmek 2026",Átkozott boszorkák 2
+#EXTINF:-1 group-title="TopMozi Filmek 2026",Verity
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_c701eamc_0_z9pzv0s3_2.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="TopMozi Filmek 2026",Préda
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_a0g1t30p_0_jli5zapt_2.mp4/index.m3u8
