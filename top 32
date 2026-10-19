@@ -73120,7 +73120,14 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_3e27nc
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_cwt1cd3k_0_dcocztkw_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi retro",Retro sorozatok -Onedin 11
 https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_bdtefjwx_0_dmy3kog9_2.mp4/index.m3u8
-
+#EXTINF:-1 group-title="TopMozi retro",Retro sorozatok -Onedin 12
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_r104hr32_0_ss2tphxc_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi retro",Retro sorozatok -Onedin 13
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_m1ef9nn5_0_yypgzh0g_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi retro",Retro sorozatok -Onedin 14
+https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_qk9qv6yt_0_039041zb_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi retro",Retro sorozatok -Onedin 15
+https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_5dpov52y_0_i41f9yp1_2.mp4/index.m3u8
 
 
 #EXTINF:-1 group-title="TopMozi 60s",-A rózsaszin párduc 
@@ -73141,7 +73148,8 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_8yelua
 https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_94r4ypkj_0_2kc5av48_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi 70s",Bosszú az Eiger csúcsán
 https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_q0xa4px3_0_h2cb503t_2.mp4/index.m3u8
-
+#EXTINF:-1 group-title="TopMozi 70s",A Medve sziget akció
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_c62f7se4_0_2se3b96d_2.mp4/index.m3u8
 
 
 #EXTINF:-1 group-title="TopMozi 90s", Visszavágó
@@ -73149,10 +73157,10 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_a0g92y
 
 #EXTINF:-1 group-title="TopMozi 90s",A bárányok hallgatnak
 https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_1ck3u2oj_0_kvbx8vv8_2.mp4/index.m3u8
-
-
-
-
+#EXTINF:-1 group-title="TopMozi 90s",A vér kötelez
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_quvokch6_0_xago0hvl_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi 90s",Vissza a jövőbe 3
+https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/961/0_wf0ouyqq_0_tz4237fa_2.mp4/index.m3u8
 
 
 
@@ -73182,10 +73190,19 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_z33icn
 
 
 
-#EXTINF:-1 group-title="TopMozi 20s",-Osztálytársak
-https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_hpv7wnfo_0_kkmglfjh_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi retro",Retro sorozatok - Forró szél
+https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_41tgf0gn_0_im0xshtm_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi retro",Retro sorozatok - Fekete város
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_tinzca7o_0_mcoveqbe_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi retro",Retro sorozatok- Sandokan
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_aqg69dls_0_mb1zoiys_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi retro",Retro sorozatok Bangkok Hilton
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_di2w87d4_0_f1wd11me_2.mp4/index.m3u8
+
+
+#EXTINF:-1 group-title="TopMozi 20s",-Osztálytársak
+https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_hpv7wnfo_0_kkmglfjh_2.mp4/index.m3u8
+
 #EXTINF:-1 group-title="TopMozi 20s",Idő (Old)
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_5xzfv0n8_0_nzqj61s6_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi 20s",Vonalban vagy
@@ -73202,13 +73219,14 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_ik56v0
 
 #EXTINF:-1 group-title="TopMozi Bollywood Filmek",Durandhar 2
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_3olbas6t_0_0yq0gtzh_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi Bollywood Filmek",Beast
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_nysh6blf_0_dszlpype_2.mp4/index.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="TopMozi Sorozatok 2026",Reacher 4 Évad
-https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_tjz6d4f6_0_rkksmyhx_2.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="TopMozi Magyar Filmek",Szevasz Vera
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_s178y14m_0_8q77joz3_2.mp4/index.m3u8
@@ -73226,8 +73244,7 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_wx09cn
 
 
 
-#EXTINF:-1 group-title="TopMozi Sorozatok 2026",Carrie
-https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_7hfhzml7_0_5zftdiak_2.mp4/index.m3u8
+
 
 #EXTINF:-1 group-title="TopMozi Filmek 2026",Tériszony
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_2e9gkbpv_0_trnlc9lh_2.mp4/index.m3u8
@@ -73235,12 +73252,21 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_2e9gkb
 https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_7pfletoj_0_wz6pfsq0_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi Filmek 2026",Verity
 https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_c701eamc_0_z9pzv0s3_2.mp4/index.m3u8
-
-
 #EXTINF:-1 group-title="TopMozi Filmek 2026",Préda
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_a0g1t30p_0_jli5zapt_2.mp4/index.m3u8
+
+
+
+#EXTINF:-1 group-title="TopMozi Sorozatok 2026",Carrie
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_7hfhzml7_0_5zftdiak_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi Sorozatok 2026",MIA
-https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_pk32k8jx_0_dkk5snll_2.mp4/index.m3u8
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_pto3bny4_0_by8x408v_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi Sorozatok 2026",Reacher 4 Évad
+https://vodcdn.bamboo-cloud.com/pandaHls/11349/content/entry/data/1/960/0_tjz6d4f6_0_rkksmyhx_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi Sorozatok 2026",Mélytengeri rémálom
+https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_nj3nt867_0_btj1nwiy_2.mp4/index.m3u8
+
+
 
 
 
