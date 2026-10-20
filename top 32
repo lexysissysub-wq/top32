@@ -73130,10 +73130,10 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_qk9qv6
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_5dpov52y_0_i41f9yp1_2.mp4/index.m3u8
 
 
-#EXTINF:-1 group-title="TopMozi 60s",-A rózsaszin párduc 
+#EXTINF:-1 group-title="TopMozi 60s",A rózsaszin párduc 
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_r0i1lc3q_0_wnpg7mes_2.mp4/index.m3u8
-
-
+#EXTINF:-1 group-title="TopMozi 60s",Yojimbo
+https://app.bamboo-cloud.com/share/0_cxn587bd?iid=6ad5951f66511b811003bc82
 
 
 #EXTINF:-1 group-title="TopMozi 70s",-Osceola
