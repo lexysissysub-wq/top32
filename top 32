@@ -73130,10 +73130,11 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_qk9qv6
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/961/0_5dpov52y_0_i41f9yp1_2.mp4/index.m3u8
 
 
-#EXTINF:-1 group-title="TopMozi 60s",A rózsaszin párduc 
+#EXTINF:-1 group-title="TopMozi 60s",-A rózsaszin párduc 
 https://vodcdn.bamboo-cloud.com/pandaHls/11353/content/entry/data/1/960/0_r0i1lc3q_0_wnpg7mes_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi 60s",Yojimbo
 https://videocdn.bamboo-cloud.com/p/11358/sp/1135800/playManifest/entryId/0_cxn587bd/format/url/flavorParamId/7/protocol/https/video.mp4
+
 
 
 #EXTINF:-1 group-title="TopMozi 70s",-Osceola
@@ -73150,6 +73151,13 @@ https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_94r4yp
 https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_q0xa4px3_0_h2cb503t_2.mp4/index.m3u8
 #EXTINF:-1 group-title="TopMozi 70s",A Medve sziget akció
 https://vodcdn.bamboo-cloud.com/pandaHls/11356/content/entry/data/1/961/0_c62f7se4_0_2se3b96d_2.mp4/index.m3u8
+#EXTINF:-1 group-title="TopMozi 80s",Halálvágta
+https://videocdn.bamboo-cloud.com/p/11358/sp/1135800/playManifest/entryId/0_s1fis4t2/format/url/flavorParamId/5/protocol/https/video.mp4
+
+
+
+#EXTINF:-1 group-title="TopMozi 80s",1492 A paradicsom meghódítása
+https://storage.bamboo-cloud.com/bamboocloud/11358/content/entry/data/1/961/0_cm57rln0_0_9k5kdstk_2.mp4
 
 
 #EXTINF:-1 group-title="TopMozi 90s", Visszavágó
