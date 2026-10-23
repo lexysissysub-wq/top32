@@ -4,10 +4,8 @@
 
 
 
-#EXTM3U
+#EXTM
 
-
-#EXTINF:-1 group-title="Németország",DE - DAS ERSTE FHD 
 
 #EXTINF:-1 group-title="Németország",DE - DAS ERSTE HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33573.m3u8
@@ -17,8 +15,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138865.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - ARTE 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33571.m3u8
-#EXTINF:-1 group-title="Németország",DE - ARTE FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762821.m3u8
+
 #EXTINF:-1 group-title="Németország",DE - 3 SAT HD 
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33568.m3u8
 #EXTINF:-1 group-title="Németország",DE - ALPHA FHD
@@ -1003,32 +1000,15 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1243036.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1243037.m3u8
 #EXTINF:-1 group-title="Németország",DE - PLEX IMAX HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1243038.m3u8
-#EXTINF:-1 group-title="Németország",DE - PLEX MTV HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1243039.m3u8
-#EXTINF:-1 group-title="Németország",#####  DE - 24/7 GERMANY #####
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/621232.m3u8
-#EXTINF:-1 group-title="Németország",DE - GOLD TV 24/7 | MOVIES 1 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013973.m3u8
-#EXTINF:-1 group-title="Németország",DE - GOLD TV 24/7 | MOVIES 2 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013974.m3u8
-#EXTINF:-1 group-title="Németország",DE - GOLD TV 24/7 | MOVIES 3 FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1013975.m3u8
+
 
 
 #EXTINF:-1 group-title="Németország",DE - WEDO MOVIES FHD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1117890.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - EURONEWS 8K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139028.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - EURONEWS GERMAN FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498400.m3u8
 #EXTINF:-1 group-title="Németország",DE - EURONEWS GERMAN HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33478.m3u8
-#EXTINF:-1 group-title="Németország",DE - EURONEWS DE HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762747.m3u8
-#EXTINF:-1 group-title="Németország",DE - EURONEWS DE SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762748.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - WDR FERNSEHEN MUNSTER 8K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138883.m3u8
@@ -1036,18 +1016,12 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138883.m3u8
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1138884.m3u8
 
 
-#EXTINF:-1 group-title="Németország",DE - NDR FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900783.m3u8
-#EXTINF:-1 group-title="Németország",DE - NDR HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/325537.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - RBB 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139058.m3u8
-#EXTINF:-1 group-title="Németország",DE - RBB BERLIN FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498720.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - BR SUD 8K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139008.m3u8
+
+
 #EXTINF:-1 group-title="Németország",DE - BR 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139059.m3u8
 
@@ -1058,55 +1032,26 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1117886.m3u8
 #EXTINF:-1 group-title="Németország",DE - HR 4K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1140152.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - SR FERNSEHEN 8K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139007.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - MARCO POLO TV 8K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139025.m3u8
-
-#EXTINF:-1 group-title="Németország",DE - BERGBLICK 8K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139015.m3u8
-#EXTINF:-1 group-title="Németország",DE - K-TV 8K
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139026.m3u8
-#EXTINF:-1 group-title="Németország",DE - VTM 8K
+#EXTINF:-1 group-title="Belgium",  VTM 8K
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1139978.m3u8
 
 
-#EXTINF:-1 group-title="Németország",DE - HSE 24 HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33469.m3u8
-#EXTINF:-1 group-title="Németország",DE - HSE 24 SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/779204.m3u8
-#EXTINF:-1 group-title="Németország",DE - HSE 24 EXTRA FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/498792.m3u8
+#
 #EXTINF:-1 group-title="Németország",DE - HSE 24 EXTRA HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33468.m3u8
 
 
 #EXTINF:-1 group-title="Németország",DE - HR-FERNSEHEN HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/325518.m3u8
-#EXTINF:-1 group-title="Németország",DE - DF1 TV FHD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/901061.m3u8
+
 #EXTINF:-1 group-title="Németország",DE - SERVUS TV HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/901093.m3u8
-#EXTINF:-1 group-title="Németország",DE - SERVUS TV SD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/901094.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - QVC2 HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/33470.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - GEOTELEVISION HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/900996.m3u8
 
-#EXTINF:-1 group-title="Németország",DE - HAMBURG 1 SD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1145331.m3u8
-
-#EXTINF:-1 group-title="Németország",DE - NIEDERBAYERN TV HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/325542.m3u8
-
-#EXTINF:-1 group-title="Németország",DE - NTV HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/762743.m3u8
-#EXTINF:-1 group-title="Németország",DE - SONNENKLAR HD
-http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/327179.m3u8
 
 #EXTINF:-1 group-title="Németország",DE - CINEDOME CLASSIC 2 HD
 http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1434377.m3u8
@@ -1290,8 +1235,7 @@ http://vca.easy747.com:80/live/400794643566540/234AC8A2F44F678/1434465.m3u8
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31279/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Németország",1-2-3.tv HD DE
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31280/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Németország",13th Street HD DE
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31281/index.m3u8
+
 #EXTINF:0 tvg-rec="0" group-title="Németország",3sat HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31282/index.m3u8
@@ -1307,9 +1251,7 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31285/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Németország",Anixe+ HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31286/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Németország",ARD Alpha HD DE
-#EXTGRP:Németország
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31287/index.m3u8
+
 #EXTINF:0 tvg-rec="0" group-title="Németország",Arte HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31288/index.m3u8
@@ -1349,18 +1291,14 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31304/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Németország",Curiosity Channel HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31305/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Németország",Das Erste DE
-#EXTGRP:Németország
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31306/index.m3u8
+
 #EXTINF:0 tvg-rec="0" group-title="Németország",Deluxe Music FHD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31307/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Németország",Deutsches Musik Fernsehen HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31308/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Németország",DMAX HD DE
-#EXTGRP:Németország
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31310/index.m3u8
+
 #EXTINF:0 tvg-rec="0" group-title="Németország",eSports ONE HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31311/index.m3u8
@@ -1394,9 +1332,7 @@ http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31323/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Németország",HR HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31324/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Németország",HSE HD DE
-#EXTGRP:Németország
-http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31325/index.m3u8
+
 #EXTINF:0 tvg-rec="0" group-title="Németország",Inplus HD DE
 #EXTGRP:Németország
 http://xocnaufi.otttv.pw/iptv/G8HSPYL2U5KEF6/31326/index.m3u8
