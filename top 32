@@ -7750,9 +7750,6 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
 
 
-#EXTINF:-1 group-title="Portugália",Fox Movies
-http://50.7.120.34:8080/FOX_MOVIES/index.m3u8
-
 
 
 
@@ -14995,6 +14992,69 @@ http://213.163.13.122:1559/udp/239.1.10.51:2000
 #EXTINF:-1 group-title="Magyar",HETI TV
 http://213.163.13.122:1559/udp/239.1.10.54:2000
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Kecskemeti TV (416p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Kecskemeti TV (416p)
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vásárhelyi Televízió (576p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Vásárhelyi Televízió (576p)
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Liceum TV (576p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Liceum TV (576p)
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oroszlányi Városi Televízió (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Oroszlányi Városi Televízió (720p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Komáromi Televízió (400p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Komáromi Televízió (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balaton TV (432p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Balaton TV (432p)
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zalaegerszegi TV (360p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Zalaegerszegi TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Eger (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XV TV (480p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",XV TV (480p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Makói Városi (576p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Makói Városi (576p)
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanizsa TV (400p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Kanizsa TV (400p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oxygen Music (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TelePaks (396p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",TelePaks (396p)
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DTV (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",DTV (720p)
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="16tv Budapest (360p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",16tv Budapest (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIXO TV (360p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Bekescsaba (360p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",TV7 Bekescsaba (360p)
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karcag TV (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Karcag TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Móra-Net TV (576p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Móra-Net TV (576p)
+https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hévízi TV (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Hévízi TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tatai TV (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Tatai TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Budapest Európa Televízió (576p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Budapest Európa Televízió (576p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bajai TV (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Bajai TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apostol TV (576p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Apostol TV (576p)
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ózdi Városi TV (720p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Ózdi Városi TV (720p)
+http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pannon RTV (648p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M5 (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Keszthely (360p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",TV Keszthely (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kecskemeti TV (416p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Kecskemeti TV (416p)
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M2 (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",M2 (1080p)
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alföld TV (1080p)" tvg-logo="https://apkx.xyz/maximpanel-logo.png" group-title="Magyarország",Alföld TV (1080p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 
 
 
